@@ -2,8 +2,11 @@ name: Auto Daily Car News
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # UTC 1点 = 北京时间9点
+    - cron: "0 1 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # ⭐⭐⭐关键修复
 
 jobs:
   build:
