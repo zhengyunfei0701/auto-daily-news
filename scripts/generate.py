@@ -1,3 +1,9 @@
+import os
+
+if not os.path.exists("output/daily_structured.json"):
+    print("❌ structured.json 不存在，跳过生成")
+    exit(0)
+    
 import json
 from datetime import datetime
 
