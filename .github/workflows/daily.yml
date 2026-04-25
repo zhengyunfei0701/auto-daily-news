@@ -1,0 +1,41 @@
+name: Auto Daily Car News
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # UTC 1点 = 北京时间9点
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Fetch news
+        run: python scripts/fetch_news.py
+
+      - name: Generate summary
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/summarize.py
+
+      - name: Generate article
+        run: python scripts/generate.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "daily update" || echo "no changes"
+          git push
