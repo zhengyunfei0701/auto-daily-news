@@ -1,40 +1,45 @@
-import os
+import json
 from datetime import datetime
 
-def build_markdown(ai_text):
+CATEGORIES = {
+    "新能源": "新能源",
+    "智能驾驶": "智能驾驶",
+    "政策法规": "政策法规",
+    "国际车企": "国际车企"
+}
+
+def build_md(data):
     date = datetime.now().strftime("%Y-%m-%d")
 
-    md = f"""
-# 🚗 汽车行业日报 {date}
+    md = f"# 汽车行业日报 {date}\n\n"
 
----
+    for cat, title in CATEGORIES.items():
+        md += f"## {title}\n\n"
 
-{ai_text}
+        items = data.get(cat, [])[:5]
 
----
+        if not items:
+            md += "_暂无数据_\n\n"
+            continue
 
-## 📌 数据来源
-- RSS自动抓取
-- AI自动整理
+        for i, item in enumerate(items, 1):
+            md += f"{i}. **{item['title']}**\n"
+            md += f"   {item['summary']}\n"
+            md += f"   🔗 {item['link']}\n\n"
 
-## ⚠️ 免责声明
-本内容由AI自动生成，仅供参考
-"""
+    md += "\n---\n## 今日总结（AI生成）\n\n"
+    md += "（后续可加趋势总结模块）\n"
 
     return md
 
 
 if __name__ == "__main__":
+    with open("output/daily_structured.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    # 读取AI输出
-    with open("output/daily_raw.txt", "r", encoding="utf-8") as f:
-        ai_text = f.read()
-
-    md = build_markdown(ai_text)
-
-    os.makedirs("output", exist_ok=True)
+    md = build_md(data)
 
     with open("output/daily_final.md", "w", encoding="utf-8") as f:
         f.write(md)
 
-    print("公众号文章生成完成")
+    print("Markdown生成完成")
