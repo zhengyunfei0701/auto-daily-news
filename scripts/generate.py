@@ -5,7 +5,8 @@ CATEGORIES = {
     "新能源": "新能源",
     "智能驾驶": "智能驾驶",
     "政策法规": "政策法规",
-    "国际车企": "国际车企"
+    "国际车企": "国际车企",
+    "trends": ["...", "...", "..."]
 }
 
 def build_md(data):
@@ -25,7 +26,7 @@ def build_md(data):
         for i, item in enumerate(items, 1):
             md += f"{i}. **{item['title']}**\n"
             md += f"   {item['summary']}\n"
-            md += f"   🔗 {item['link']}\n\n"
+            md += f"    {item['link']}\n\n"
 
     md += "\n---\n## 今日总结（AI生成）\n\n"
     md += "（后续可加趋势总结模块）\n"
