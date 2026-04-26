@@ -2,64 +2,64 @@
 
 ## 今日核心趋势
 
-1. 全球电动汽车市场竞争加剧，车企通过调整定价策略和优化充电服务来争夺市场份额。
-2. 主要国际车企正深化其电动化战略的区域本土化，尤其是在中国市场，以适应当地消费者偏好和法规，并强化市场竞争力。
-3. 智能驾驶技术的大规模推广面临现有车型硬件兼容性挑战，促使行业探索更高效的软硬件升级路径和生命周期管理方案。
+1. 电动汽车市场竞争加剧，价格战与差异化策略并存
+2. 智能驾驶技术落地面临硬件升级挑战与能源基础设施协同发展
+3. 中国市场成为全球车企战略重心，本土化创新与消费洞察成关键
 
 ---
 ## 新能源
 
-1. **This fleet is going electric, and sharing their real-world results (and savings) online**
-   一支商用车队正转向电动化，并在线公布其运营数据，展示电动车在实际使用中的性能表现和成本节约。
-   https://electrek.co/2026/04/25/this-fleet-is-going-electric-and-sharing-their-real-world-results-and-savings-online/
+1. **特斯拉提供一年免费超级充电，非特斯拉电动车充电费用溢价约40%**
+   特斯拉再次推出一年免费超级充电服务，并声称非特斯拉电动车使用其充电桩的费用将高出约40%。
+   
 
-2. **Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs**
-   特斯拉再次推出一年免费超级充电优惠，并指出非特斯拉电动车使用其充电网络需支付约40%的额外费用，凸显充电成本差异。
-   https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/
+2. **起亚EV6 2026款车型降价5000美元**
+   起亚宣布2026款EV6车型降价5000美元，以提升市场竞争力。
+   
 
-3. **Kia cuts EV6 prices by $5,000 on 2026 models**
-   起亚宣布下调2026款EV6车型的售价5000美元，以应对市场竞争并刺激销量，表明电动汽车市场价格战仍在持续。
-   https://electrek.co/2026/04/24/kia-cuts-ev6-prices-by-5000-2026-models/
+3. **ABB E-mobility新型电动汽车快充技术抑制峰值功率炒作**
+   ABB E-mobility推出新型电动汽车快充技术，旨在优化充电效率并减少对峰值功率的过度依赖。
+   
 
-4. **ABB E-mobility’s new EV fast charger kills peak power hype**
-   ABB E-mobility发布新型电动汽车快速充电器，旨在提供更稳定、高效的充电解决方案，而非盲目追求峰值功率。
-   https://electrek.co/2026/04/24/abb-e-mobilitys-new-ev-fast-charger-kills-peak-power-hype/
+4. **比亚迪将在欧洲推出千匹马力电动敞篷超级跑车**
+   比亚迪即将向欧洲市场推出一款动力超过1000马力的电动敞篷超级跑车。
+   
 
-5. **BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images]**
-   比亚迪正准备在欧洲推出一款搭载超过1000马力的敞篷电动超级跑车，展示其在高端性能电动车市场的雄心和技术实力。
-   https://electrek.co/2026/04/24/byd-denza-z-1000-hp-luxury-drop-top-ev-hypercar-images/
+5. **Rivian R2车型已开始生产，客户交付按计划于今年春季进行**
+   Rivian的R2车型已正式启动生产，预计将于今年春季按计划交付客户。
+   
 
 ## 智能驾驶
 
-1. **Tesla Says It Will Need To Build Micro Factories To Retrofit Old Cars For FSD**
-   特斯拉表示，需要建立小型工厂来为2019至2023年间生产的旧款车型进行硬件升级，以实现完全自动驾驶（FSD）功能，强调FSD对硬件的要求。
-   https://insideevs.com/news/793786/tesla-hw3-retrofit-micro-factories/
+1. **特斯拉表示需建微型工厂为旧车进行FSD改装**
+   特斯拉称2019年至2023年间售出的数百万辆汽车需要进行硬件升级，才能实现完全自动驾驶，为此可能需要建设微型工厂。
+   
+
+2. **新型DroneDog机器人安全警卫投入使用**
+   新型DroneDog机器人安全警卫开始工作，引发对自动化取代人类工作的讨论。
+   
 
 ## 政策法规
 
-1. **New bill in California senate could turn your home battery into a moneymaker**
-   加州参议院的一项新提案（SB 913）旨在允许家庭储能电池用户通过向电网回输电力来获取收益，推动分布式能源和电网平衡。
-   https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/
+1. **加州新法案或使家庭电池成为创收工具**
+   加州参议院新法案913号可能让家庭电池系统通过向电网供电来赚取收益。
+   
 
 ## 国际车企
 
-1. **Tesla Is Killing The Model S. But Its Legacy Is Everywhere**
-   特斯拉即将停产Model S，但该车型对全球汽车工业，特别是推动电动汽车发展和豪华电动车市场格局的深远影响将持续存在。
-   https://insideevs.com/news/794057/tesla-model-s-legacy-video/
+1. **现代Ioniq V外观出色，目标是夺回中国市场份额**
+   现代汽车希望通过其楔形轿车Ioniq V尽快在中国销售50万辆汽车，以重振在该市场的表现。
+   
 
-2. **The Hyundai Ioniq V Looks Great. Its Job Is To Take Back China**
-   现代汽车推出Ioniq V车型，旨在通过这款全新电动轿车提升其在中国市场的竞争力，力求在中国新能源市场扭转局面。
-   https://insideevs.com/news/794010/ioniq-v-china-beijing-baic/
+2. **中国市场的宝马iX3和i3不仅更长，而且更好**
+   宝马针对中国市场推出的Neue Klasse电动车iX3和i3不仅轴距更长，还增加了额外的空间和功能。
+   
 
-3. **China's BMW iX3 And i3 Aren't Just Longer. They're Better**
-   宝马专为中国市场打造的长轴距版iX3和i3电动车，不仅空间更大，还在功能和配置上进行了优化升级，以更好地满足中国消费者的需求。
-   https://insideevs.com/news/793862/bmw-i3-ix3-lwb-china/
+3. **中国消费者如何看待欧美汽车：适合“父母”**
+   中国买家认为欧美品牌汽车更适合“父母”一代，暗示其在年轻消费者中的吸引力下降。
+   
 
-4. **Rivian Has Started R2 Production. Customer Deliveries Are 'On Track' For This Spring**
-   电动皮卡制造商Rivian已启动其更经济型R2车型的生产，并计划在今年春季按时开始客户交付，标志着其市场扩张战略进入新阶段。
-   https://insideevs.com/news/793769/rivian-r2-enters-customer-production/
-
-5. **Car Companies Are Eyeing Affordable New Sedans As Crossovers Become 'Kind Of Boring'**
-   随着消费者对跨界车兴趣减弱，以及成本和燃油经济性法规变化，多家汽车公司正重新关注并布局经济型轿车市场。
-   https://insideevs.com/news/793509/sedans-potential-comeback-emission-regulations/
+4. **汽车公司关注经济型新轿车，因跨界车趋于“无趣”**
+   随着价格上涨和燃油经济性法规变化，汽车公司开始将目光投向经济型轿车，因为跨界车已变得“有些无趣”。
+   
 
