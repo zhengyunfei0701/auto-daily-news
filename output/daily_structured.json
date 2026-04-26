@@ -1,69 +1,75 @@
 {
   "trends": [
-    "电动汽车市场竞争加剧，价格战与技术创新（如快充、续航）成为主流趋势。",
-    "国际车企加速电动化转型并深耕中国市场，推出本地化策略和高端电动车型以提升竞争力。",
-    "智能驾驶技术普及面临硬件升级挑战，车企正探索为现有车型提供FSD硬件升级的解决方案。"
+    "全球电动汽车市场竞争加剧，车企通过调整定价策略和优化充电服务来争夺市场份额。",
+    "主要国际车企正深化其电动化战略的区域本土化，尤其是在中国市场，以适应当地消费者偏好和法规，并强化市场竞争力。",
+    "智能驾驶技术的大规模推广面临现有车型硬件兼容性挑战，促使行业探索更高效的软硬件升级路径和生命周期管理方案。"
   ],
   "新能源": [
     {
+      "title": "This fleet is going electric, and sharing their real-world results (and savings) online",
+      "summary": "一支商用车队正转向电动化，并在线公布其运营数据，展示电动车在实际使用中的性能表现和成本节约。",
+      "link": "https://electrek.co/2026/04/25/this-fleet-is-going-electric-and-sharing-their-real-world-results-and-savings-online/"
+    },
+    {
       "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
-      "summary": "特斯拉推出一年免费超级充电服务，并声称非特斯拉电动车充电费用高出约40%，以吸引用户并凸显其充电网络优势。",
-      "link": ""
+      "summary": "特斯拉再次推出一年免费超级充电优惠，并指出非特斯拉电动车使用其充电网络需支付约40%的额外费用，凸显充电成本差异。",
+      "link": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/"
     },
     {
       "title": "Kia cuts EV6 prices by $5,000 on 2026 models",
-      "summary": "起亚宣布2026款EV6降价5000美元，反映电动汽车市场竞争加剧及价格调整趋势。",
-      "link": ""
+      "summary": "起亚宣布下调2026款EV6车型的售价5000美元，以应对市场竞争并刺激销量，表明电动汽车市场价格战仍在持续。",
+      "link": "https://electrek.co/2026/04/24/kia-cuts-ev6-prices-by-5000-2026-models/"
     },
     {
       "title": "ABB E-mobility’s new EV fast charger kills peak power hype",
-      "summary": "ABB E-mobility推出新型电动汽车快速充电器，更注重实际充电效率和用户体验，而非盲目追求峰值功率。",
-      "link": ""
+      "summary": "ABB E-mobility发布新型电动汽车快速充电器，旨在提供更稳定、高效的充电解决方案，而非盲目追求峰值功率。",
+      "link": "https://electrek.co/2026/04/24/abb-e-mobilitys-new-ev-fast-charger-kills-peak-power-hype/"
     },
     {
-      "title": "BYD upgrades one of its top selling EVs with 5-min flash charging and 390 miles range",
-      "summary": "比亚迪升级其畅销电动车，实现5分钟快充和390英里续航，大幅提升用户体验和市场竞争力。",
-      "link": ""
-    },
-    {
-      "title": "Smart’s Tiny Two-Door EV Is Back",
-      "summary": "Smart微型两门电动车以“Smart #2”之名回归，续航里程显著提升，瞄准城市通勤市场。",
-      "link": ""
+      "title": "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images]",
+      "summary": "比亚迪正准备在欧洲推出一款搭载超过1000马力的敞篷电动超级跑车，展示其在高端性能电动车市场的雄心和技术实力。",
+      "link": "https://electrek.co/2026/04/24/byd-denza-z-1000-hp-luxury-drop-top-ev-hypercar-images/"
     }
   ],
   "智能驾驶": [
     {
       "title": "Tesla Says It Will Need To Build Micro Factories To Retrofit Old Cars For FSD",
-      "summary": "特斯拉表示，为实现完全自动驾驶，需要建造微型工厂为2019至2023年间售出的部分旧款车型进行硬件升级。",
-      "link": ""
+      "summary": "特斯拉表示，需要建立小型工厂来为2019至2023年间生产的旧款车型进行硬件升级，以实现完全自动驾驶（FSD）功能，强调FSD对硬件的要求。",
+      "link": "https://insideevs.com/news/793786/tesla-hw3-retrofit-micro-factories/"
     }
   ],
-  "政策法规": [],
+  "政策法规": [
+    {
+      "title": "New bill in California senate could turn your home battery into a moneymaker",
+      "summary": "加州参议院的一项新提案（SB 913）旨在允许家庭储能电池用户通过向电网回输电力来获取收益，推动分布式能源和电网平衡。",
+      "link": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/"
+    }
+  ],
   "国际车企": [
     {
-      "title": "BYD is about to unleash this 1,000+ hp drop-top electric hypercar in Europe [Images]",
-      "summary": "比亚迪（通过其高端品牌）准备在欧洲市场推出一款超1000马力的电动敞篷超级跑车，标志其进军全球豪华高性能电动车市场。",
-      "link": ""
-    },
-    {
-      "title": "BYD’s luxury off-road brand unveils first electric sedan and a low-slung sports car [Images]",
-      "summary": "比亚迪的豪华越野品牌方程豹发布了首款电动轿车和一款低趴跑车，展现其在高端细分市场的布局。",
-      "link": ""
-    },
-    {
       "title": "Tesla Is Killing The Model S. But Its Legacy Is Everywhere",
-      "summary": "特斯拉Model S将停产，但其作为电动汽车先驱对整个汽车行业，尤其是在技术创新和市场接受度方面，留下了深远影响。",
-      "link": ""
+      "summary": "特斯拉即将停产Model S，但该车型对全球汽车工业，特别是推动电动汽车发展和豪华电动车市场格局的深远影响将持续存在。",
+      "link": "https://insideevs.com/news/794057/tesla-model-s-legacy-video/"
     },
     {
       "title": "The Hyundai Ioniq V Looks Great. Its Job Is To Take Back China",
-      "summary": "现代汽车推出Ioniq V车型，旨在通过其吸引人的设计和性能，在中国市场重新获得竞争优势。",
-      "link": ""
+      "summary": "现代汽车推出Ioniq V车型，旨在通过这款全新电动轿车提升其在中国市场的竞争力，力求在中国新能源市场扭转局面。",
+      "link": "https://insideevs.com/news/794010/ioniq-v-china-beijing-baic/"
     },
     {
       "title": "China's BMW iX3 And i3 Aren't Just Longer. They're Better",
-      "summary": "宝马为中国市场推出的长轴距iX3和i3电动车，不仅提供更大空间，还在功能配置上进行优化，以满足中国消费者的特定需求。",
-      "link": ""
+      "summary": "宝马专为中国市场打造的长轴距版iX3和i3电动车，不仅空间更大，还在功能和配置上进行了优化升级，以更好地满足中国消费者的需求。",
+      "link": "https://insideevs.com/news/793862/bmw-i3-ix3-lwb-china/"
+    },
+    {
+      "title": "Rivian Has Started R2 Production. Customer Deliveries Are 'On Track' For This Spring",
+      "summary": "电动皮卡制造商Rivian已启动其更经济型R2车型的生产，并计划在今年春季按时开始客户交付，标志着其市场扩张战略进入新阶段。",
+      "link": "https://insideevs.com/news/793769/rivian-r2-enters-customer-production/"
+    },
+    {
+      "title": "Car Companies Are Eyeing Affordable New Sedans As Crossovers Become 'Kind Of Boring'",
+      "summary": "随着消费者对跨界车兴趣减弱，以及成本和燃油经济性法规变化，多家汽车公司正重新关注并布局经济型轿车市场。",
+      "link": "https://insideevs.com/news/793509/sedans-potential-comeback-emission-regulations/"
     }
   ]
 }
