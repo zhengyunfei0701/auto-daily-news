@@ -1,75 +1,85 @@
 {
   "trends": [
-    "电动汽车市场竞争加剧，价格战与差异化策略并存",
-    "智能驾驶技术落地面临硬件升级挑战与能源基础设施协同发展",
-    "中国市场成为全球车企战略重心，本土化创新与消费洞察成关键"
+    "电动化加速深入工业与商用领域，成本效益成为关键驱动力。",
+    "智能驾驶技术持续演进，但硬件升级和落地挑战并存，需精细化策略。",
+    "全球电动汽车市场竞争白热化，车企通过价格调整、区域化产品定制及生产加速应对市场变化。"
   ],
   "新能源": [
     {
-      "title": "特斯拉提供一年免费超级充电，非特斯拉电动车充电费用溢价约40%",
-      "summary": "特斯拉再次推出一年免费超级充电服务，并声称非特斯拉电动车使用其充电桩的费用将高出约40%。",
+      "title": "Electric haul trucks could save Fortescue over $400 million in fuel per year",
+      "summary": "Fortescue正投资零排放电动载重卡车，预计每年可节省超过4亿美元的燃料费用，预示着重工业电气化转型。",
       "link": ""
     },
     {
-      "title": "起亚EV6 2026款车型降价5000美元",
-      "summary": "起亚宣布2026款EV6车型降价5000美元，以提升市场竞争力。",
-      "link": ""
+      "title": "Liebherr delivers 330 ton electric excavator to Bulgarian copper mine",
+      "summary": "利勃海尔向保加利亚铜矿交付一台330吨电动挖掘机，标志着电动重型机械在工业领域的进一步扩展。",
+      "link": "https://electrek.co/2026/04/26/liebherr-delivers-330-ton-electric-excavator-to-bulgarian-copper-mine/"
     },
     {
-      "title": "ABB E-mobility新型电动汽车快充技术抑制峰值功率炒作",
-      "summary": "ABB E-mobility推出新型电动汽车快充技术，旨在优化充电效率并减少对峰值功率的过度依赖。",
-      "link": ""
+      "title": "This fleet is going electric, and sharing their real-world results (and savings) online",
+      "summary": "一个车队正转向电动化，并在线分享其真实运营数据和成本节省情况，为电动车队普及提供实证。",
+      "link": "https://electrek.co/2026/04/25/this-fleet-is-going-electric-and-sharing-their-real-world-results-and-savings-online/"
     },
     {
-      "title": "比亚迪将在欧洲推出千匹马力电动敞篷超级跑车",
-      "summary": "比亚迪即将向欧洲市场推出一款动力超过1000马力的电动敞篷超级跑车。",
-      "link": ""
+      "title": "ABB E-mobility’s new EV fast charger kills peak power hype",
+      "summary": "ABB电动出行公司推出新型电动汽车快速充电器，强调持续充电性能而非单纯峰值功率，预示充电技术实用性导向的转变。",
+      "link": "https://electrek.co/2026/04/24/abb-e-mobilitys-new-ev-fast-charger-kills-peak-power-hype/"
     },
     {
-      "title": "Rivian R2车型已开始生产，客户交付按计划于今年春季进行",
-      "summary": "Rivian的R2车型已正式启动生产，预计将于今年春季按计划交付客户。",
-      "link": ""
+      "title": "The Volkswagen ID. Buzz Gets Bidirectional Charging And Real Buttons",
+      "summary": "大众ID. Buzz电动巴士将新增双向充电功能和物理按键，提升实用性和用户体验，尽管部分市场可能暂不提供。",
+      "link": "https://insideevs.com/news/793839/volkswagen-id-buzz-2026-v2l-4motion-europe/"
     }
   ],
   "智能驾驶": [
     {
-      "title": "特斯拉表示需建微型工厂为旧车进行FSD改装",
-      "summary": "特斯拉称2019年至2023年间售出的数百万辆汽车需要进行硬件升级，才能实现完全自动驾驶，为此可能需要建设微型工厂。",
-      "link": ""
+      "title": "I went to the Beijing Auto Show and it’s a glimpse at the future of the auto industry",
+      "summary": "北京车展展示了吉利Robotaxi等概念车，预示着汽车行业未来，尤其在自动驾驶技术方面的趋势。",
+      "link": "https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/"
     },
     {
-      "title": "新型DroneDog机器人安全警卫投入使用",
-      "summary": "新型DroneDog机器人安全警卫开始工作，引发对自动化取代人类工作的讨论。",
-      "link": ""
+      "title": "THEY TOOK R JOBS: new DroneDog robot security guard gets to work",
+      "summary": "新型无人机狗机器人安保人员投入使用，凸显自主机器人技术在各行业的扩展及其对劳动力市场的潜在影响。",
+      "link": "https://electrek.co/2026/04/25/they-took-r-jobs-new-dronedog-robot-security-guard-gets-to-work/"
+    },
+    {
+      "title": "Tesla Says It Will Need To Build Micro Factories To Retrofit Old Cars For FSD",
+      "summary": "特斯拉表示需建设微型工厂，以改造数百万辆旧车（2019-2023年款）的硬件，使其达到无监督FSD能力。",
+      "link": "https://insideevs.com/news/793786/tesla-hw3-retrofit-micro-factories/"
     }
   ],
   "政策法规": [
     {
-      "title": "加州新法案或使家庭电池成为创收工具",
-      "summary": "加州参议院新法案913号可能让家庭电池系统通过向电网供电来赚取收益。",
-      "link": ""
+      "title": "New bill in California senate could turn your home battery into a moneymaker",
+      "summary": "加州参议院新法案可能使家用电池通过向电网供电而产生收益，从而激励分布式储能和智能电网整合。",
+      "link": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/"
     }
   ],
   "国际车企": [
     {
-      "title": "现代Ioniq V外观出色，目标是夺回中国市场份额",
-      "summary": "现代汽车希望通过其楔形轿车Ioniq V尽快在中国销售50万辆汽车，以重振在该市场的表现。",
-      "link": ""
+      "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
+      "summary": "特斯拉再次推出1年免费超级充电服务，并声称非特斯拉电动车使用其网络需支付约40%的额外费用，影响着电动车充电格局。",
+      "link": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/"
     },
     {
-      "title": "中国市场的宝马iX3和i3不仅更长，而且更好",
-      "summary": "宝马针对中国市场推出的Neue Klasse电动车iX3和i3不仅轴距更长，还增加了额外的空间和功能。",
-      "link": ""
+      "title": "Kia cuts EV6 prices by $5,000 on 2026 models",
+      "summary": "起亚将其2026款EV6车型价格下调5000美元，显示电动汽车市场价格竞争加剧。",
+      "link": "https://electrek.co/2026/04/24/kia-cuts-ev6-prices-by-5000-2026-models/"
     },
     {
-      "title": "中国消费者如何看待欧美汽车：适合“父母”",
-      "summary": "中国买家认为欧美品牌汽车更适合“父母”一代，暗示其在年轻消费者中的吸引力下降。",
-      "link": ""
+      "title": "The Hyundai Ioniq V Looks Great. Its Job Is To Take Back China",
+      "summary": "现代汽车计划近期在中国销售50万辆汽车，全新Ioniq V轿车被视为在中国市场重夺份额的关键车型。",
+      "link": "https://insideevs.com/news/794010/ioniq-v-china-beijing-baic/"
     },
     {
-      "title": "汽车公司关注经济型新轿车，因跨界车趋于“无趣”",
-      "summary": "随着价格上涨和燃油经济性法规变化，汽车公司开始将目光投向经济型轿车，因为跨界车已变得“有些无趣”。",
-      "link": ""
+      "title": "China's BMW iX3 And i3 Aren't Just Longer. They're Better",
+      "summary": "宝马在中国市场的长轴距iX3和i3电动车提供更宽敞的空间和更多功能，体现了针对中国市场的本地化策略。",
+      "link": "https://insideevs.com/news/793862/bmw-i3-ix3-lwb-china/"
+    },
+    {
+      "title": "Rivian Has Started R2 Production. Customer Deliveries Are 'On Track' For This Spring",
+      "summary": "Rivian已启动R2车型的生产，客户交付预计将于今年春季开始，标志着该电动车制造商的一个重要里程碑。",
+      "link": "https://insideevs.com/news/793769/rivian-r2-enters-customer-production/"
     }
   ]
 }
