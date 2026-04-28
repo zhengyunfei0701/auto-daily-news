@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+from datetime import datetime
 
 # =========================
 # 1️⃣ 配置
@@ -18,7 +19,19 @@ CATEGORIES = ["新能源", "智能驾驶", "政策法规", "国际车企"]
 # 2️⃣ 读取新闻
 # =========================
 
-with open("output/news.json", "r", encoding="utf-8") as f:
+def get_run_date():
+    return os.environ.get("RUN_DATE") or datetime.now().strftime("%Y-%m-%d")
+
+
+def get_output_dir():
+    return os.path.join("output", get_run_date())
+
+
+output_dir = get_output_dir()
+news_path = os.path.join(output_dir, "news.json")
+structured_path = os.path.join(output_dir, "daily_structured.json")
+
+with open(news_path, "r", encoding="utf-8") as f:
     news_data = json.load(f)
 
 # 🔥 控制规模（非常重要，防止AI崩）
@@ -184,9 +197,9 @@ for k in default_keys:
 # 9️⃣ 输出文件
 # =========================
 
-os.makedirs("output", exist_ok=True)
+os.makedirs(output_dir, exist_ok=True)
 
-with open("output/daily_structured.json", "w", encoding="utf-8") as f:
+with open(structured_path, "w", encoding="utf-8") as f:
     json.dump(result_json, f, ensure_ascii=False, indent=2)
 
-print("✅ structured JSON 已生成")
+print(f"✅ structured JSON 已生成: {structured_path}")

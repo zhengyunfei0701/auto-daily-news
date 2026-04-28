@@ -1,11 +1,7 @@
 import os
-
-if not os.path.exists("output/daily_structured.json"):
-    print("❌ structured.json 不存在，跳过生成")
-    exit(0)
-    
-import json
 from datetime import datetime
+
+import json
 
 
 CATEGORIES = [
@@ -17,7 +13,7 @@ CATEGORIES = [
 
 
 def build_md(data):
-    date = datetime.now().strftime("%Y-%m-%d")
+    date = get_run_date()
 
     md = f"# 汽车行业日报 {date}\n\n"
 
@@ -57,13 +53,29 @@ def build_md(data):
     return md
 
 
+def get_run_date():
+    return os.environ.get("RUN_DATE") or datetime.now().strftime("%Y-%m-%d")
+
+
+def get_output_dir():
+    return os.path.join("output", get_run_date())
+
+
 if __name__ == "__main__":
-    with open("output/daily_structured.json", "r", encoding="utf-8") as f:
+    output_dir = get_output_dir()
+    structured_path = os.path.join(output_dir, "daily_structured.json")
+    md_path = os.path.join(output_dir, "daily.md")
+
+    if not os.path.exists(structured_path):
+        print(f"❌ structured.json 不存在，跳过生成: {structured_path}")
+        exit(0)
+
+    with open(structured_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     md = build_md(data)
 
-    with open("output/daily_final.md", "w", encoding="utf-8") as f:
+    with open(md_path, "w", encoding="utf-8") as f:
         f.write(md)
 
-    print("日报生成完成")
+    print(f"日报生成完成: {md_path}")

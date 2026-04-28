@@ -1,6 +1,7 @@
 import feedparser
 import json
 import os
+from datetime import datetime
 
 RSS_FEEDS = [
     "https://www.reuters.com/rssFeed/businessNews",
@@ -43,16 +44,24 @@ def fetch_news():
     return news
 
 
+def get_run_date():
+    return os.environ.get("RUN_DATE") or datetime.now().strftime("%Y-%m-%d")
+
+
+def get_output_dir():
+    return os.path.join("output", get_run_date())
+
+
 if __name__ == "__main__":
     data = fetch_news()
 
     print("总新闻数:", len(data))
 
-    # ✅ 强制创建目录（关键）
-    os.makedirs("output", exist_ok=True)
+    output_dir = get_output_dir()
+    os.makedirs(output_dir, exist_ok=True)
+    news_path = os.path.join(output_dir, "news.json")
 
-    # ✅ 写入标准路径（统一 pipeline）
-    with open("output/news.json", "w", encoding="utf-8") as f:
+    with open(news_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("✅ 已生成 output/news.json")
+    print(f"✅ 已生成 {news_path}")
