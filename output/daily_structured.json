@@ -1,85 +1,80 @@
 {
   "trends": [
-    "新能源车渗透率持续提升并向商用及特种领域拓展，成本效益驱动非乘用车电动化加速。",
-    "全球汽车市场竞争加剧，车企通过价格调整、产品迭代和区域定制化策略以应对挑战。",
-    "智能驾驶技术持续迭代，但硬件升级和大规模普及仍面临复杂的技术与商业落地挑战。"
+    "全球电动汽车市场竞争白热化，技术迭代与成本控制成为核心驱动力。",
+    "电动汽车基础设施建设和清洁能源供应持续扩张，支撑产业发展。",
+    "智能驾驶技术加速商业化探索，但面临软硬件升级与大规模部署挑战。"
   ],
   "新能源": [
     {
-      "title": "Ford’s 2,200-HP electric Mustang runs 6.87-sec quarter mile, smashes EV record",
-      "summary": "福特赛车部门的Mustang Cobra Jet电动车以2,200马力刷新了电动车四分之一英里加速纪录，展示电动高性能潜力。",
-      "link": "https://electrek.co/2026/04/26/ford-cobra-jet-2200-electric-drag-racing-record-quarter-mile/"
+      "title": "CATL says sodium batteries are mainstream-ready, signs massive 60 GWh deal",
+      "summary": "宁德时代宣布钠离子电池已为主流市场做好准备，并签署了60 GWh的大规模协议，预示着电池技术多样化和成本下降的趋势。",
+      "link": "https://electrek.co/2026/04/27/catl-sodium-ion-battery-60gwh-energy-storage-deal/"
     },
     {
-      "title": "Electric haul trucks could save Fortescue over $400 million in fuel per year",
-      "summary": "Fortescue投资零排放电动运输卡车，预计每年可节省超过4亿美元燃料成本，加速工业领域电动化。",
-      "link": ""
+      "title": "EIA: 80 GW of new solar, wind + storage capacity coming in 2026",
+      "summary": "美国能源信息署预测，到2026年将新增80吉瓦的太阳能、风能和储能容量，凸显可再生能源和储能的快速增长，为电动汽车生态系统提供支持。",
+      "link": "https://electrek.co/2026/04/27/eia-80-gw-of-new-solar-wind-storage-capacity-coming-in-2026/"
     },
     {
-      "title": "Liebherr delivers 330 ton electric excavator to Bulgarian copper mine",
-      "summary": "利勃海尔向保加利亚铜矿交付一台330吨电动挖掘机，标志着重型工业机械电动化进程加速。",
-      "link": "https://electrek.co/2026/04/26/liebherr-delivers-330-ton-electric-excavator-to-bulgarian-copper-mine/"
+      "title": "BYD’s flagship electric SUV secures 30,000+ orders in 24 hrs, and its starts at under $40K",
+      "summary": "比亚迪旗舰电动SUV在24小时内获得超过3万份订单，起售价低于4万美元，显示其强大的市场吸引力和消费者对高性价比电动车的需求。",
+      "link": "https://electrek.co/2026/04/27/byds-flagship-electric-suv-secures-over-30000-orders-in-24-hours/"
     },
     {
-      "title": "This fleet is going electric, and sharing their real-world results (and savings) online",
-      "summary": "一个车队正在转向电动汽车，并在线分享其在实际运营中的表现和节省的成本数据。",
-      "link": "https://electrek.co/2026/04/25/this-fleet-is-going-electric-and-sharing-their-real-world-results-and-savings-online/"
+      "title": "First drive: next-gen Xiaomi SU7 shows how fast Chinese EVs are improving",
+      "summary": "小米下一代SU7首次试驾，展示了中国电动汽车快速迭代和技术进步的能力，尤其是在智能座舱和驾驶体验方面。",
+      "link": "https://electrek.co/2026/04/27/first-drive-next-gen-xiaomi-su7-902-km-range-800v-charging/"
     },
     {
-      "title": "The Volkswagen ID. Buzz Gets Bidirectional Charging And Real Buttons",
-      "summary": "大众ID. Buzz电动巴士将增加双向充电等新功能，但部分功能在美国市场暂不可用。",
-      "link": "https://insideevs.com/news/793839/volkswagen-id-buzz-2026-v2l-4motion-europe/"
+      "title": "Vacuum company shows concept rocket-boosted EV that does 0-60 in 0.9 sec",
+      "summary": "一家吸尘器公司展示了一款火箭助推电动汽车概念，声称0-60英里/小时加速仅需0.9秒，挑战了电动汽车的性能极限和未来可能性。",
+      "link": "https://electrek.co/2026/04/27/vacuum-company-shows-concept-rocket-car-that-does-0-60-in-under-a-second/"
     }
   ],
   "智能驾驶": [
     {
-      "title": "I went to the Beijing Auto Show and it’s a glimpse at the future of the auto industry",
-      "summary": "北京车展展示了汽车行业的未来趋势，其中包括吉利机器人出租车概念等前沿技术。",
-      "link": "https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/"
+      "title": "Geely Says This Is China’s First Purpose-Built Robotaxi. I'm Not So Sure",
+      "summary": "吉利推出了名为EVA Cab的无人驾驶出租车，其设计无方向盘并专为大规模Robotaxi车队打造，标志着中国在自动驾驶商业化应用领域的进展。",
+      "link": "https://insideevs.com/news/794196/geely-eva-cab-autonomous-robotaxi/"
     },
     {
       "title": "Tesla Says It Will Need To Build Micro Factories To Retrofit Old Cars For FSD",
-      "summary": "特斯拉表示需要建立微型工厂，为2019-2023年间销售的旧款车型升级硬件，以实现完全自动驾驶功能。",
+      "summary": "特斯拉表示，需要建立微型工厂为2019-2023年间售出的旧款车型升级硬件，以实现完全自动驾驶（FSD），凸显FSD大规模部署的硬件挑战。",
       "link": "https://insideevs.com/news/793786/tesla-hw3-retrofit-micro-factories/"
     }
   ],
   "政策法规": [
     {
-      "title": "Survey Sunday: who should be allowed to drive ICE-powered vehicles?",
-      "summary": "一项关于谁应被允许驾驶燃油车的调查，反映了未来对燃油车使用可能进行限制的讨论。",
-      "link": "https://electrek.co/2026/04/26/survey-sunday-who-should-be-allowed-to-drive-ice-powered-vehicles/"
-    },
-    {
-      "title": "New bill in California senate could turn your home battery into a moneymaker",
-      "summary": "加州参议院新法案S.B. 913提案允许家庭储能电池所有者通过向电网供电来获利。",
-      "link": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/"
+      "title": "Oregon boosts EV road trips with 24 new fast-charging sites",
+      "summary": "俄勒冈州将部署24个新的快速充电站，以促进电动汽车长途旅行，体现了政府通过基础设施建设支持电动汽车普及的政策导向。",
+      "link": "https://electrek.co/2026/04/27/oregon-boosts-ev-road-trips-with-24-new-fast-charging-sites/"
     }
   ],
   "国际车企": [
     {
-      "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
-      "summary": "特斯拉为新车买家提供一年免费超级充电服务，并声称非特斯拉电动车使用其网络费用高出约40%。",
-      "link": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/"
+      "title": "Here’s our first look at the Hyundai IONIQ 3 in real life [video]",
+      "summary": "现代IONIQ 3电动车首次实车曝光，展示了其在电动汽车市场的产品布局和设计方向，为消费者带来新的选择。",
+      "link": "https://electrek.co/2026/04/27/hyundai-ioniq-3-spotted-in-real-life-first-time-video/"
     },
     {
-      "title": "Kia cuts EV6 prices by $5,000 on 2026 models",
-      "summary": "起亚将其2026款EV6车型降价5,000美元，反映电动汽车市场竞争加剧。",
-      "link": "https://electrek.co/2026/04/24/kia-cuts-ev6-prices-by-5000-2026-models/"
+      "title": "Toyota’s EV sales rise 139% in March as drivers seek relief from surging gas prices",
+      "summary": "丰田3月份电动汽车销量激增139%，表明消费者在汽油价格上涨背景下，对电动汽车的需求显著增加，加速了传统车企的转型。",
+      "link": "https://electrek.co/2026/04/27/toyotas-ev-sales-surge-139-drivers-seek-gas-alternatives/"
     },
     {
-      "title": "Tesla Is Killing The Model S. But Its Legacy Is Everywhere",
-      "summary": "特斯拉Model S在14年后即将停产，但其对汽车行业的影响和遗产将继续存在。",
-      "link": "https://insideevs.com/news/794057/tesla-model-s-legacy-video/"
+      "title": "Kia is slashing EV prices to keep pace with low-cost rivals",
+      "summary": "起亚正在通过大幅降价来应对低成本电动汽车的竞争，反映出全球电动汽车市场日益激烈的价格战和车企面临的盈利压力。",
+      "link": "https://electrek.co/2026/04/27/kia-slashing-ev-prices-low-cost-rivals/"
     },
     {
-      "title": "The Hyundai Ioniq V Looks Great. Its Job Is To Take Back China",
-      "summary": "现代汽车希望通过Ioniq V车型在中国市场实现50万辆的销售目标，以夺回市场份额。",
-      "link": "https://insideevs.com/news/794010/ioniq-v-china-beijing-baic/"
+      "title": "Audi's Most Affordable EV Gets More Range, Faster Charging And Updated Tech",
+      "summary": "奥迪Q4 E-Tron更新，增加了续航里程、提升了充电速度并升级了技术，包括双向充电，旨在提升产品竞争力以应对市场变化。",
+      "link": "https://insideevs.com/news/794164/audi-q4-e-tron-facelift/"
     },
     {
-      "title": "China's BMW iX3 And i3 Aren't Just Longer. They're Better",
-      "summary": "宝马为中国市场推出的加长版Neue Klasse电动车型iX3和i3不仅空间更大，还拥有额外功能。",
-      "link": "https://insideevs.com/news/793862/bmw-i3-ix3-lwb-china/"
+      "title": "BYD’s Denza Z Is The 1,000-HP Roadster Tesla Refuses To Build",
+      "summary": "比亚迪腾势品牌推出一款1000马力的敞篷电动跑车，旨在挑战特斯拉在高端性能电动车领域的地位，展现中国品牌在高性能细分市场的雄心。",
+      "link": "https://insideevs.com/news/794147/denza-z-ev-roadster-1000-hp-charging-reveal/"
     }
   ]
 }
