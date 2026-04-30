@@ -1,0 +1,73 @@
+# 汽车行业日报 2026-04-30
+
+## 今日核心趋势
+
+1. 中国新能源汽车市场持续高速增长与本土化技术创新，驱动行业前沿发展。
+2. 电动汽车充电基础设施与行业标准加速整合，迈向更便捷、高效的充电生态。
+3. 全球汽车制造商加速电动化转型，并针对区域市场（特别是中国）进行策略调整和产品定制。
+
+---
+## 新能源
+
+1. **BYD’s new Song Ultra EV racks up over 60,000 orders in one month, starting at $22,000**
+   比亚迪新款宋Ultra EV上市首月订单量突破6万辆，起售价约为2.2万美元，显示其强大的市场吸引力。
+   https://electrek.co/2026/04/29/byds-new-song-ultra-ev-racks-up-60000-orders-in-one-month/
+
+2. **CHINA RECAP: Beijing, Xiaomi test drive, BYD news, and a fresh home battery pilot**
+   中国新能源市场活跃，包括比亚迪的最新动态和家用储能电池的试点项目，以及小米在北京进行的智能驾驶测试。
+   https://electrek.co/2026/04/29/china-recap-beijing-xiaomi-test-drive-byd-news-and-a-fresh-home-battery-pilot/
+
+3. **2027 Chevy Blazer EV drops CCS for Tesla-style NACS port**
+   通用汽车持续向特斯拉NACS充电标准过渡，2027款雪佛兰Blazer EV将采用NACS接口替代CCS。
+   https://electrek.co/2026/04/29/2027-chevy-blazer-ev-drops-ccs-for-tesla-style-nacs-port/
+
+4. **Tesla Semi: first truck rolls off high-volume production line & MDB pilot**
+   特斯拉Semi电动卡车已进入批量生产阶段，并由MDB Transpo公司启动了为期三周的港口货运试点项目。
+   
+
+5. **Rivian is adding 150+ fast chargers at popular LA shopping hubs**
+   Rivian计划在洛杉矶热门购物中心增设超过150个快速充电桩，以扩展其电动车充电基础设施。
+   https://electrek.co/2026/04/29/rivian-is-adding-150-fast-chargers-la-shopping-hubs/
+
+## 智能驾驶
+
+1. **Rocsys unveils hands-free charging system for robotaxis, raises $13M**
+   Rocsys推出了M1免提充电系统，专为自动驾驶出租车设计，旨在实现更高效的无人充电体验，并成功获得1300万美元融资。
+   https://electrek.co/2026/04/29/rocsys-unveils-multi-bay-hands-free-robotaxi-charging-raises-13m/
+
+2. **Geely Says This Is China’s First Purpose-Built Robotaxi. I'm Not So Sure**
+   吉利发布EVA Cab，声称是中国首款专为大规模机器人出租车车队打造的无方向盘车型，预示未来出行模式。
+   https://insideevs.com/news/794196/geely-eva-cab-autonomous-robotaxi/
+
+3. **Chinese EVs Can Now Project Entire Movies From Their Headlights**
+   中国新型电动汽车的先进头灯技术不仅限于照明，已能实现全彩电影投射功能，展现了智能交互的新维度。
+   https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/
+
+## 政策法规
+
+1. **Dealerships Are 'Terrified' Direct Sales Might Be The Future**
+   随着汽车直销模式在美国各州日益普及，传统经销商对未来销售格局可能发生的根本性转变感到担忧。
+   https://insideevs.com/news/794220/dealerships-ev-direct-sales-terrified/
+
+## 国际车企
+
+1. **Ford beats Q1 earnings, raises forecast thanks to $1.3 billion in tariff relief**
+   福特公司第一季度盈利超出预期，并上调了全年业绩预测，这部分得益于获得的13亿美元关税减免。
+   https://electrek.co/2026/04/29/ford-beats-q1-earnings-raises-forecast-with-1-3b-tariff-relief/
+
+2. **Tesla Is Killing The Model S. But Its Legacy Is Everywhere**
+   历经14年的辉煌，特斯拉Model S即将停产，但其作为电动汽车先驱对整个汽车行业产生的深远影响将持续存在。
+   https://insideevs.com/news/794057/tesla-model-s-legacy-video/
+
+3. **The Hyundai Ioniq V Looks Great. Its Job Is To Take Back China**
+   现代汽车推出全新的Ioniq V车型，旨在提升其在中国市场的竞争力，并实现50万辆的销售目标。
+   https://insideevs.com/news/794010/ioniq-v-china-beijing-baic/
+
+4. **China's BMW iX3 And i3 Aren't Just Longer. They're Better**
+   宝马针对中国市场推出了加长轴距版iX3和i3电动车型，不仅提供更大空间，还增加了专属功能和配置。
+   https://insideevs.com/news/793862/bmw-i3-ix3-lwb-china/
+
+5. **The Volkswagen ID. Buzz Gets Bidirectional Charging And Real Buttons (America misses out)**
+   大众ID. Buzz电动巴士将更新双向充电和物理按键等实用功能，但这些改进目前不会在美国市场提供。
+   
+
