@@ -1,0 +1,70 @@
+{
+  "trends": [
+    "电动汽车市场竞争白热化，价格战与高端化并存，同时制造商聚焦成本效率以扩大市场份额。",
+    "智能驾驶技术加速迭代，应用场景从辅助驾驶拓展至专用机器人出租车和创新车载功能。",
+    "全球汽车产业链和销售模式重构，中国车企加速国际化布局，传统销售模式面临挑战。"
+  ],
+  "新能源": [
+    {
+      "title": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
+      "summary": "特斯拉在加拿大推出中国产Model 3后驱版，售价创历史新低，显示出其在全球市场的价格竞争力。",
+      "link": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/"
+    },
+    {
+      "title": "Kia’s EV sales gain steam as it prepares to launch the EV3",
+      "summary": "起亚电动汽车在美国市场销量强劲增长，并正准备推出新的EV3车型，预示其电动化战略进展顺利。",
+      "link": "https://electrek.co/2026/05/01/kias-ev-sales-gain-steam-launch-ev3/"
+    },
+    {
+      "title": "BYD just sold its most expensive EV ever for nearly $3 million",
+      "summary": "比亚迪售出其有史以来最昂贵的电动汽车，价格接近300万美元，标志着中国品牌在高端电动车市场的突破。",
+      "link": "https://electrek.co/2026/05/01/byd-sells-most-expensive-ev-ever-for-3-million/"
+    },
+    {
+      "title": "Tesla launches Basecharger for Semi, reveals $188,000 Megacharger",
+      "summary": "特斯拉推出针对Semi卡车的Basecharger充电方案，并公布Megacharger价格，加速其商用电动车充电基础设施建设。",
+      "link": "https://electrek.co/2026/05/01/tesla-semi-charging-business-megacharger-basecharger-pricing/"
+    },
+    {
+      "title": "The Rivian R2 Costs Half As Much To Build As The R1S. Here's How Rivian Did It.",
+      "summary": "Rivian通过优化设计和生产流程，使其R2车型的制造成本比R1S降低了一半，提升了其未来车型的市场竞争力。",
+      "link": "https://insideevs.com/news/794643/rivian-r2-costs-cut-half/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla FSD Has A Real Rival. But It Drives Very Differently",
+      "summary": "特斯拉FSD面临新的竞争对手，在实际测试中展现出不同的驾驶风格和表现，预示智能驾驶技术竞争加剧。",
+      "link": "https://insideevs.com/news/794558/xpeng-vla-beijing-test-ride/"
+    },
+    {
+      "title": "This EV Charging Robot Actually Makes A Ton Of Sense For Charging Robotaxis",
+      "summary": "一种新型电动汽车充电机器人被认为对机器人出租车充电具有重要意义，解决了自动驾驶运营中的关键问题。",
+      "link": "https://insideevs.com/news/794466/robotaxi-charging-network-multibay-solution/"
+    },
+    {
+      "title": "Chinese EVs Can Now Project Entire Movies From Their Headlights",
+      "summary": "中国最新电动汽车的头灯已能投射全彩电影，展现了在车载技术和人机交互方面的创新能力。",
+      "link": "https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/"
+    },
+    {
+      "title": "Geely Says This Is China’s First Purpose-Built Robotaxi. I'm Not So Sure",
+      "summary": "吉利发布了EVA Cab，声称其为中国首款专为大规模机器人出租车车队打造的无方向盘车型。",
+      "link": "https://insideevs.com/news/794196/geely-eva-cab-autonomous-robotaxi/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Dealerships Are 'Terrified' Direct Sales Might Be The Future",
+      "summary": "随着直销模式在美国更多州获得关注，传统经销商对未来汽车销售模式可能带来的颠覆感到担忧。",
+      "link": "https://insideevs.com/news/794220/dealerships-ev-direct-sales-terrified/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "China’s Rolls-Royce Rival May Have Found A Shortcut Into Europe",
+      "summary": "中国品牌红旗可能考虑利用Stellantis在西班牙的工厂，以加速其电动汽车进入欧洲市场的进程。",
+      "link": "https://insideevs.com/news/794425/hongqi-build-cars-in-europe/"
+    }
+  ]
+}
