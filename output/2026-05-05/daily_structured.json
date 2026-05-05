@@ -1,0 +1,95 @@
+{
+  "trends": [
+    "新能源市场竞争加剧与多元化发展：电动汽车市场销量分化，成本控制成关键，同时氢能等多种新能源技术路线并行发展。",
+    "智能驾驶技术加速落地与应用拓展：从辅助驾驶到专用自动驾驶平台，以及智能充电基础设施的建设，智能技术正全面渗透并提升车辆体验。",
+    "全球汽车产业格局重塑与商业模式变革：中国品牌加速国际化布局，传统销售渠道面临直销模式冲击，促使行业探索新的运营范式。"
+  ],
+  "新能源": [
+    {
+      "title": "1,000 curbside EV chargers are coming to Philadelphia",
+      "summary": "美国费城计划部署1000个路边电动汽车充电桩，以大幅提升城市充电基础设施。",
+      "link": "https://electrek.co/2026/05/04/1000-curbside-ev-chargers-philadelphia/"
+    },
+    {
+      "title": "Kia’s EV bet is paying off as sales surge with new models launching",
+      "summary": "起亚的电动汽车战略取得成功，新车型推动其电动汽车销量强劲增长。",
+      "link": "https://electrek.co/2026/05/04/kias-ev-bet-paying-off-sales-surge-new-models-launching/"
+    },
+    {
+      "title": "BYD’s flagship electric SUV receives 30,000+ orders in 24 hrs, and its starts at under $40K",
+      "summary": "比亚迪旗舰电动SUV在24小时内获得超过3万份订单，起售价低于4万美元，展现出强大的市场吸引力。",
+      "link": "https://electrek.co/2026/05/04/byds-flagship-electric-suv-secures-30000-orders-24-hours/"
+    },
+    {
+      "title": "Ford is offering employee pricing and free EV chargers after sales crash again in April",
+      "summary": "福特因4月销量再次下滑，通过提供员工价和免费充电桩来刺激电动汽车销售。",
+      "link": "https://electrek.co/2026/05/04/ford-offers-employee-pricing-free-ev-chargers-sales-drop/"
+    },
+    {
+      "title": "The Rivian R2 Costs Half As Much To Build As The R1S. Here's How Rivian Did It.",
+      "summary": "Rivian R2车型的制造成本比R1S降低一半，揭示了电动汽车制造成本优化的新策略。",
+      "link": "https://insideevs.com/news/794643/rivian-r2-costs-cut-half/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla FSD Has A Real Rival. But It Drives Very Differently",
+      "summary": "特斯拉FSD迎来真正的竞争对手，其自动驾驶系统在驾驶方式上与FSD存在显著差异。",
+      "link": "https://insideevs.com/news/794558/xpeng-vla-beijing-test-ride/"
+    },
+    {
+      "title": "This EV Charging Robot Actually Makes A Ton Of Sense For Charging Robotaxis",
+      "summary": "一款电动汽车充电机器人被认为是解决自动驾驶出租车充电问题的有效方案。",
+      "link": "https://insideevs.com/news/794466/robotaxi-charging-network-multibay-solution/"
+    },
+    {
+      "title": "Chinese EVs Can Now Project Entire Movies From Their Headlights",
+      "summary": "中国电动汽车的前大灯现在能够投影电影，展示了车载智能和娱乐功能的创新融合。",
+      "link": "https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/"
+    },
+    {
+      "title": "Geely Says This Is China’s First Purpose-Built Robotaxi. I'm Not So Sure",
+      "summary": "吉利声称推出中国首款专门设计的自动驾驶出租车，引发了行业对自动驾驶专用车辆发展的关注。",
+      "link": "https://insideevs.com/news/794196/geely-eva-cab-autonomous-robotaxi/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Trump just blocked 165 US wind projects – here’s what’s behind it",
+      "summary": "特朗普政府阻止了美国165个风能项目，此举可能对美国的清洁能源政策和发展产生影响。",
+      "link": "https://electrek.co/2026/05/04/trump-just-blocked-165-us-wind-projects-heres-whats-behind-it/"
+    },
+    {
+      "title": "Dealerships Are 'Terrified' Direct Sales Might Be The Future",
+      "summary": "传统经销商对直销模式可能成为汽车行业未来趋势感到担忧，引发销售模式变革的讨论。",
+      "link": "https://insideevs.com/news/794220/dealerships-ev-direct-sales-terrified/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Kia’s EV bet is paying off as sales surge with new models launching",
+      "summary": "起亚的电动汽车战略取得成功，新车型推动其电动汽车销量强劲增长。",
+      "link": "https://electrek.co/2026/05/04/kias-ev-bet-paying-off-sales-surge-new-models-launching/"
+    },
+    {
+      "title": "Toyota announces new hydrogen collab with Nikola fueling spinoff",
+      "summary": "丰田宣布与尼古拉公司合作，共同推进氢燃料技术，并成立加氢站合资公司。",
+      "link": "https://electrek.co/2026/05/04/toyota-announces-new-hydrogen-collab-with-nikola-fueling-spinoff/"
+    },
+    {
+      "title": "BYD’s flagship electric SUV receives 30,000+ orders in 24 hrs, and its starts at under $40K",
+      "summary": "比亚迪旗舰电动SUV在24小时内获得超过3万份订单，起售价低于4万美元，展现出强大的市场吸引力。",
+      "link": "https://electrek.co/2026/05/04/byds-flagship-electric-suv-secures-30000-orders-24-hours/"
+    },
+    {
+      "title": "Ford is offering employee pricing and free EV chargers after sales crash again in April",
+      "summary": "福特因4月销量再次下滑，通过提供员工价和免费充电桩来刺激电动汽车销售。",
+      "link": "https://electrek.co/2026/05/04/ford-offers-employee-pricing-free-ev-chargers-sales-drop/"
+    },
+    {
+      "title": "China’s Rolls-Royce Rival May Have Found A Shortcut Into Europe",
+      "summary": "中国豪华品牌红旗或正寻求通过与Stellantis合作的方式，加速其进入欧洲市场的进程。",
+      "link": "https://insideevs.com/news/794425/hongqi-build-cars-in-europe/"
+    }
+  ]
+}
