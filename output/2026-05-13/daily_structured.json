@@ -1,0 +1,80 @@
+{
+  "trends": [
+    "全球电动汽车市场加速渗透与技术创新，体现在销量增长、电池技术多样化及入门级车型搭载高阶智驾硬件。",
+    "传统国际车企在电动化转型中挑战与机遇并存，同时中国EV技术正通过技术输出深化国际合作。",
+    "智能驾驶功能持续普及，AI交互能力增强，且车企正探索智驾功能的商业化与订阅服务模式。"
+  ],
+  "新能源": [
+    {
+      "title": "Europe drove global EV sales in April as China exports surged",
+      "summary": "全球电动汽车销量在4月份达到160万辆，主要受欧洲市场强劲增长和中国电动汽车出口激增的推动。",
+      "link": "https://electrek.co/2026/05/12/europe-drove-global-ev-sales-in-april-as-china-exports-surged/"
+    },
+    {
+      "title": "California bets on sodium-ion batteries for extreme heat regions",
+      "summary": "加利福尼亚州正投资钠离子电池技术，尤其针对极端高温地区的储能应用，探索锂离子电池的替代方案。",
+      "link": "https://electrek.co/2026/05/12/california-bets-on-sodium-ion-batteries-for-extreme-heat-regions/"
+    },
+    {
+      "title": "BYD launches new Seagull with LiDAR for $13,000, setting a first for entry-level EVs [Video]",
+      "summary": "比亚迪新款海鸥车型以1.3万美元的价格推出，并首次在A00级电动车中集成激光雷达，极大提升了入门级电动车的技术配置。",
+      "link": "https://electrek.co/2026/05/12/byd-launches-seagull-ev-with-lidar-for-13000-first-in-its-class/"
+    },
+    {
+      "title": "The Floodgates Open: Chinese EVs Land In Canada",
+      "summary": "奇瑞和吉利等中国电动汽车制造商已开始向加拿大出口电动汽车和插电式混合动力车，标志着中国电动车在北美市场的重大扩张。",
+      "link": "https://insideevs.com/news/795438/first-chinese-evs-canada-deliveries/"
+    },
+    {
+      "title": "While You Stop For A 30-Minute Charge, Nio Just Swapped 1 Million EV Batteries In A Week",
+      "summary": "蔚来在一周内完成了100万次电池换电，展示了其电池换电技术的效率和规模，作为传统充电模式的有效补充。",
+      "link": "https://insideevs.com/news/795220/nio-battery-swap-million-cars/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Rivian rolls out ‘Hey Rivian’ AI assistant with full vehicle control",
+      "summary": "Rivian正在推出其新的AI语音助手“Hey Rivian”，该助手提供对车辆功能的全面控制，提升用户交互体验。",
+      "link": "https://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/"
+    },
+    {
+      "title": "Tesla moves Basic Autopilot features to paid FSD where available",
+      "summary": "特斯拉已将部分基础的Autopilot功能转移到其付费的全自动驾驶（FSD）套餐中，调整了其功能捆绑策略。",
+      "link": "https://electrek.co/2026/05/12/tesla-removes-basic-autopilot-netherlands-fsd-only/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Corrupt DoT head takes oil money to film reality TV show during oil price spike",
+      "summary": "一名交通部官员被曝在油价飙升期间收受石油公司贿赂拍摄真人秀，引发了对政府腐败和能源政策伦理的担忧。",
+      "link": "https://electrek.co/2026/05/12/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Genesis GV90 with coach doors found abandoned with no camouflage [Images]",
+      "summary": "即将推出的豪华电动车Genesis GV90被发现无伪装遗弃，该车型配备独特的对开门设计，预示其开发已进入后期阶段。",
+      "link": "https://electrek.co/2026/05/12/genesis-gv90-with-coach-doors-abandoned-no-camo-images/"
+    },
+    {
+      "title": "Kia Is Ready To Build An Electric Successor To The Stinger. One Thing Is Holding It Back.",
+      "summary": "起亚正考虑推出Stinger车型的电动继任者，但目前存在一个关键障碍阻碍了其开发。",
+      "link": "https://insideevs.com/news/795647/kia-stinger-cost-electric-successor/"
+    },
+    {
+      "title": "Mazda's EV Delay Is Barely A Pivot",
+      "summary": "马自达将其首个电动汽车项目推迟了两年，这表明其在电动汽车研发方面进展缓慢。",
+      "link": "https://insideevs.com/news/795650/mazda-delays-first-major-ev/"
+    },
+    {
+      "title": "Tesla Waves Goodbye To Model S And Model X As The Last Cars Roll Off The Line",
+      "summary": "最后一批特斯拉Model S和Model X车辆据报道已下线，标志着这两个旗舰车型时代的结束。",
+      "link": "https://insideevs.com/news/795519/tesla-model-s-x-production/"
+    },
+    {
+      "title": "This New European Electric SUV Has A Secret From China",
+      "summary": "一款新的欧洲电动SUV将采用零跑汽车的电动汽车架构和电池技术，突显了电动汽车开发中的跨国合作趋势。",
+      "link": "https://insideevs.com/news/795383/opel-leapmotor-electric-suv-europe/"
+    }
+  ]
+}
