@@ -1,0 +1,73 @@
+# 汽车行业日报 2026-05-22
+
+## 今日核心趋势
+
+1. 电动汽车市场正加速向平价化、大众化发展，品牌通过推出更低价车型和提供充电优惠来扩大用户基础。
+2. 电池技术创新与产业链合作成为核心竞争力，固态电池、刀片电池等新型技术不断取得进展，国际车企积极寻求与中国品牌在电池和生产方面的合作。
+3. 电动汽车生态系统面临基础设施压力与政策调整，充电网络对电网的负荷日益增加，同时针对电动车司机的道路使用费等新规也在讨论中。
+
+---
+## 新能源
+
+1. **EV charging demand is stressing local grids, and Texture just raised $12.5M to tackle it**
+   电网软件初创公司Texture成功融资1250万美元，旨在解决电动汽车充电需求激增给地方电网带来的压力。
+   https://electrek.co/2026/05/21/ev-charging-demand-is-stressing-local-grids-and-texture-just-raised-12-5m-to-tackle-it/
+
+2. **Solid-state EV batteries hit another major milestone in China**
+   中国的锂金属固态电动汽车电池技术取得又一重大突破，预示着电池性能和安全性的进一步提升。
+   https://electrek.co/2026/05/21/solid-state-ev-batteries-hit-another-major-milestone-china/
+
+3. **BYD launches upgraded Yuan Plus EV SUV with more range and flash charging for $18,000**
+   比亚迪推出升级版元Plus电动SUV，续航里程更长，支持闪充，售价仅18,000美元，进一步提升了电动车的性价比。
+   https://electrek.co/
+
+4. **These 5 Cars Made Up 20% Of EV Sales Globally Last Year**
+   去年全球销售的600多款电动车型中，仅有5款车型占据了全球电动汽车销量的20%，显示了市场集中度。
+   https://insideevs.com/news/796654/5-evs-20-global-sales/
+
+5. **BYD's New Blade Battery Is Brilliant, But Good Luck Taking It Apart**
+   比亚迪创新的刀片电池设计在性能上表现出色，但其高度集成性也给拆卸和维修带来了巨大挑战。
+   https://insideevs.com/news/796219/byd-blade-battery-teardown-results/
+
+## 智能驾驶
+
+1. **Stellantis Plans $70 Billion Comeback With LFP Batteries And A Tesla FSD Challenger**
+   Stellantis计划投入700亿美元，通过采用LFP电池、全新平台及AI和自动驾驶芯片，挑战特斯拉FSD，旨在实现电动化转型和复兴。
+   https://insideevs.com/news/796638/stellantis-70-billion-ev-plan-lfp-batteries/
+
+## 政策法规
+
+1. **Hawaii’s newest NEVI charging station is part of a different kind of rollout**
+   夏威夷正在部署最新的NEVI（国家电动汽车基础设施）充电站，其独特的部署方式值得关注，以应对电动车充电需求。
+   https://electrek.co/2026/05/21/hawaii-nevi-charging-station/
+
+2. **Honda is recalling nearly 60,000 electric SUVs**
+   本田正在召回近6万辆电动SUV，这一大规模召回可能与质量问题或安全隐患有关。
+   https://electrek.co/gui
+
+3. **Congress Wants You To Pay $130 A Year Just To Drive An Electric Car**
+   美国国会议员提议对电动车车主征收每年130美元的费用，以确保他们为公路建设提供“公平份额”的资金。
+   https://insideevs.com/news/796222/ev-fee-gas-tax-house-bill-2026/
+
+## 国际车企
+
+1. **Jeep and Ram vehicles are about to get more affordable with prices under $40,000**
+   Stellantis计划推出价格低于4万美元的Jeep和Ram车型，以提高品牌车辆的市场可负担性，吸引更多消费者。
+   https://electrek.co/2026/05/21/jeep-ram-more-affordable-prices-under-40000/
+
+2. **The Genesis GV90 has coach doors and a massive 27″ digital screen [Video]**
+   即将推出的Genesis GV90将配备独特的对开式车门和一块巨大的27英寸数字屏幕，彰显其豪华和科技定位。
+   https://electrek.co/2026/05/21/genesis-gv90-coach-doors-huge-27-screen-video/
+
+3. **Polestar Pauses Work On Its Electric Sports Car. But It’s Almost Done**
+   Polestar暂时搁置了其纯电动跑车Polestar 6的研发工作，尽管该车型已接近完成，但具体投产时间仍不确定。
+   https://insideevs.com/news/796573/polestar-6-work-paused-priority/
+
+4. **Jeep And Ram's Owner Partners With Another Chinese Brand To Build EVs In Europe**
+   Stellantis正与中国品牌深化合作，计划在欧洲生产电动汽车，包括与零跑和东风岚图的潜在合作。
+   https://insideevs.com/news/796466/stellantis-dongfeng-france-rennes-production/
+
+5. **Volvo Will Replace The Canceled EX30 With A New Affordable EV**
+   沃尔沃计划明年推出一款更经济实惠的新款电动汽车，以取代在美国市场取消的EX30车型，调整其入门级电动车战略。
+   https://insideevs.com/news/796235/volvo-ex30-replacement-ev-subcompact-suv/
+
