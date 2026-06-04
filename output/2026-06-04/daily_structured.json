@@ -1,0 +1,85 @@
+{
+  "trends": [
+    "电动汽车市场走向多元化与亲民化，多家车企推出更具价格竞争力的电动车型，同时二手EV市场也开始活跃。",
+    "自动驾驶技术商业化面临落地挑战与战略调整，大规模部署进展缓慢，但AI在智能座舱中的应用正被车企积极探索。",
+    "新能源产业链上下游投资持续活跃，电池储能系统和太阳能制造能力不断扩张，为电动化转型提供坚实支撑。"
+  ],
+  "新能源": [
+    {
+      "title": "Here’s our first look at BYD’s new low-cost, 1,000 km-range PHEV in real life",
+      "summary": "比亚迪推出全新低成本、续航1000公里的插电混动车型，有望进一步扩大市场份额，提供更具吸引力的选择。",
+      "link": "https://electrek.co/2026/06/byd-new-low-cost-1000km-phev-spotted"
+    },
+    {
+      "title": "Volkswagen is launching more affordable EVs, starting with these two models",
+      "summary": "大众汽车即将推出更多经济型电动汽车，旨在降低EV购入门槛，扩大其在电动汽车市场的覆盖范围。",
+      "link": "https://electrek.co/2026/06/volkswagen-more-affordable-evs"
+    },
+    {
+      "title": "ELM MicroGrid installs battery storage in its hometown",
+      "summary": "ELM MicroGrid在其家乡安装了电池储能系统，推动当地清洁能源基础设施建设，提升能源韧性。",
+      "link": "https://electrek.co/2026/06/elm-microgrid-battery-storage"
+    },
+    {
+      "title": "Another giant solar factory is coming to Texas",
+      "summary": "德克萨斯州将新建一座大型太阳能电池板工厂，预示着美国可再生能源制造能力的持续扩张和供应链的加强。",
+      "link": "https://electrek.co/2026/06/another-giant-solar-factory-coming-to-texas"
+    },
+    {
+      "title": "Orders For Slate’s Sub-$30K Bare-Bones EV Truck Finally Open On June 24—But There’s A Catch",
+      "summary": "Slate公司开放低于3万美元的极简电动皮卡订单，旨在通过成本效益吸引市场，但需要300美元不可退还的定金。",
+      "link": "https://example.com/slate-ev-truck-orders"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla expands ‘Robotaxi’ to entire Austin metro — but still has only ~20 vehicles",
+      "summary": "特斯拉将其“Robotaxi”服务扩展至奥斯汀都会区，但实际运营车辆数量仍非常有限，远低于此前预期。",
+      "link": "https://electrek.co/2026/04/tesla-expands-robotaxi-austin"
+    },
+    {
+      "title": "Rivian Says Fight Over Apple CarPlay Is 'Completely Obsolete' Thanks To AI",
+      "summary": "Rivian认为AI驱动的语音助手将使Apple CarPlay等车载互联系统过时，预示未来智能座舱将更加集成和智能。",
+      "link": "https://example.com/rivian-ai-carplay"
+    },
+    {
+      "title": "Elon Musk Promised 1,000 Texas Robotaxis Last Year. It’s Nowhere Near That",
+      "summary": "埃隆·马斯克此前承诺的千辆德州Robotaxi远未实现，实际数量与预期差距巨大，凸显自动驾驶部署的挑战。",
+      "link": "https://example.com/musk-robotaxi-promises"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Voters shocked to learn the fossil shill in charge of EPA is harming air quality",
+      "summary": "美国选民对环保署负责人被指损害空气质量感到震惊，引发公众对环保政策和官员职责的关注与讨论。",
+      "link": "https://electrek.co/2024/11/voters-shocked-epa-harming-air-quality"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Hyundai IONIQ 5 crowned the best family EV",
+      "summary": "现代IONIQ 5被评为最佳家用电动汽车，突显其在市场上的竞争力与实用性，赢得消费者青睐。",
+      "link": "https://electrek.co/2026/06/hyundai-ioniq-5-best-family-ev"
+    },
+    {
+      "title": "The Rolls-Royce Spectre Gets Big Update. But You Wouldn’t Know It",
+      "summary": "劳斯莱斯纯电动车型Spectre获得显著更新，提升了续航、充电速度和响应能力，进一步优化豪华电动体验。",
+      "link": "https://example.com/rolls-royce-spectre-update"
+    },
+    {
+      "title": "The Company That Builds The iPhone Just Unveiled A Tesla Model Y Competitor",
+      "summary": "富士康推出了一款特斯拉Model Y的竞争车型Cavira，搭载LFP电池和双电机系统，显示科技巨头对电动汽车市场的深入投入。",
+      "link": "https://example.com/foxconn-ev-competitor"
+    },
+    {
+      "title": "Tesla Is Selling Discounted Used Cybertrucks Now",
+      "summary": "特斯拉开始销售打折的二手Cybertruck，最低价格低于67,000美元，旨在刺激市场需求和消化库存。",
+      "link": "https://example.com/tesla-used-cybertrucks"
+    },
+    {
+      "title": "It's Official: Rivian Will Start Delivering R2s In Two Weeks",
+      "summary": "Rivian宣布其R2车型将于两周内开始交付，并开放预订和试驾，标志着新车型正式进入市场阶段。",
+      "link": "https://example.com/rivian-r2-deliveries"
+    }
+  ]
+}
