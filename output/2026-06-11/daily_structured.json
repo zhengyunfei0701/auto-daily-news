@@ -1,0 +1,75 @@
+{
+  "trends": [
+    "电动汽车市场需求韧性与成本优化并存：在税收抵免结束后EV销量仍创新高，同时厂商积极探索非锂电池、高效混动等技术以降低成本和提升竞争力。",
+    "充电基础设施与技术加速发展：车企正大力投入充电技术创新和网络建设，通过闪充等技术提升用户体验，解决里程焦虑。",
+    "全球汽车产业竞争格局加剧与技术分化：中国品牌在全球市场份额和技术上挑战传统巨头，各车企在智能驾驶、电池技术和产品策略上进行差异化竞争。"
+  ],
+  "新能源": [
+    {
+      "title": "GM is betting on battery cells that don’t use lithium",
+      "summary": "通用汽车正押注非锂电池技术，旨在降低成本并提高电动汽车电池的可持续性。",
+      "link": "https://electrek.co/2026/06/10/gm-sodium-ion-battery-peak-energy/"
+    },
+    {
+      "title": "BYD is bringing its 5-min ‘Flash’ electric car charging to Canada",
+      "summary": "比亚迪计划将其5分钟“闪充”电动车充电技术引入加拿大市场，以提升充电效率和用户体验。",
+      "link": "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/"
+    },
+    {
+      "title": "EV sales just hit their best month since federal tax credits ended",
+      "summary": "在联邦税收抵免结束后，电动汽车销量达到最佳月份，显示市场需求持续强劲。",
+      "link": "https://electrek.co/2026/06/10/ev-sales-just-hit-their-best-month-since-federal-tax-credits-ended/"
+    },
+    {
+      "title": "BYD’s new plug-in Super hatch packs 65 miles of EV range, promises to slash fuel costs",
+      "summary": "比亚迪发布新款插电式超级掀背车，纯电续航65英里，承诺大幅降低燃油成本，提升产品竞争力。",
+      "link": "https://electrek.co/2026/06/10/byds-super-hatch-packs-65-miles-ev-range-will-cut-fuel-costs/"
+    },
+    {
+      "title": "Kia EV2 delivers 105% of its official range estimate in the real world, ranking #1 in class",
+      "summary": "起亚EV2在实际驾驶中续航里程超出官方估值105%，在同级别车型中表现最佳，验证了其效率。",
+      "link": "https://electrek.co/2026/06/10/kia-ev2-delivers-105-of-official-range-estimate-in-real-world/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "The Lucid Gravity's Latest Update Brings Hands-Free Driving And Google Maps Information",
+      "summary": "Lucid Gravity通过最新软件更新，获得了免提驾驶功能和谷歌地图信息集成，提升了智能驾驶体验。",
+      "link": "https://insideevs.com/news/798127/lucid-gravity-update-hands-free-2026/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "BYD threatens to sue Trump administration over Pentagon military list",
+      "summary": "比亚迪威胁就美国国防部将其列入“军事相关企业”名单一事，对特朗普政府提起诉讼，涉及地缘政治和贸易摩擦。",
+      "link": "https://electrek.co/2026/06/10/byd-threatens-sue-trump-administration-pentagon-military-list/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "BYD outsold Ford, and now it thinks it can catch Toyota as the world’s No. 1 automaker",
+      "summary": "比亚迪销量已超越福特，并提出目标要超越丰田成为全球第一大汽车制造商，显示其全球扩张雄心。",
+      "link": "https://electrek.co/2026/06/10/byd-outsold-ford-thinks-it-can-catch-toyota-for-no-1/"
+    },
+    {
+      "title": "Lucid's Top Engineer Departs The EV Startup As New CEO Takes Over",
+      "summary": "Lucid的高级工程副总裁离职，正值新任首席执行官接管公司之际，引发对公司战略和未来发展的关注。",
+      "link": "https://insideevs.com/news/798378/lucid-engineer-departs-emad-dlala-2026/"
+    },
+    {
+      "title": "Tesla Apparently Won't Let Cybertruck Buyers Transfer FSD Without Spending Another $20k",
+      "summary": "特斯拉似乎不再允许Cybertruck买家转移其全自动驾驶（FSD）功能，除非额外支付2万美元，改变了FSD的销售策略。",
+      "link": "https://insideevs.com/news/798281/tesla-cybertruck-fsd-transfer-switcharoo/"
+    },
+    {
+      "title": "Teslas Are More Likely To Hit 250,000 Miles Than Almost Every Car Brand",
+      "summary": "一项研究表明，特斯拉车辆比几乎所有其他汽车品牌更有可能达到25万英里的行驶里程，挑战了电动车耐用性的固有观念。",
+      "link": "https://insideevs.com/news/798125/tesla-subaru-study-twice-250k/"
+    },
+    {
+      "title": "The 2027 Cadillac Lyriq Is Keeping A Big Feature All Other GM EVs Have Already Lost",
+      "summary": "2027款凯迪拉克Lyriq将保留一项其他通用电动车已取消的重要功能，并采用特斯拉式的充电接口，表明其产品策略调整。",
+      "link": "https://insideevs.com/news/798034/2027-cadillac-lyriq-apple-carplay-nacs/"
+    }
+  ]
+}
