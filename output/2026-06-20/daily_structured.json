@@ -1,0 +1,64 @@
+{
+  "trends": [
+    "高端电动车市场需求旺盛，国际化竞争加剧，中国品牌加速出海。",
+    "智能驾驶技术持续推进，尤其在Robotaxi领域合作深化，但人机交互与安全挑战依然突出。",
+    "主流及豪华品牌电动车型持续迭代升级，聚焦续航、性能和细分市场拓展。"
+  ],
+  "新能源": [
+    {
+      "title": "BYD’s luxury SUV received a record 150,000 orders, and now it’s headed overseas",
+      "summary": "比亚迪豪华SUV仰望U8收到创纪录的15万份订单，并计划进军海外市场。",
+      "link": "https://electrek.co/2026/06/19/byds-luxury-suv-heads-overseas-after-record-150000-orders/"
+    },
+    {
+      "title": "BMW can’t wait: i3 orders open months early as buyers rush in",
+      "summary": "由于买家需求旺盛，宝马i3电动车订单提前数月开放。",
+      "link": "https://electrek.co/2026/06/19/bmw-opens-i3-orders-months-early-demand-surges/"
+    },
+    {
+      "title": "Jeep’s off-road EV goes on sale for $67,000, but its range is a bit disappointing",
+      "summary": "Jeep越野电动车上市，售价67,000美元，但其续航里程略显不足。",
+      "link": "https://electrek.co/2026/06/19/jeeps-off-road-ev-on-sale-for-67000-range-comes-up-short/"
+    },
+    {
+      "title": "The 2027 Porsche Taycan Gets Fake Gear Shifts And A Bigger Standard Battery",
+      "summary": "2027款保时捷Taycan将配备模拟换挡功能和更大的标准电池。",
+      "link": "https://insideevs.com/news/799071/porsche-taycan-fake-gear-shifts/"
+    },
+    {
+      "title": "Maserati boosts Folgore EV range by up to 85 km in 2026 refresh",
+      "summary": "玛莎拉蒂Folgore电动车系列在2026年改款中续航里程将增加多达85公里。",
+      "link": "https://electrek.co/2026/06/19/maserati-folgore-ev-range-improvement-2026-refresh/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Uber, Stellantis, And Wayve Want To Blanket The World In Robotaxis",
+      "summary": "Uber、Stellantis和Wayve合作，计划在全球范围内推广无人驾驶出租车。",
+      "link": "https://insideevs.com/news/799037/stellantis-uber-robotaxi-wayve-global/"
+    },
+    {
+      "title": "Tesla Owners Are Using Doll Heads To Fool Full Self-Driving",
+      "summary": "特斯拉车主利用假人头规避全自动驾驶（FSD）的驾驶员监控系统。",
+      "link": "https://insideevs.com/news/798901/tesla-owners-doll-heads-fsd/"
+    }
+  ],
+  "政策法规": [],
+  "国际车企": [
+    {
+      "title": "Skipping The Ferrari Luce Could Cost Collectors The Cars They Really Want",
+      "summary": "收藏家若跳过法拉利Luce EV，未来可能失去获得其真正心仪车型的机会。",
+      "link": "https://insideevs.com/news/799116/ferrari-luce-ev-allocation-collectors/"
+    },
+    {
+      "title": "Rivian Lays Off Hundreds Of Workers A Week After R2 Launch",
+      "summary": "Rivian在其R2车型发布一周后裁员数百名员工。",
+      "link": "https://insideevs.com/news/798933/rivian-layoffs-after-r2-launch/"
+    },
+    {
+      "title": "A Chinese Car Brand Says It Hired A Top Ferrari Designer. Ferrari Wants A Name",
+      "summary": "一家中国汽车品牌声称聘请了前法拉利首席设计师，法拉利要求其公布姓名。",
+      "link": "https://insideevs.com/news/798584/luxeed-rx-ferrari-purosangue-connection/"
+    }
+  ]
+}
