@@ -1,0 +1,69 @@
+# 汽车行业日报 2026-06-27
+
+## 今日核心趋势
+
+1. 电动汽车市场正呈现多元化发展，尤其在中低价位皮卡和特定细分市场推出新品，同时伴随车企在价格策略上进行精细化调整。
+2. 主流及新兴国际车企正加速推进电动化战略，包括新平台应用、产品线优化以及创新的客户服务模式，以应对市场竞争和提升用户体验。
+3. 智能驾驶技术持续取得进展，如无人驾驶车辆完成赛道测试，但同时，与自动驾驶相关的安全问题和潜在风险仍是行业关注的焦点。
+
+---
+## 新能源
+
+1. **The Jeep Recon EV goes on sale for $67,000 with a limited range**
+   Jeep的Recon电动SUV上市，定价67,000美元，但续航里程有限。
+   https://electrek.co/2026/06/26/jeep-recon-ev-on-sale-67000-with-limited-range/
+
+2. **BYD’s pickup spotted in China with a different look**
+   比亚迪全新电动皮卡在中国被发现，其外观设计独特。
+   https://electrek.co/2026/06/26/byds-pickup-spotted-china-different-look/
+
+3. **Slate’s electric truck can still dip under $20,000 — but only for some**
+   Slate电动卡车价格有机会低于20,000美元，但仅限部分消费者。
+   https://electrek.co/2026/06/26/slate-truck-under-20000-state-incentives/
+
+4. **Slate's Cheap EV Pickup Is Surprisingly Easy To Make Expensive**
+   Slate的廉价电动皮卡虽然起价低，但通过配件很容易变得昂贵。
+   https://insideevs.com/news/799725/slate-ev-hundreds-of-accessories/
+
+5. **Ex-Rental Tesla's Battery Degradation Slows After Initial Decline**
+   一辆前租赁特斯拉的电池在初期严重衰退后，其衰退速度明显减缓。
+   
+
+## 智能驾驶
+
+1. **Tesla FSD crash (discussed in podcast)**
+   播客中讨论了特斯拉全自动驾驶（FSD）系统发生事故的事件。
+   
+
+2. **A Driverless Xiaomi Electric SUV Just Lapped The Ring**
+   一辆小米无人驾驶电动SUV完成了纽博格林的圈速，展示了其自动驾驶能力。
+   
+
+## 政策法规
+
+1. **Polestar banned from US market (discussed in podcast)**
+   播客中提及Polestar可能被禁止进入美国市场。
+   
+
+## 国际车企
+
+1. **Tesla (TSLA) Q2 2026 delivery consensus: 406,000 vehicles expected**
+   分析师预测特斯拉2026年第二季度交付量为406,000辆。
+   https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/
+
+2. **GM’s new EV platform expected to debut in next-gen Chevy Equinox**
+   通用汽车的新电动汽车平台预计将在下一代雪佛兰Equinox上首次亮相。
+   
+
+3. **Hyundai’s small electric SUV just got a little more upscale**
+   现代汽车的小型电动SUV进行了升级，定位更加高端。
+   https://electrek.co/2026/06/26/hyundais-small-electric-suv-more-upscale/
+
+4. **Tesla Is Giving Away Free Supercharging. Here's How To Win.**
+   特斯拉正通过游戏化方式赠送终身免费超级充电服务。
+   https://insideevs.com/news/799674/tesla-free-supercharging-competition-2026/
+
+5. **Rivian Discontinues Its Cheapest R1T And R1S As R2 Rolls Out**
+   随着R2系列的推出，Rivian停产了其最便宜的R1T和R1S Dual Standard车型。
+   https://insideevs.com/news/799595/cheapest-rivian-r1s-r1t-discontinued-dual-standard/
+
