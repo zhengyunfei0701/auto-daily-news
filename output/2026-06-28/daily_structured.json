@@ -1,0 +1,80 @@
+{
+  "trends": [
+    "电动汽车市场竞争白热化与产品线多元化，经济型和细分市场车型受关注。",
+    "智能驾驶技术持续进步，但仍面临安全性验证和市场接受度挑战。",
+    "电动汽车核心技术（电池效率、充电系统、平台化）不断创新和优化。"
+  ],
+  "新能源": [
+    {
+      "title": "Mercedes posts Tesla-like efficiency hauling 36 tons through a German winter",
+      "summary": "奔驰电动重卡在冬季严寒条件下，展现出与特斯拉相当的能效表现，可高效运输36吨货物。",
+      "link": "https://electrek.co/2026/06/27/mercedes-posts-tesla-like-efficiency-hauling-36-tons-through-a-german-winter/"
+    },
+    {
+      "title": "The Jeep Recon EV goes on sale for $67,000 with a limited range",
+      "summary": "Jeep Recon电动SUV上市，售价67,000美元，但续航里程表现一般，引发市场对其性价比的关注。",
+      "link": "https://electrek.co/2026/06/26/jeep-recon-ev-on-sale-67000-with-limited-range/"
+    },
+    {
+      "title": "BYD’s pickup spotted in China with a different look",
+      "summary": "比亚迪电动皮卡在中国被拍到，其独特的外观设计预示着品牌在电动皮卡领域的布局。",
+      "link": "https://electrek.co/2026/06/26/byds-pickup-spotted-china-different-look/"
+    },
+    {
+      "title": "Slate's $24,950 EV Truck Will Test What America Really Wants",
+      "summary": "Slate公司推出的24,950美元电动皮卡，将考验美国市场对经济型电动卡车的需求和接受度。",
+      "link": "https://insideevs.com/news/799661/slate-truck-pricing-official-2026/"
+    },
+    {
+      "title": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
+      "summary": "壳牌开发了一款搭载超快充电和新型冷却系统的微型电动汽车，展示了其在EV技术创新方面的投入。",
+      "link": "https://insideevs.com/news/799823/shell-ev-battery-coolant-direct/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Podcast: Tesla FSD crash",
+      "summary": "一期播客讨论了特斯拉FSD（全自动驾驶）系统发生的事故，再次引发对智能驾驶安全性的关注。",
+      "link": ""
+    },
+    {
+      "title": "A Driverless Xiaomi Electric SUV Just Lapped The Ring. We Have Questions",
+      "summary": "小米无人驾驶电动SUV成功完成纽博格林赛道单圈测试，展示了其在智能驾驶技术上的进展。",
+      "link": "https://insideevs.com/news/799478/xiaomi-yu7-nurburgring-driverless-lap/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Podcast: Polestar banned from US",
+      "summary": "一期播客提及Polestar在美国面临禁售，反映了国际贸易和市场准入方面的政策法规影响。",
+      "link": ""
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Tesla (TSLA) Q2 2026 delivery consensus: 406,000 vehicles expected",
+      "summary": "分析师预计特斯拉2026年第二季度交付量将达到406,000辆，市场对其销量表现保持高度关注。",
+      "link": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/"
+    },
+    {
+      "title": "Rivian Discontinues Its Cheapest R1T And R1S As R2 Rolls Out",
+      "summary": "Rivian停产了其最便宜的R1T和R1S车型，以配合R2系列的推出，调整产品线战略。",
+      "link": "https://insideevs.com/news/799595/cheapest-rivian-r1s-r1t-discontinued-dual-standard/"
+    },
+    {
+      "title": "GM’s new EV platform is expected to debut in the next-gen Chevy Equinox",
+      "summary": "通用汽车的新电动汽车平台预计将在下一代雪佛兰Equinox上首次亮相，加速其电动化转型。",
+      "link": "https://electrek.co/2026/06/26/gm-plans-new-ev-platform-debut-next-gen-chevy-equinox/"
+    },
+    {
+      "title": "Tesla Is Giving Away Free Supercharging. Here's How To Win.",
+      "summary": "特斯拉通过游戏化活动提供免费超级充电机会，以刺激用户参与和提升品牌忠诚度。",
+      "link": "https://insideevs.com/news/799674/tesla-free-supercharging-competition-2026/"
+    },
+    {
+      "title": "Rivian Has A Bold Plan For You To Skip The Repair Shop",
+      "summary": "Rivian提出大胆计划，通过移动服务车队处理80%的维修需求，以提升客户服务体验并减少对实体维修站的依赖。",
+      "link": "https://insideevs.com/news/799432/rivian-80-percent-service-home/"
+    }
+  ]
+}
