@@ -1,0 +1,90 @@
+{
+  "trends": [
+    "EV市场竞争加剧，价格和可负担性成为关键驱动因素。",
+    "智能驾驶技术面临复杂的监管环境和公众信任挑战。",
+    "传统国际车企在电动化转型中采取多元策略，市场区域差异明显。"
+  ],
+  "新能源": [
+    {
+      "title": "Global EV sales hit 2 million in June – and the US falls further behind",
+      "summary": "全球电动汽车销量在6月达到200万辆，显示市场持续增长，但美国在电动汽车普及方面落后于其他主要市场。",
+      "link": "https://electrek.co/2026/07/global-ev-sales-june-us-falls-behind"
+    },
+    {
+      "title": "BYD launches the Dolphin G plug-in hatch with 65 miles of EV range for $32,000",
+      "summary": "比亚迪推出价格约为32,000美元的海豚G插电式混合动力掀背车，纯电续航里程65英里，进一步扩大其经济型电动汽车产品线。",
+      "link": "https://electrek.co/2026/06/byd-dolphin-g-price"
+    },
+    {
+      "title": "MG is launching its first PHEV with semi-solid-state batteries in 2027",
+      "summary": "名爵计划在2027年推出首款搭载半固态电池的插电式混合动力车（PHEV），预示着电池技术在量产车型中的应用进展。",
+      "link": "https://electrek.co/2026/07/mg-semi-solid-state-batteries-phev"
+    },
+    {
+      "title": "Ford’s $30,000 Electric Pickup's Size, Explained",
+      "summary": "福特对其3万美元电动皮卡的尺寸定位进行解释，强调其作为中型车型的市场策略，可能引领经济型电动皮卡趋势。",
+      "link": "https://electrek.co/2026/07/ford-30000-electric-pickup-size"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "New bill would ban Tesla’s camera-only Robotaxi, not Waymo",
+      "summary": "一项新法案提议禁止特斯拉仅依赖摄像头的Robotaxi技术，但未涉及Waymo，显示监管机构对不同自动驾驶方案持差异化态度。",
+      "link": "https://electrek.co/2023/02/tesla-camera-only-robotaxi-bill"
+    },
+    {
+      "title": "Feds Are Looking to Remove a Major Roadblock for Driverless Robotaxis: The Steering Wheel",
+      "summary": "美国NHTSA负责人探讨取消无人驾驶Robotaxi对方向盘的强制要求，旨在为L5级别自动驾驶车辆的部署扫清障碍。",
+      "link": "https://electrek.co/2026/07/feds-remove-steering-wheel-robotaxis"
+    },
+    {
+      "title": "New Jersey Law Would Outlaw Tesla's Camera-Based Robotaxi Tech",
+      "summary": "新泽西州一项法案将投票，可能禁止特斯拉的纯摄像头Robotaxi技术，要求自动驾驶汽车额外采用两种传感技术。",
+      "link": "https://electrek.co/2026/07/new-jersey-outlaw-tesla-camera-robotaxi"
+    },
+    {
+      "title": "Don't Get Too Rowdy In A Waymo, Kids, Or This Could Happen To You",
+      "summary": "Waymo自动驾驶出租车在遇到不守规矩的乘客时，采取了报警处理，揭示了自动驾驶服务在应对乘客行为方面的操作细则和挑战。",
+      "link": "https://electrek.co/2026/07/waymo-robotaxi-passenger-incident"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Trump clean energy rollbacks erase $68B in US investment",
+      "summary": "特朗普政府时期的清洁能源政策倒退导致美国680亿美元的投资流失，凸显政策波动对行业发展的巨大影响。",
+      "link": "https://electrek.co/2025/02/trump-clean-energy-rollbacks-investment"
+    },
+    {
+      "title": "The EU Wants To Use Satellites To Automatically Prevent Your Car From Speeding: Report",
+      "summary": "欧盟据报道计划利用卫星技术自动限制车辆超速，通过减少动力输出实现，预示未来车辆管理可能引入更严格的自动化监管。",
+      "link": "https://electrek.co/2026/07/eu-satellites-prevent-car-speeding"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Hyundai launches affordable EV deals with 0% APR and up to $10,000 off",
+      "summary": "现代汽车推出激进的电动车优惠策略，包括0%年利率和高达1万美元的折扣，以应对市场竞争并刺激消费者购买。",
+      "link": "https://electrek.co/2026/07/hyundai-ev-deals"
+    },
+    {
+      "title": "Toyota delays Highlander BEV production as the 3-row electric SUV is put on the back burner",
+      "summary": "丰田推迟Highlander纯电动SUV的生产计划，表明其在电动化转型中面临挑战，并可能重新评估市场需求和产品策略。",
+      "link": "https://electrek.co/2026/07/toyota-highlander-bev-delay"
+    },
+    {
+      "title": "Mercedes EV Sales Jumped 50% In Q2. That's Mostly Thanks To Europe",
+      "summary": "梅赛德斯-奔驰第二季度电动车销量同比增长50%，主要得益于欧洲市场的强劲表现，但全球市场发展不均衡。",
+      "link": "https://electrek.co/2026/07/mercedes-ev-sales-q2-europe"
+    },
+    {
+      "title": "I Saw Scout's New Trucks Up Close. They Could Be Worth The Wait",
+      "summary": "大众旗下新品牌Scout的电动皮卡和SUV原型车亮相，展现出潜力，但其进入市场仍需时日，面临激烈竞争。",
+      "link": "https://electrek.co/2026/07/scout-electric-trucks-preview"
+    },
+    {
+      "title": "BYD's PHEV Pickup Just Landed In The U.K. But Americans Still Can't Have It",
+      "summary": "比亚迪的插电式混合动力皮卡已在英国上市，但美国市场仍无法购买，显示比亚迪在全球扩张中的区域策略差异。",
+      "link": "https://electrek.co/2026/07/byd-phev-pickup-uk-us"
+    }
+  ]
+}
