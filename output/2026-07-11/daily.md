@@ -1,0 +1,77 @@
+# 汽车行业日报 2026-07-11
+
+## 今日核心趋势
+
+1. 全球电动车市场竞争加剧，中国品牌影响力显著提升，同时市场细分化（经济型、高性能、新型电池）和区域发展不均日益明显。
+2. 自动驾驶技术在部署与商业化过程中面临实际操作挑战和日益严格的监管审查，尤其在安全性和公众信任方面，政策制定者正积极介入。
+3. 传统国际车企在电动化转型中展现出多样化的市场适应策略，包括产品线调整、新车型的推出及对燃油车需求的持续权衡，以应对市场变化。
+
+---
+## 新能源
+
+1. **UNIGRID’s sodium-ion home battery debuts in Europe, US is next**
+   UNIGRID的钠离子家用电池在欧洲首次亮相，美国将是下一个市场，这标志着电池技术多样化和家用储能的应用。
+   https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe-us/
+
+2. **BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades**
+   比亚迪发布了售价1万美元的海鸥EV升级版，车身更长并有更多改进，进一步提升了其在经济型电动车市场的竞争力。
+   https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/
+
+3. **These are the top 10 best-selling EVs in the US so far in 2026**
+   报告显示了2026年迄今为止美国最畅销的十大电动汽车，提供了市场动态的关键洞察。
+   https://electrek.co/2026/07/10/top-10-best-selling-evs-us-first-half-2026/
+
+4. **Australia’s 7 best-selling EVs are now all Chinese — even Tesla’s**
+   澳大利亚最畅销的7款电动汽车目前全部来自中国品牌，显示出中国电动车在全球市场的强大影响力。
+   https://electrek.co/2026/07/10/australia-top-7-evs-all-chinese/
+
+5. **This EV Supercar Packs 1,582 HP And 1.5-Megawatt Charging**
+   比亚迪腾势Z电动超跑拥有1582马力和1.5兆瓦充电能力，可在9分钟内从10%充至97%，展示了EV性能和充电技术的突破。
+   https://insideevs.com/news/801243/denza-z-electric-supercar-specs/
+
+## 智能驾驶
+
+1. **Musk tells Tesla staff to switch to Grok — a model he admits is worse**
+   埃隆·马斯克指示特斯拉员工改用Grok模型，尽管他承认其性能较差，此举可能影响特斯拉的AI策略。
+   https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/
+
+2. **Don't Get Too Rowdy In A Waymo, Kids, Or This Could Happen To You**
+   Waymo自动驾驶出租车因乘客不当行为报警，揭示了自动驾驶服务在用户行为管理方面的挑战。
+   https://insideevs.com/news/801056/waymo-fireworks-turned-in-cops/
+
+## 政策法规
+
+1. **'Public Trust Is Earned': Feds Are Officially Tired Of Robotaxis Getting In The Way Of First Responders**
+   联邦机构对自动驾驶出租车阻碍紧急救援人员的行为表示不满，强调企业需赢得公众信任，可能导致更严格的监管。
+   https://insideevs.com/news/801174/nhtsa-robotaxi-av-first-responders/
+
+2. **Feds Are Looking to Remove a Major Roadblock for Driverless Robotaxis: The Steering Wheel**
+   美国国家公路交通安全管理局（NHTSA）负责人考虑取消无人驾驶出租车的方向盘要求，以促进其发展。
+   https://insideevs.com/news/801185/feds-end-driverless-steering-wheels/
+
+3. **New Jersey Law Would Outlaw Tesla's Camera-Based Robotaxi Tech**
+   新泽西州一项法案可能禁止特斯拉基于摄像头的自动驾驶技术，要求自动驾驶汽车额外使用两种传感器。
+   https://insideevs.com/news/801178/new-jersey-bill-bans-tesla/
+
+## 国际车企
+
+1. **Volkswagen’s EV van makes a surprise comeback in the US as the ID.4 goes on hiatus**
+   大众汽车的电动面包车在美国意外回归，而ID.4暂时停产，反映了车企在不同市场的产品策略调整。
+   https://electrek.co/2026/07/10/vws-ev-van-makes-comeback-us-id-4-goes-on-hiatus/
+
+2. **Toyota is promising big things for the Lexus LFA EV sports car, but will we ever get to see it?**
+   丰田承诺为雷克萨斯LFA电动跑车带来重大创新，但其上市时间仍不确定，引发市场期待。
+   https://electrek.co/2026/07/10/toyota-promising-big-things-for-lexus-lfa-ev-sports-car/
+
+3. **Mercedes EV Sales Jumped 50% In Q2. That's Mostly Thanks To Europe**
+   梅赛德斯第二季度电动汽车销量增长50%，主要得益于欧洲市场强劲表现，但全球其他地区差距显著。
+   https://insideevs.com/news/801155/mercedes-q2-2026-ev-sales/
+
+4. **I Saw Scout's New Trucks Up Close. They Could Be Worth The Wait**
+   Scout品牌的电动卡车Traveler和Terra展示了其潜力，尽管上市之路仍充满挑战，但值得期待。
+   https://insideevs.com/news/800910/scout-traveler-terra-first-look-impressions/
+
+5. **Toyota Delays 2027 Highlander EV As Demand For Gas Model Remains Robust**
+   丰田推迟了2027年Highlander EV的上市时间，原因是燃油版车型需求依然强劲，反映了其在电动化转型中的市场考量。
+   https://insideevs.com/news/801150/toyota-highlander-ev-launch-delayed/
+
