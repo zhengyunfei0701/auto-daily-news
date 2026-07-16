@@ -1,0 +1,75 @@
+{
+  "trends": [
+    "电动车市场竞争加剧，价格战与多样化产品策略并行，传统车企与新势力共同面对挑战。",
+    "电动汽车核心技术，特别是电池性能与生产投资，成为决定市场竞争力的关键领域。",
+    "全球车企电动化转型路径分化，部分车企加速布局，部分对技术成熟度持谨慎态度，同时市场机遇与财务风险并存。"
+  ],
+  "新能源": [
+    {
+      "title": "现代下调IONIQ 5 N电动车售价6300美元",
+      "summary": "现代汽车宣布将旗下高性能电动车IONIQ 5 N的价格下调6300美元，以提升市场竞争力。",
+      "link": "https://electrek.co/2026/07/hyundai-ioniq-5n-price-cut/"
+    },
+    {
+      "title": "现代投资50亿美元建电池厂，力争成为美国第二大电动车品牌",
+      "summary": "现代汽车斥资50亿美元新建电池工厂，旨在加强其在美国市场的电动汽车布局，并计划成为美国第二大电动车品牌。",
+      "link": "https://electrek.co/2026/07/hyundai-opens-ev-battery-plant/"
+    },
+    {
+      "title": "研究发现特斯拉Model 3某电池化学类型老化性能更佳",
+      "summary": "一项对四种Model 3电池变体进行的比较研究显示，宁德时代（CATL）的磷酸铁锂（LFP）电池在6.2万英里后保留了更多的初始容量。",
+      "link": "https://electrek.co/2026/07/tesla-model-3-battery-chemistry/"
+    },
+    {
+      "title": "EV初创公司推出1.5万美元低速电动车，无需停车烦恼",
+      "summary": "一家新的电动汽车初创公司推出了一款售价1.5万美元、时速25英里的小型电动车，主打无需停车的便捷性。",
+      "link": "https://electrek.co/2026/07/ev-startup-15k-car/"
+    },
+    {
+      "title": "新型电动车增程器：无燃油并采用新型发电机技术",
+      "summary": "Horse Powertrain推出一款新型电动车增程器，不依赖燃油，并搭载比传统发电机更小、更强大的电机。",
+      "link": "https://electrek.co/2026/07/ev-range-extender-new-generator/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "字节跳动或将进军自动驾驶领域",
+      "summary": "报道指出，TikTok的母公司字节跳动正在考虑进入自动驾驶汽车领域。",
+      "link": "https://electrek.co/2026/07/tiktok-autonomous-car-race/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "报告称特朗普政府清洁能源政策回撤导致美国逾11.1万个工作岗位流失",
+      "summary": "报告指出，特朗普政府取消拜登时代清洁能源激励措施，导致223个清洁能源项目终止，损失829亿美元投资和逾11.1万个工作岗位。",
+      "link": "https://electrek.co/2026/07/trump-clean-energy-pullback-jobs/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Tesla多元化业务布局，涵盖能源与二手车",
+      "summary": "报道指出特斯拉除了电动车业务，还在能源和二手车市场发力，拓展其业务版图。",
+      "link": "https://electrek.co/2026/07/tesla-energy-used-car-business/"
+    },
+    {
+      "title": "沃尔沃计划在美国推出两款非SUV电动车型，定价约5万美元",
+      "summary": "沃尔沃宣布计划在美国市场推出两款价格约5万美元的新型电动汽车，且均非SUV车型，旨在拓宽其EV产品线。",
+      "link": "https://electrek.co/2026/07/volvo-new-evs-us/"
+    },
+    {
+      "title": "兰博基尼推迟首款电动车上市至2030年后，称EV技术尚不成熟",
+      "summary": "兰博基尼表示电动汽车技术尚未成熟，因此将其首款纯电动车的推出时间推迟到2030年之后。",
+      "link": "https://electrek.co/2026/07/lamborghini-first-ev-past-2030/"
+    },
+    {
+      "title": "GMC推出限量版悍马“ICON”电动车，同期销量下降55%",
+      "summary": "为庆祝悍马品牌25周年，GMC推出限量版“ICON”电动车，但同期悍马电动车销量下降了55%。",
+      "link": "https://electrek.co/2026/07/gmc-hummer-ev-sales/"
+    },
+    {
+      "title": "Lucid否认考虑破产传闻，股价受谣言影响大跌",
+      "summary": "一份关于Lucid考虑破产的报道引发其股价大幅下跌，公司随后官方否认该传闻。",
+      "link": "https://electrek.co/2026/07/lucid-denies-bankruptcy-report/"
+    }
+  ]
+}
