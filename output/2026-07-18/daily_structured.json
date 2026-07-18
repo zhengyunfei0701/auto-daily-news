@@ -1,0 +1,63 @@
+{
+  "trends": [
+    "全球电动汽车市场竞争白热化，中国品牌加速出海并改变全球竞争格局。",
+    "欧洲等成熟市场电动化进程加速，传统车企加大电动车产品线投入与定价策略调整。",
+    "市场淘汰赛加剧，部分传统车企调整电动化步伐，并寻求差异化竞争优势。"
+  ],
+  "新能源": [
+    {
+      "title": "BMW i3 Touring caught for the first time, and that wagon rear is hard to miss",
+      "summary": "宝马i3 Touring旅行车首次被曝光，其旅行车尾部设计引人注目，预示着宝马在电动车产品线上的扩展。",
+      "link": "https://electrek.co/2026/07/17/bmw-i3-touring-caught-first-time-flashing-wagon-rear/"
+    },
+    {
+      "title": "Toyota is offering $3,000 if you trade in your old EV for its new electric SUV",
+      "summary": "丰田为鼓励消费者购买其新款bZ系列电动SUV，提供3000美元的旧电动车置换补贴，旨在提升电动车销量。",
+      "link": "https://electrek.co/2026/07/17/toyota-offers-3000-to-trade-in-old-ev-for-new-electric-suv/"
+    },
+    {
+      "title": "In the birthplace of the car, EVs are now king: BEVs outsell gas cars in Germany",
+      "summary": "德国纯电动汽车（BEV）销量首次超越燃油车，标志着汽车发源地市场向电动化转型的里程碑式进展。",
+      "link": "https://electrek.co/2026/07/17/in-the-birthplace-of-the-automobile-electric-cars-are-now-king/"
+    },
+    {
+      "title": "BYD unveils its latest luxury EV with sleek fastback styling and 570 miles of range",
+      "summary": "比亚迪发布最新豪华电动汽车，采用流线型快背造型，并宣称续航里程可达570英里，展现其在高端电动车市场的野心。",
+      "link": "https://electrek.co/2026/07/17/byd-unveils-new-luxury-ev-1200-hp-570-miles-range/"
+    },
+    {
+      "title": "Volkswagen’s new ID. Polo EV secured 25,000 orders in weeks — Now, it’s even cheaper",
+      "summary": "大众新款ID. Polo EV在数周内获得2.5万份订单，且其价格进一步下调，显示了市场对经济型电动车的强劲需求及车企的成本控制能力。",
+      "link": "https://electrek.co/2026/07/17/volkswagen-id-polo-ev-orders-hit-25000-in-weeks-cheaper-version-launches/"
+    }
+  ],
+  "智能驾驶": [],
+  "政策法规": [],
+  "国际车企": [
+    {
+      "title": "Tesla launches in Latvia and Uruguay, expanding on two continents",
+      "summary": "特斯拉在拉脱维亚和乌拉圭推出业务，进一步将其市场版图扩展到欧洲和南美洲的更多国家。",
+      "link": "https://electrek.co/2026/07/17/tesla-latvia-uruguay-launch/"
+    },
+    {
+      "title": "'Completely Insane': China Has 650 New Car Models So Far This Year",
+      "summary": "中国汽车市场今年已推出多达650款新车型，平均每月约30款，显示出中国汽车产业惊人的研发和生产速度。",
+      "link": "https://insideevs.com/news/801909/china-650-new-car-models/"
+    },
+    {
+      "title": "BYD Wants To Overtake Toyota, And It Says It Doesn't Need America To Do It",
+      "summary": "比亚迪宣称计划在五年内超越丰田成为全球销量最高的汽车公司，并表示即使不进入美国市场也能实现这一目标，凸显其全球化战略重心。",
+      "link": "https://insideevs.com/news/801940/byd-toyota-domination-goal-sales/"
+    },
+    {
+      "title": "Honda Just Axed Its Last EV In The U.S.",
+      "summary": "本田在美国市场停产了其最后一款电动车型Prologue，目前在该市场没有纯电动产品，表明其电动化战略可能有所调整。",
+      "link": "https://insideevs.com/news/801921/honda-prologue-discontinued-ev-2026/"
+    },
+    {
+      "title": "Americans Can't Have These Affordable Chinese EVs. But They're Coming To Canada",
+      "summary": "中国东风汽车计划于2027年开始在加拿大销售其电动车型，而美国市场仍无法获得这些经济实惠的中国电动车，反映出北美市场对中国电动车的不同准入政策。",
+      "link": "https://insideevs.com/news/801796/dongfeng-canada-china-nammi-box/"
+    }
+  ]
+}
