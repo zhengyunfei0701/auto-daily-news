@@ -1,0 +1,75 @@
+{
+  "trends": [
+    "电动汽车市场需求两极分化与平价车型崛起：平价电动车销量强劲，高端车型订单充足，但消费者对成本和性能平衡的要求提升。",
+    "自动驾驶技术加速全球落地与挑战并存：Robotaxi服务在国际市场拓展，车辆智能升级成为趋势，但技术成熟度与安全监管仍面临严峻挑战。",
+    "地缘政治与监管政策对全球汽车产业链影响加剧：国际贸易政策和安全法规的变化，正深刻影响车企的市场战略、产品设计及供应链布局。"
+  ],
+  "新能源": [
+    {
+      "title": "大众平价电动车大获成功，订单已达7万份并持续增长",
+      "summary": "大众集团的“电动城市车家族”表现远超预期，目前已获得超过7万份订单，显示出市场对平价电动车的强劲需求。",
+      "link": "https://electrek.co/2026/07/volkswagen-affordable-ev-orders/"
+    },
+    {
+      "title": "奔驰新款GLA EV在发布前一天泄露",
+      "summary": "奔驰新款GLA电动车型在官方首次亮相前一天信息遭到泄露，预示其即将进入市场，进一步丰富豪华电动车产品线。",
+      "link": "https://electrek.co/2026/07/mercedes-gla-ev-leaks/"
+    },
+    {
+      "title": "宝马iX3产量突破5万辆，订单需求接近10万",
+      "summary": "宝马iX3车型在九个月内产量已达5万辆，而订单需求接近10万辆，显示出其在电动SUV市场的强劲表现。",
+      "link": "https://electrek.co/2026/07/bmw-ix3-production-demand/"
+    },
+    {
+      "title": "三菱Eclipse EV更多细节公布：将配备双充电端口和NACS兼容性",
+      "summary": "关于即将于今年秋季推出的廉价三菱Eclipse EV，更多细节浮出水面，包括其将配备双充电端口并支持NACS，增强了充电便利性。",
+      "link": "https://electrek.co/news/mitsubishi-eclipse-ev-details/"
+    },
+    {
+      "title": "Rivian R2充电性能强劲且悬挂系统优化，长途旅行表现“尚可”",
+      "summary": "Rivian R2通过优化电池和悬挂系统，在节省成本和重量的同时保持了出色的充电性能，但长途旅行体验被评价为“尚可”。",
+      "link": "https://electrek.co/news/rivian-r2-charging-suspension/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Kia将于2027年开始对其车辆进行智能升级",
+      "summary": "Kia宣布将从2027年开始在其车辆中引入智能升级，可能包括更先进的自动驾驶辅助系统和互联功能，提升用户体验。",
+      "link": "https://electrek.co/2027/07/kia-smart-upgrade/"
+    },
+    {
+      "title": "百度Apollo Go与Uber、Lyft合作在伦敦启动Robotaxi测试",
+      "summary": "百度旗下自动驾驶出行服务Apollo Go宣布与Uber和Lyft合作，在伦敦开始Robotaxi测试，标志着其在国际市场的进一步扩张。",
+      "link": "https://electrek.co/2022/07/baidu-apollo-go-london-test/"
+    },
+    {
+      "title": "特斯拉FSD订阅用户数量接近150万",
+      "summary": "特斯拉全自动驾驶（FSD）订阅用户在上个季度增加了20万，总数已接近150万，显示了FSD功能的持续普及。",
+      "link": "https://electrek.co/news/tesla-fsd-subscribers/"
+    },
+    {
+      "title": "特斯拉前自动驾驶经理描述Robotaxi测试中的“惊险”状况",
+      "summary": "一位前特斯拉经理透露了该公司Robotaxi测试中遇到的具有挑战性甚至“惊险”的驾驶条件，引发了对自动驾驶安全性的讨论。",
+      "link": "https://electrek.co/2026/04/tesla-robotaxi-scary-conditions/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "旨在限制中国汽车进入美国的法案在参议院取得进展，或影响奔驰等车企",
+      "summary": "美国参议院推进了一项旨在禁止与中国有过多股权关联的汽车制造商进入美国市场的法案，可能对包括奔驰在内的国际车企产生深远影响。",
+      "link": "https://electrek.co/news/us-senate-china-car-bill/"
+    },
+    {
+      "title": "特斯拉争议性门把手可能引发新的安全法规",
+      "summary": "美国国家公路交通安全管理局（NHTSA）表示将开始制定所有车辆内部车门开启机制的新规定，这可能与特斯拉独特的门把手设计相关，提升行业安全标准。",
+      "link": "https://electrek.co/news/tesla-door-handles-safety-rules/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "沙特王子Alwaleed收购Lucid 5%股份，股价飙升25%",
+      "summary": "沙特王子Alwaleed bin Talal收购了电动汽车制造商Lucid Group 5%的股份，导致该公司股价上涨25%，体现了中东资本对高端电动汽车市场的兴趣。",
+      "link": "https://electrek.co/2026/06/saudi-prince-lucid-stake/"
+    }
+  ]
+}
