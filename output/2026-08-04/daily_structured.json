@@ -1,0 +1,69 @@
+{
+  "trends": [
+    "电动汽车性能与续航进入新竞争阶段，技术突破和极致体验成为新的竞争焦点。",
+    "软件定义汽车的趋势深化，但在带来个性化体验的同时，也伴随着技术兼容性与用户交互体验的挑战。",
+    "全球电动汽车市场竞争加剧，中国品牌崛起对国际市场格局构成冲击，国际车企积极调整战略应对。"
+  ],
+  "新能源": [
+    {
+      "title": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
+      "summary": "吉利银河旗舰车型Battleship 700发布，搭载三电机系统，拥有1,113马力，定位高端豪华。",
+      "link": "https://electrek.co/2026/08/03/geely-galaxy-battleship-700-tri-motor-stuffs-1113-hp-in-a-high-luxe-boxy-package/"
+    },
+    {
+      "title": "BYD opens Denza Z9S pre-orders, claiming the ‘world’s longest’ EV range at 1,100 km",
+      "summary": "比亚迪旗下腾势Z9S开启预售，宣称其电动车续航里程高达1,100公里，达到全球领先水平。",
+      "link": "https://electrek.co/2026/08/03/byd-opens-denza-z9s-pre-orders-record-1100-km-ev-range/"
+    },
+    {
+      "title": "Hyundai is about to launch the IONIQ 3, and it plans to sell over 40,000 in 2027",
+      "summary": "现代汽车即将推出全新电动车型IONIQ 3，并设定了2027年超过4万辆的销售目标。",
+      "link": "https://electrek.co/2026/08/03/hyundai-40000-ioniq-3-evs-2027/"
+    },
+    {
+      "title": "Volvo's New EX50 Will Be A Sub-$50,000 Tesla Model Y Fighter: Report",
+      "summary": "报告指出沃尔沃新款电动SUV EX50售价将低于5万美元，旨在直接对标特斯拉Model Y，争夺市场份额。",
+      "link": "https://insideevs.com/news/803575/volvo-ex50-electric-crossover-spa3-platform-tesla-rival/"
+    },
+    {
+      "title": "‘Largest Supply Disruption In History’: High Oil Prices Drove Record EV Sales In 50 Countries",
+      "summary": "高油价成为推动全球50个国家电动汽车销量创纪录的主要因素，显示了EV市场与传统能源价格的强关联性。",
+      "link": "https://insideevs.com/news/803381/ev-sales-records-50-countries-high-gas-prices/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
+      "summary": "特斯拉FSD v14 Lite版本被指导致部分HW3硬件系统故障率上升，引发车主对兼容性与稳定性的担忧。",
+      "link": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/"
+    },
+    {
+      "title": "The U.S. Army’s New Unmanned Ground Vehicle Is An Extended-Range EV",
+      "summary": "美国陆军推出新型无人地面车辆（UGV），该平台具备增程电动能力，预示智能驾驶在军事领域的拓展。",
+      "link": "https://insideevs.com/news/803554/us-army-ugv-erev-plug-in-hybrid/"
+    },
+    {
+      "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
+      "summary": "现代N系列电动车通过软件算法和底盘调校，在共享硬件平台的基础上，实现了独特的驾驶体验，凸显软件定义汽车的潜力。",
+      "link": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n/"
+    }
+  ],
+  "政策法规": [],
+  "国际车企": [
+    {
+      "title": "Mercedes Boss Says The Auto Industry Went 'Too Far' With Removing Buttons",
+      "summary": "梅赛德斯CEO表示汽车行业在取消实体按钮上“走得太远”，计划重新引入“最合理的按钮”，反思智能化内饰设计。",
+      "link": "https://insideevs.com/news/803618/mercedes-too-far-buttons-removed/"
+    },
+    {
+      "title": "Tesla Breaking Off Its China Business? Musk Calls It 'Absurdly Fake News'",
+      "summary": "埃隆·马斯克驳斥了关于特斯拉可能分拆其中国业务的报道，称其为“荒谬的假新闻”，强调了中国市场对特斯拉的重要性。",
+      "link": "https://insideevs.com/news/803408/musk-china-us-split-fake/"
+    },
+    {
+      "title": "Ford CEO Thinks Chinese EVs Could Hit The U.S. Within 5 To 10 Years: Report",
+      "summary": "福特CEO吉姆·法利预测，中国电动汽车可能在未来5到10年内进入美国市场，预示着国际汽车市场竞争格局的重大变化。",
+      "link": "https://insideevs.com/news/803284/ford-china-evs-5-years/"
+    }
+  ]
+}
