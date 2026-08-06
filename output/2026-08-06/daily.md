@@ -1,0 +1,73 @@
+# 汽车行业日报 2026-08-06
+
+## 今日核心趋势
+
+1. 全球电动汽车市场竞争白热化与区域化策略显现
+2. 自动驾驶商业化进程提速伴随技术稳定性考验
+3. 新能源汽车产业受政策与基础设施建设双重影响
+
+---
+## 新能源
+
+1. **Tesla Megapacks power Ørsted’s big new Texas grid battery**
+   特斯拉Megapack电池用于为Ørsted在德克萨斯州的大型电网电池项目供电，凸显特斯拉在公用事业规模储能领域的角色。
+   https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/
+
+2. **EVgo-branded Tesla Superchargers are coming**
+   EVgo将开始在其充电站安装特斯拉超级充电桩，今年秋季启动，充电功率可达500 kW，进一步扩大电动汽车充电网络。
+   https://electrek.co/2026/08/05/evgo-branded-tesla-superchargers-are-coming/
+
+3. **The 2027 Toyota bZ Woodland EV starts at $45,000 with AWD**
+   丰田宣布其2027款bZ Woodland电动车起价为45,000美元，并配备全轮驱动，公布了即将推出的电动车型定价细节。
+   https://electrek.co/2026/08/05/2027-toyota-bz-woodland-prices-45000-awd/
+
+4. **Lucid Delays Cosmos EV To 2027 As Part Of Turnaround Plan**
+   Lucid将其Cosmos电动车推迟至2027年发布，作为其扭亏为盈计划的一部分，强调产品准备就绪的重要性而非仓促上市，反映了电动汽车生产中的挑战。
+   https://insideevs.com/news/803792/lucid-midsize-ev-production-2027/
+
+5. **Nissan Wants You To Relax With Its New Electric Camper Van That Fits 4 And Packs 408-Mile Range**
+   日产与Eifelland合作推出“Relax”电动露营车，配备87 kWh电池，续航里程达408英里，瞄准日益增长的电动休闲车市场。
+   https://insideevs.com/news/803631/nissan-electric-camper-van-relax/
+
+## 智能驾驶
+
+1. **Zoox's Autonomous Pod Without A Steering Wheel Wants Your Money Now**
+   Zoox宣布将从8月10日起开始对其无方向盘自动驾驶舱收取乘车费用，标志着其机器人出租车服务商业化迈出重要一步。
+   https://insideevs.com/news/803923/zoox-allowed-charge-robotaxi-rides/
+
+2. **Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat**
+   部分特斯拉车主报告称，新的FSD V14 Lite更新导致其车载电脑过热，凸显了高级自动驾驶系统在软件与硬件集成方面潜在的挑战。
+   https://insideevs.com/news/803866/tesla-autopilot-computer-fsd-overheating/
+
+## 政策法规
+
+1. **Trump claims electric car drivers have a ‘disease’**
+   唐纳德·特朗普发表争议言论，称电动汽车驾驶员患有“疾病”，可能影响公众对电动汽车的看法以及未来的政策辩论。
+   https://electrek.co/2026/08/05/trump-mocks-evs-mandate-claim-las-vegas-rally/
+
+2. **Trump weaponizes FCC to ban new foreign-made connected solar inverters**
+   据报道，特朗普政府正利用FCC禁止新的外国制造的联网太阳能逆变器，这预示着可再生能源领域可能出现贸易保护主义和供应链转移。
+   https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/
+
+3. **Tesla is suing this Canadian province for cutting it out of its EV incentives**
+   特斯拉正在起诉一个加拿大省份，因其将特斯拉排除在电动汽车激励计划之外，这表明电动汽车制造商与地方政府在支持政策方面的争议。
+   https://electrek.co/2026/08/05/tesla-sues-manitoba-ev-rebate-ban/
+
+4. **Oregon's EV Rebates Are Back. Here's How To Get Up To $7,500**
+   俄勒冈州重新启动其电动汽车补贴计划，最高可提供7,500美元，这有助于抵消联邦税收抵免的减少，表明州级层面继续支持电动汽车的普及。
+   https://insideevs.com/news/803824/oregon-ev-rebate-2026/
+
+## 国际车企
+
+1. **BYD undercuts luxury rivals with its first 7-seat premium MPV in the UK**
+   比亚迪在英国推出首款七座高端MPV，旨在削弱豪华竞争对手的地位，预示其积极的国际扩张和竞争性定价策略。
+   https://electrek.co/2026/08/05/byd-undercuts-luxury-rivals-first-7-seat-mpv-uk/
+
+2. **GM will begin shipping electric Buick vehicles from China overseas, starting with this SUV**
+   通用汽车计划开始将中国制造的别克电动SUV出口到海外市场，这突显了全球电动汽车制造和供应链的转变。
+   https://electrek.co/2026/08/05/gm-buick-evs-china-overseas-suv/
+
+3. **Kia’s electric van is crushing it in Europe with a 37% share of small EV van sales**
+   起亚电动面包车在欧洲市场表现出色，占据小型电动面包车销量的37%份额，显示出商用电动汽车的强劲需求。
+   https://electrek.co/2026/08/05/kia-pv5-captures-37-europes-small-ev-van-market/
+
