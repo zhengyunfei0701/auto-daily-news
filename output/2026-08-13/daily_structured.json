@@ -1,0 +1,85 @@
+{
+  "trends": [
+    "全球电动汽车市场呈现区域性增长差异，并伴随价格策略调整与市场竞争加剧。",
+    "电动汽车充电基础设施的持续完善及用户续航焦虑的解决，正成为推动EV市场普及的关键。",
+    "智能驾驶技术在推广应用中面临用户责任界定、安全合规性及监管审查的挑战。"
+  ],
+  "新能源": [
+    {
+      "title": "Global EV sales rose in July – except in North America",
+      "summary": "全球电动汽车销量在7月份有所增长，但北美市场却呈现例外，显示出市场发展的区域性差异。",
+      "link": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Mercedes-C-Class-EV-front-1.jpg"
+    },
+    {
+      "title": "US EV prices are going back up as discounts shrink",
+      "summary": "随着电动汽车折扣的减少，美国电动汽车的价格正在回升，反映市场供需关系和定价策略的变化。",
+      "link": "https://electrek.co/wp-content/uploads/sites/3/2025/09/Honda-Prologue-best-sales.jpeg"
+    },
+    {
+      "title": "BYD’s new electric sedan is the size of a Tesla Model 3, but half the price",
+      "summary": "比亚迪推出一款尺寸与特斯拉Model 3相似但价格减半的电动轿车，显示出市场竞争的激烈和成本控制的优势。",
+      "link": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-new-Seal-06.jpeg"
+    },
+    {
+      "title": "EVgo + GM open 350 kW flagship charging for EVs with trailers",
+      "summary": "EVgo与通用汽车合作开设了350 kW的旗舰充电站，特别支持带有拖车的电动汽车，提升了充电基础设施的适用性。",
+      "link": "https://electrek.co/wp-content/uploads/sites/3/2026/08/meijer-warren-flagship-canopy.jpg"
+    },
+    {
+      "title": "Trump is right: EV range anxiety is a disease – THIS is how we cure it!",
+      "summary": "文章讨论了电动汽车续航里程焦虑的普遍性及其解决方案，强调了解决用户痛点对EV普及的重要性。",
+      "link": "https://electrek.co/wp-content/uploads/sites/3/2026/08/highway_sign.jpg"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "'It's Always Your Fault': Kyle Shanahan's Tesla Was On Autopilot When He Crashed. He Still Blames Himself",
+      "summary": "旧金山49人队教练在使用特斯拉Autopilot时发生事故，并自我归责，突显了自动驾驶系统下驾驶员责任的复杂性。",
+      "link": "https://insideevs.com/news/804420/49ers-coach-crash-tesla-autopilot/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "As EV sales, oil costs and temperatures spike, UK gov’t considers… fewer EVs?",
+      "summary": "在电动汽车销量、油价和气温飙升背景下，英国政府正在考虑调整其电动汽车目标，可能意味着政策方向的变化。",
+      "link": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Ford-free-EV-chargers-offer-UK.jpeg"
+    },
+    {
+      "title": "Tesla Recalls 20,000 Cars Over Uber-Bright Headlights",
+      "summary": "特斯拉因部分车辆车灯过亮而召回20,000辆汽车，显示了产品安全和合规性在市场监管中的重要性。",
+      "link": "https://insideevs.com/news/804520/tesla-recall-20k-bright-headlights/"
+    },
+    {
+      "title": "Tesla Burned Through Its California EV Rebate Funds In Just Five Days",
+      "summary": "加州新推出的电动汽车补贴在五天内被特斯拉车辆购买者迅速用尽，反映了市场对补贴政策的强烈响应。",
+      "link": "https://insideevs.com/news/804405/tesla-runs-out-of-california-ev-rebates/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Mitsubishi Taps iPhone Manufacturer For its Next EV",
+      "summary": "三菱汽车与iPhone制造商合作开发其下一款电动汽车ASX VR-e，展示了汽车行业跨界合作以加速电动化进程的趋势。",
+      "link": "https://insideevs.com/news/804706/iphone-foxtron-australia-mitsubishi-asx/"
+    },
+    {
+      "title": "Cadillac Will Give Escalade IQ Buyers Rolls-Royce-Style Customization for an Extra $54,995",
+      "summary": "凯迪拉克将为Escalade IQ的买家提供劳斯莱斯风格的豪华定制服务，强调高端电动车市场的个性化和奢华体验。",
+      "link": "https://insideevs.com/news/804540/cadillac-escalade-iq-curated-customization/"
+    },
+    {
+      "title": "Jaguar Type 01 Interior Revealed: No Rear Window, No Rear-View Mirror, And ‘Hidden’ Tech",
+      "summary": "捷豹Type 01电动豪华旅行车的内饰曝光，其无后窗、无后视镜等创新设计预示着未来汽车设计的突破。",
+      "link": "https://insideevs.com/news/804578/jaguar-type-01-ev-interior-reveal/"
+    },
+    {
+      "title": "The Ford Fathom Will Get a $25,000 Hybrid Crossover Sibling: Report",
+      "summary": "福特据报将推出一款售价约为25,000美元的混合动力跨界车，表明车企在电动化转型中也在探索更经济实惠的混合动力方案。",
+      "link": "https://insideevs.com/news/804399/ford-fathom-hybrid-crossover/"
+    },
+    {
+      "title": "Here's A Mechanic's Take On The Subaru Trailseeker",
+      "summary": "一位机械师对斯巴鲁Trailseeker进行了深入评估，并将其与丰田BZ Woodland进行对比，提供了专业角度的车型分析。",
+      "link": "https://insideevs.com/news/804734/subaru-trailseeker-mechanic-walkthrough/"
+    }
+  ]
+}
