@@ -1,0 +1,85 @@
+{
+  "trends": [
+    "电动汽车市场竞争白热化，尤其是在经济型车型领域，通过降价和推出新车型争夺市场份额。",
+    "智能驾驶技术加速商业化落地，同时面临安全与监管挑战，需要更完善的测试框架和公众信任。",
+    "传统与新兴汽车制造商在电动化转型中寻求战略合作（如充电标准统一）和通过差异化（如高端定制、创新设计）进行市场竞争。"
+  ],
+  "新能源": [
+    {
+      "title": "Every 2027 GM EV will plug directly into Tesla Superchargers",
+      "summary": "通用汽车宣布，从2027年起，旗下所有电动汽车将直接兼容特斯拉超级充电站，推动充电基础设施的标准化和普及。",
+      "link": "electrek.co"
+    },
+    {
+      "title": "BYD launches the Qin Max EV for half the price of a Tesla Model 3",
+      "summary": "比亚迪推出秦Max EV，其价格约为特斯拉Model 3的一半，进一步加剧了经济型电动汽车市场的价格竞争。",
+      "link": "electrek.co"
+    },
+    {
+      "title": "Hyundai starts building the IONIQ 3, its affordable electric hatch",
+      "summary": "现代汽车开始生产IONIQ 3，这是一款经济实惠的电动掀背车，旨在扩大其电动汽车产品线并吸引更广泛的消费者。",
+      "link": "electrek.co"
+    },
+    {
+      "title": "Kia announces EV3 prices for the US and Canada as its most affordable EV",
+      "summary": "起亚公布了EV3在美国和加拿大的价格，作为其最经济实惠的电动汽车，进一步拓展了入门级电动车市场。",
+      "link": "electrek.co"
+    },
+    {
+      "title": "Tesla’s ‘Flying Roadster’ May Debut This Month Alongside A Street Legal Version",
+      "summary": "有消息称特斯拉第二代Roadster有望在本月亮相，并可能配备SpaceX开发的推进器，预示着电动汽车性能和技术的突破。",
+      "link": "https://insideevs.com/news/804993/tesla-flying-roadster-spacex-thrusters/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Waymo wins California approval to expand robotaxis across 18 counties",
+      "summary": "Waymo获得加州批准，将其自动驾驶出租车服务扩展到18个县，标志着自动驾驶商业化运营的重大进展。",
+      "link": "electrek.co"
+    },
+    {
+      "title": "Here's How Zoox's Robotaxi Safety Testing Will Work",
+      "summary": "Zoox获准向客户收取自动驾驶出租车费用后，发布了详细的安全测试框架，强调了自动驾驶技术安全性的重要性。",
+      "link": "https://insideevs.com/news/804737/zoox-robotaxi-safety-testing-framwork/"
+    },
+    {
+      "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
+      "summary": "批评者认为特斯拉将FSD系统游戏化可能存在安全隐患，引发了对自动驾驶系统用户激励方式的争议。",
+      "link": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs?",
+      "summary": "英国政府正在考虑调整其电动汽车政策，尽管电动汽车销量、油价上涨和野火事件频发，可能影响电动车推广进程。",
+      "link": "electrek.co"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "The Porsche Taycan’s Days May Be Numbered: Report",
+      "summary": "有报道称保时捷计划到2030年逐步淘汰Taycan车型，这表明即使是成功的电动车型也面临产品周期和市场迭代压力。",
+      "link": "https://insideevs.com/news/805004/porsche-taycan-days-numbered-report/"
+    },
+    {
+      "title": "NJ Dealer Claims Polestar Intentionally Quit The U.S. With Government Ban As Cover Up",
+      "summary": "新泽西经销商声称Polestar退出美国市场是蓄谋已久，并以政府禁令作掩护，揭示了国际品牌在特定市场面临的挑战和策略。",
+      "link": "https://insideevs.com/news/804851/nj-dealer-suing-polestar-coverup/"
+    },
+    {
+      "title": "Mitsubishi Taps iPhone Manufacturer For its Next EV",
+      "summary": "三菱汽车与iPhone制造商合作，为其下一款电动跨界车ASX VR-e生产，体现了传统车企通过跨界合作加速电动化转型的趋势。",
+      "link": "https://insideevs.com/news/804706/iphone-foxtron-australia-mitsubishi-asx/"
+    },
+    {
+      "title": "Cadillac Will Give Escalade IQ Buyers Rolls-Royce-Style Customization for an Extra $54,995",
+      "summary": "凯迪拉克将为Escalade IQ的买家提供劳斯莱斯风格的定制服务，旨在提升其在豪华电动车市场的竞争力。",
+      "link": "https://insideevs.com/news/804540/cadillac-escalade-iq-curated-customization/"
+    },
+    {
+      "title": "Jaguar Type 01 Interior Revealed: No Rear Window, No Rear-View Mirror, And ‘Hidden’ Tech",
+      "summary": "捷豹Type 01电动GT的内饰曝光，其激进设计理念（无后窗、无后视镜）展示了品牌在电动化时代对汽车内饰和用户体验的创新尝试。",
+      "link": "https://insideevs.com/news/804578/jaguar-type-01-ev-interior-reveal/"
+    }
+  ]
+}
