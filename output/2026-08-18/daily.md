@@ -1,0 +1,81 @@
+# 汽车行业日报 2026-08-18
+
+## 今日核心趋势
+
+1. 电动汽车市场竞争白热化，中国品牌向上突破，价格与高端配置并重。
+2. 智能驾驶商业化进程加速，但面临严格监管和安全伦理挑战。
+3. 国际车企加速电动化转型，关注可持续发展和品牌差异化，产品策略不断调整。
+
+---
+## 新能源
+
+1. **BYD’s electric supercar beats Porsche on both speed and price [Video]**
+   比亚迪海豹电动超级跑车在速度和价格上超越保时捷，展示中国电动车企在高端市场的竞争力。
+   https://electrek.co/
+
+2. **2027 Hyundai IONIQ 5 prices revealed, starting at $35,000**
+   2027款现代IONIQ 5售价公布，起价35,000美元，预示主流电动车市场价格竞争的加剧。
+   https://electrek.co/
+
+3. **Kia’s range-topping $46,000 EV3 GT electric SUV looks even better in person**
+   起亚EV3 GT电动SUV售价46,000美元，其设计和性能引发关注，进一步丰富了电动SUV市场选择。
+   https://electrek.co/
+
+4. **The world’s biggest EV battery maker says all 20 plants are carbon neutral**
+   全球最大电动汽车电池制造商宣布所有20家工厂实现碳中和，凸显电动汽车产业链在可持续发展方面的努力。
+   https://electrek.co/
+
+5. **BYD’s cheapest EV spotted with an upgraded interior and a single large display screen**
+   比亚迪入门级电动车被发现内饰升级，配备大尺寸显示屏，表明入门级电动车在配置水平上的提升。
+   https://electrek.co/
+
+## 智能驾驶
+
+1. **Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG**
+   特斯拉Robotaxi车队规模扩大50%，同时Einride获得新的合作伙伴，中国市场在智能驾驶领域也取得重大进展。
+   https://electrek.co/
+
+2. **Tesla’s Cybercab is about to launch — and we don’t get it**
+   特斯拉的Cybercab即将推出，但其市场定位和策略引发了一些困惑和讨论。
+   https://electrek.co/
+
+3. **Here's How Zoox's Robotaxi Safety Testing Will Work**
+   Zoox获批对Robotaxi收取费用后，公布了详细的安全测试框架，强调了智能驾驶商业化运营中的安全规范。
+   https://electrek.co/
+
+4. **Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak**
+   特斯拉将FSD系统游戏化引发批评，凸显了对智能驾驶系统使用方式和潜在风险的担忧。
+   https://electrek.co/
+
+## 政策法规
+
+1. **Nevada caps Tesla’s Vegas ‘Robotaxi’ fleet at 10 — it asked for 5,000**
+   内华达州将特斯拉在拉斯维加斯的Robotaxi车队规模限制在10辆，远低于特斯拉申请的5,000辆，显示监管部门对智能驾驶商业化部署的谨慎态度。
+   https://electrek.co/
+
+2. **NJ Dealer Claims Polestar Intentionally Quit The U.S. With Government Ban As Cover Up**
+   新泽西州经销商声称Polestar有意退出美国市场，并以政府禁令作为掩护，揭示了国际车企在不同市场运营中的复杂性。
+   https://electrek.co/
+
+## 国际车企
+
+1. **Who Needs Leather? Bentley's First EV Will Offer Merino Wool Seats**
+   宾利的首款电动汽车将提供美利奴羊毛座椅，体现豪华品牌在电动化转型中对可持续材料和创新材料的选择。
+   https://electrek.co/
+
+2. **Critics Slammed Ferrari's Luce EV. Someone Just Paid $40 Million For The First One**
+   尽管法拉利Luce电动车受到批评，其首款车型仍以4000万美元的价格成交，显示出高端电动车市场的独特吸引力。
+   https://electrek.co/
+
+3. **Tesla’s Mainstream Model Y Gets A Feature Hyundai EVs Have Had For Years**
+   特斯拉Model Y引入了现代电动汽车已具备多年的外部供电功能，反映了电动汽车功能普及和车企间的竞争与借鉴。
+   https://electrek.co/
+
+4. **This Chinese Electric SUV Just Recreated Mercedes’ Most Controversial Ad**
+   一款中国电动SUV模仿了梅赛德斯最具争议的广告，可能暗示中国车企在营销和技术展示方面的策略和自信。
+   https://electrek.co/
+
+5. **The Porsche Taycan’s Days May Be Numbered: Report**
+   报道称保时捷计划在2030年前逐步淘汰Taycan电动车，预示着保时捷电动产品线的调整和更新换代策略。
+   https://electrek.co/
+
