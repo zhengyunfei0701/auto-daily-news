@@ -1,0 +1,90 @@
+{
+  "trends": [
+    "新能源汽车技术边界持续拓宽，产品多元化及性价比成为市场焦点。",
+    "智能驾驶技术进展面临实际落地挑战与消费者信任考验。",
+    "新能源汽车产业生态日趋成熟，跨界融合与可持续发展成核心驱动。"
+  ],
+  "新能源": [
+    {
+      "title": "The 2027 Toyota bZ is now on sale: Here’s how much it costs",
+      "summary": "丰田2027款bZ电动车型已上市销售，并公布了其详细价格，标志着主流车企在EV市场的持续投入。",
+      "link": "https://electrek.co/2026/08/18/2027-toyota-bz-now-on-sale-how-much-it-costs/"
+    },
+    {
+      "title": "BYD’s new 5-seat electric SUV has a range of over 1,000 km and 5-minute charging",
+      "summary": "比亚迪推出了一款新的五座电动SUV，拥有超过1000公里续航里程和5分钟快速充电能力，展现了领先的电池和充电技术。",
+      "link": "https://electrek.co/2026/08/18/byds-new-5-seat-electric-suv-range-over-1000-km/"
+    },
+    {
+      "title": "Einride to deploy 500 Tesla Semis in biggest electric truck order yet",
+      "summary": "Einride公司宣布将部署500辆特斯拉电动卡车，这是迄今为止最大的电动卡车订单，推动了商用电动车队的规模化应用。",
+      "link": "https://electrek.co/2026/08/18/einride-500-tesla-semi-deployment-largest-order/"
+    },
+    {
+      "title": "Hyundai IONIQ 5’s base price goes up $250 for 2027, but it still starts at just $35,250",
+      "summary": "2027款现代IONIQ 5的基础售价上涨250美元，但仍以35,250美元的起售价保持竞争力。",
+      "link": "https://electrek.co/2026/08/18/hyundai-ioniq-5-prices-rise-250-2027-starting-35250/"
+    },
+    {
+      "title": "Tesla’s Mainstream Model Y Gets A Feature Hyundai EVs Have Had For Years",
+      "summary": "特斯拉Model Y高端车型现在提供电源对外输出适配器，这是现代电动汽车已提供多年的车外供电功能，显示EV功能普及化。",
+      "link": "https://insideevs.com/news/805116/tesla-model-y-premium-v2l-us-power-appliances/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla owner says DIY upgrade to HW4 was easy… so why isn’t Tesla doing it?",
+      "summary": "一位特斯拉车主成功自行将车辆升级至HW4硬件，引发了关于特斯拉为何不官方提供此类升级服务的讨论。",
+      "link": "https://electrek.co/2026/08/18/tesla-owner-says-diy-upgrade-to-hw4-was-easy-so-why-isnt-tesla-doing-it/"
+    },
+    {
+      "title": "Tesla ‘Robotaxi’ rams through bollards weeks after ‘impeccable’ claim",
+      "summary": "在宣称其性能“无可挑剔”数周后，一辆特斯拉“Robotaxi”撞上了路障，引发了对其自动驾驶可靠性的质疑。",
+      "link": "https://electrek.co/2026/08/18/tesla-robotaxi-rams-through-bollards-austin/"
+    },
+    {
+      "title": "Volkswagen EV drivers gain Digital Key access through Samsung Wallet",
+      "summary": "大众电动汽车车主现在可以通过三星钱包使用数字钥匙功能，提升了车辆的便捷性和智能互联体验。",
+      "link": "https://electrek.co/2026/08/18/volkswagen-ev-drivers-gain-digital-key-access-samsung-wallet/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Just 10% of California’s EVs could provide 9 GW of grid power",
+      "summary": "研究表明，加州仅10%的电动汽车就能为电网提供9吉瓦的电力，突显了电动汽车在能源系统中的巨大潜力。",
+      "link": "https://electrek.co/2026/08/18/just-10-percent-of-californias-evs-could-provide-9-gw-of-grid-power/"
+    },
+    {
+      "title": "The Results Are In: Scrapping Your Gas Car For An EV Is Better For The Climate",
+      "summary": "一项最新研究证实，用一辆新的电动汽车取代燃油车对气候更有利，支持了电动汽车在环保方面的优势。",
+      "link": "https://insideevs.com/news/805222/scrapping-ice-for-ev-study/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Xiaomi's First EV Just Hit A Massive Milestone",
+      "summary": "手机制造商小米推出的首款电动汽车取得了重大里程碑，标志着其在汽车行业取得了显著成功。",
+      "link": "https://insideevs.com/news/805236/xiaomi-su7-500k-delivered-months/"
+    },
+    {
+      "title": "Who Needs Leather? Bentley's First EV Will Offer Merino Wool Seats",
+      "summary": "宾利的首款电动汽车将提供美利奴羊毛座椅和回收木材饰边，彰显了豪华品牌在可持续材料方面的创新。",
+      "link": "https://insideevs.com/news/805231/bentley-torcal-sustainable-merino-wool/"
+    },
+    {
+      "title": "Critics Slammed Ferrari's Luce EV. Someone Just Paid $40 Million For The First One",
+      "summary": "尽管法拉利Luce EV受到批评，但首辆Luce EV仍以4000万美元的价格被拍卖，且所得款项未归法拉利所有。",
+      "link": "https://insideevs.com/news/805132/ferrari-luce-ev-record-auction/"
+    },
+    {
+      "title": "This Chinese Electric SUV Just Recreated Mercedes’ Most Controversial Ad",
+      "summary": "东风汽车旗下的岚图梦想家电动SUV据称重现了奔驰2010年最具争议的广告，展现了中国车企在营销上的大胆尝试。",
+      "link": "https://insideevs.com/news/804955/chinese-ev-voyah-tunnel-loop-stunt/"
+    },
+    {
+      "title": "The Porsche Taycan’s Days May Be Numbered: Report",
+      "summary": "有报道称保时捷计划在2030年前逐步淘汰Taycan电动车型，但此消息尚未得到官方证实。",
+      "link": "https://insideevs.com/news/805004/porsche-taycan-days-numbered-report/"
+    }
+  ]
+}
