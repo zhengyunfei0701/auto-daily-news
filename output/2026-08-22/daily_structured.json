@@ -1,0 +1,85 @@
+{
+  "trends": [
+    "全球电动汽车供应链和市场扩张加速，跨国制造与销售成为新常态，例如奥迪中国制造电动车出口欧洲，以及Aptera等车企寻求海外生产伙伴。",
+    "电动汽车充电基础设施与电池技术持续演进，聚焦效率、续航与安全创新，包括大功率充电网络部署和固态电池、安全储能技术的发展。",
+    "电动汽车安全与智能功能面临日益严格的监管审查，促使车企提升产品合规性与可靠性，如中国市场针对驾驶员监控和应急门把手设计的大规模召回。"
+  ],
+  "新能源": [
+    {
+      "title": "特斯拉宣布停产Solar Roof，因不具备经济可行性",
+      "summary": "特斯拉已决定停产其Solar Roof太阳能屋顶瓦片，承认该产品在当前市场环境下不具备经济可行性，这标志着其能源业务战略的调整。",
+      "link": "https://example.com/tesla-solar-roof-discontinued"
+    },
+    {
+      "title": "沃尔玛400kW电动汽车充电网络已覆盖100家门店",
+      "summary": "零售巨头沃尔玛宣布，其400kW快速充电网络已扩展至全美100家门店，显著提升了电动汽车充电基础设施的覆盖范围和便利性。",
+      "link": "https://example.com/walmart-ev-charging-network"
+    },
+    {
+      "title": "美国首家新型工厂有望提升电网电池安全性",
+      "summary": "一家开创性的美国工厂正在建设中，旨在生产更安全的电网储能电池，这预示着电池技术在安全性和可靠性方面的新突破，对电动汽车行业亦有借鉴意义。",
+      "link": "https://example.com/us-grid-battery-safety"
+    },
+    {
+      "title": "吉利测试续航超1000公里固态电池，或将应用于沃尔沃车型",
+      "summary": "吉利汽车正在测试一款续航里程超过621英里（约1000公里）的固态电池技术，有望彻底解决里程焦虑，并可能率先应用于旗下的沃尔沃品牌车型。",
+      "link": "https://example.com/geely-solid-state-battery"
+    },
+    {
+      "title": "宝马中国市场iX3 50L单次充电续航达640英里",
+      "summary": "宝马专为中国市场打造的iX3 50L车型在实际测试中实现了一次充电续航640英里（约1030公里）的惊人表现，展现了电动汽车在续航能力上的巨大进步。",
+      "link": "https://example.com/bmw-ix3-range-test"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "特斯拉在中国召回超200万辆汽车，增设驾驶员监控功能",
+      "summary": "特斯拉在中国市场召回超过200万辆汽车，以通过软件更新增设驾驶员监控功能，旨在提升自动辅助驾驶系统的安全性与合规性。",
+      "link": "https://example.com/tesla-recall-driver-monitoring-china"
+    },
+    {
+      "title": "特斯拉Cybercab发布在即，预示未来自动驾驶出行新模式",
+      "summary": "特斯拉Cybercab即将发布，这一创新性的自动驾驶出租车项目有望重塑城市出行格局，推动L4及以上级别自动驾驶技术的商业化落地。",
+      "link": "https://example.com/tesla-cybercab-launch"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "中国监管机构召回数百万辆电动汽车，原因系机械门把手难找",
+      "summary": "中国监管机构因电动汽车的机械门把手在紧急情况下难以找到，对数百万辆电动汽车发起召回，强调了车辆紧急逃生设计的重要性。",
+      "link": "https://example.com/china-ev-recall-door-handles"
+    },
+    {
+      "title": "特斯拉在中国召回近300万辆汽车，存在车门逃生风险",
+      "summary": "特斯拉因其车辆车门存在紧急情况下逃生风险，在中国召回了近300万辆汽车，凸显了监管部门对车辆被动安全性的严格要求。",
+      "link": "https://example.com/tesla-recall-door-escape-china"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "特斯拉确认Semi电动卡车将登陆欧洲市场，IAA展会揭幕",
+      "summary": "特斯拉证实其Semi电动重卡即将进入欧洲市场，并计划在IAA国际车展上进行展示，标志着特斯拉在全球商用车电动化领域的进一步扩张。",
+      "link": "https://example.com/tesla-semi-europe"
+    },
+    {
+      "title": "Genesis GV90亮相，打造豪华移动休息室概念",
+      "summary": "豪华品牌Genesis发布GV90车型，其设计理念着重于提供极致奢华的内部空间和类似休息室的乘坐体验，重新定义了高端电动汽车的内部配置标准。",
+      "link": "https://example.com/genesis-gv90-luxury-lounge"
+    },
+    {
+      "title": "菲亚特Topolino进军美国高尔夫球车市场",
+      "summary": "菲亚特Topolino这款迷你电动车型正在积极开拓美国高尔夫球车市场，以其独特的产品定位和环保属性，对现有市场格局构成挑战。",
+      "link": "https://example.com/fiat-topolino-golf-cart"
+    },
+    {
+      "title": "奥迪中国制造电动车将进入欧洲市场，价格低于本地车型",
+      "summary": "奥迪决定将其在中国生产的电动汽车出口至欧洲市场，并且售价可能低于欧洲本土生产的同类车型，预示着全球汽车产业链布局的深刻变化和价格竞争的加剧。",
+      "link": "https://example.com/audi-china-ev-europe"
+    },
+    {
+      "title": "Aptera透露其太阳能电动车在中国制造的秘诀",
+      "summary": "美国初创公司Aptera披露，其太阳能电动汽车的制造关键在于与中国的设计制造公司合作，以加速生产并实现其创新太阳能电动车型的量产目标。",
+      "link": "https://example.com/aptera-solar-ev-china-manufacturing"
+    }
+  ]
+}
