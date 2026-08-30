@@ -1,0 +1,95 @@
+{
+  "trends": [
+    "电动化进程深化与多元化：新能源汽车市场持续扩张，新车型和充电基础设施快速发展，传统与新兴车企均在加速电动化布局。",
+    "智能驾驶技术加速落地与应用拓展：自动配送机器人、高级驾驶辅助系统（ADAS）等智能驾驶技术正从概念走向实际应用，提升了物流效率和行车安全性。",
+    "行业监管趋严与产品安全关注：随着电动汽车市场规模扩大，产品召回事件频发，以及针对新型交通工具的法规出台，表明监管机构对产品质量和安全性的重视持续提高。"
+  ],
+  "新能源": [
+    {
+      "title": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
+      "summary": "报道称‘Spiaggia Lucciola Elettrica’品牌电动车取得了13%的充电效率提升，暗示新能源车充电技术的新进展。",
+      "link": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/"
+    },
+    {
+      "title": "Porsche Cayenne Turbo EV first drive: Most Powerful Porsche ever … is an SUV",
+      "summary": "保时捷推出了其有史以来最强大的电动SUV Cayenne Turbo EV，标志着高性能电动汽车市场的进一步扩展。",
+      "link": "https://electrek.co/2026/08/28/porsche-cayenne-turbo-ev-first-drive-most-powerful-porsche-ever-is-an-suv/"
+    },
+    {
+      "title": "Hyundai is launching a new electric SUV that will sit above the IONIQ 5",
+      "summary": "现代汽车将推出一款定位高于IONIQ 5的全新电动SUV，进一步丰富其电动车型产品线。",
+      "link": "https://electrek.co/2026/08/28/hyundai-launching-new-electric-suv-sit-above-ioniq-5/"
+    },
+    {
+      "title": "BYD Is Building Its Ultra-Fast Flash Charging Network At A Ferocious Pace",
+      "summary": "比亚迪正以惊人的速度建设其超快速闪充网络，目前已达到10,000个充电站，其中三分之一用户非比亚迪车主。",
+      "link": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers/"
+    },
+    {
+      "title": "BMW Just Hit 2 Million EVs Sold, And The iX3 Is Carrying The Team",
+      "summary": "宝马电动汽车销量已达200万辆，其中iX3车型贡献突出，展现了传统车企在电动化转型中的里程碑。",
+      "link": "https://insideevs.com/news/806293/bmw-two-million-evs-sold/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Robot delivery dog dumps hot steaming packages on your doorstep [video]",
+      "summary": "一款机器人配送狗成功完成包裹投递，展示了机器人技术在物流末端配送领域的应用潜力。",
+      "link": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/"
+    },
+    {
+      "title": "Podcast: Tesla Cybercab launch, Cybertruck prices rise, VW launch electric camper, and more",
+      "summary": "播客讨论了特斯拉Cybercab的推出，暗示了其在自动驾驶出租车领域的未来布局。",
+      "link": "https://electrek.co/2026/08/28/podcast-tesla-cybercab-launch-cybertruck-prices-rise-vw-launch-electric-camper-and-more/"
+    },
+    {
+      "title": "How The Volvo EX60 EV Can 'See' Deer Around Corners Through A New Update",
+      "summary": "沃尔沃EX60电动车通过软件更新，可实现提前感知弯道后的障碍物（如鹿和行人），提升智能驾驶安全性能。",
+      "link": "https://insideevs.com/news/806189/volvo-ex60-see-around-corners/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Illinois just made 40 mph e-bikes street legal – but there’s a huge catch",
+      "summary": "伊利诺伊州将时速40英里/小时的电动自行车合法化，但存在重要限制，反映了对新兴交通工具的法规适应性调整。",
+      "link": "https://electrek.co/2026/08/29/illinois-just-made-40-mph-e-bikes-street-legal-but-theres-a-huge-catch/"
+    },
+    {
+      "title": "Kia is recalling over 21,000 EV9 SUVs over a faulty airbag issue",
+      "summary": "起亚因安全气囊问题召回超过2.1万辆EV9 SUV，凸显了电动车上市后质量控制和安全法规的重要性。",
+      "link": "https://electrek.co/2026/08/28/kia-is-recalling-over-21000-ev9-suvs-over-a-faulty-airbag-issue/"
+    },
+    {
+      "title": "Lucid Recalls 27,185 Air Sedans Over Fire Risk, Tells Owners To Park Outside",
+      "summary": "Lucid因火灾风险召回27,185辆Air轿车，并建议车主将车停在室外，但声称可通过OTA更新修复，引发对OTA召回有效性的关注。",
+      "link": "https://insideevs.com/news/806421/lucid-fire-risk-recall-27k/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Rivian's CFO Is Leaving The Company",
+      "summary": "Rivian首席财务官Claire McDonough离职，正值公司加速R2车型销售之际，引发对其财务战略变动的关注。",
+      "link": "https://insideevs.com/news/806319/rivian-cfo-claire-mcdonough-exit/"
+    },
+    {
+      "title": "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next.",
+      "summary": "大众将ID. Buzz改装成电动露营车ID. California Cruise，并将进入美国市场，展示了车企在电动车细分市场的创新。",
+      "link": "https://insideevs.com/news/806460/volkswagen-id-buzz-ev-van-camper/"
+    },
+    {
+      "title": "Hyundai’s New Santa Fe Will Go Electric And Keep The Gas Tank",
+      "summary": "现代汽车的新款Santa Fe将推出插电式混合动力（PHEV）版本，并在美国工厂生产，显示了其多样化的电气化战略。",
+      "link": "https://insideevs.com/news/806181/hyundai-santa-fe-erev-600-miles-of-range/"
+    },
+    {
+      "title": "Aptera's Solar-Powered EV Can Go 47 Miles On Sun Power Alone—In Theory",
+      "summary": "Aptera的太阳能电动车理论上仅靠太阳能即可行驶47英里，其独立测试结果进一步验证了太阳能汽车的潜力。",
+      "link": "https://insideevs.com/news/806299/aptera-ev-solar-range/"
+    },
+    {
+      "title": "Here Are Some Of The Biggest Changes On The New Chevy Bolt",
+      "summary": "雪佛兰新款Bolt电动车将迎来重大改进，尽管生产周期有限，但其升级预示着通用在入门级电动车市场的持续投入。",
+      "link": "https://insideevs.com/news/806215/new-chevy-bolt-changes/"
+    }
+  ]
+}
