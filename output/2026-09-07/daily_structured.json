@@ -1,0 +1,90 @@
+{
+  "trends": [
+    "全球电动化进程深入，并向商用和工业领域扩展",
+    "智能驾驶技术加速迭代，但面临监管和用户接受度挑战",
+    "地缘政治和贸易政策对全球汽车市场格局的影响日益显著"
+  ],
+  "新能源": [
+    {
+      "title": "三一重工上月交付大量电动卡车和装载机",
+      "summary": "三一重工在一个月内交付了200辆电动运输卡车和600辆电动轮式装载机，显示商用电动化进展。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "现代经销商收取高额电动汽车充电费",
+      "summary": "底特律一家现代汽车经销商对电动汽车充电收取400美元的费用，引发对充电服务成本的关注。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "嘉能可全电动萨德伯里铜矿达到新里程碑",
+      "summary": "嘉能可在其全电动萨德伯里铜矿项目中取得新进展，展示了工业领域电动化的潜力。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "英国电动汽车上月成为最畅销动力总成",
+      "summary": "上个月电动汽车占英国汽车市场30%的份额，成为英国最畅销的动力总成类型。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "特斯拉Model 3和Model Y在10万英里后的续航里程衰减",
+      "summary": "一项研究显示，特斯拉Model 3和Model Y在行驶近10万英里后，电池续航里程的衰减情况。",
+      "link": "link_unavailable"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Cybercab能否改变出行方式？",
+      "summary": "关于特斯拉Cybercab是否会彻底改变移动出行方式，或仅仅是另一款汽车的讨论和调查。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "Cybercab发布会留下更多疑问",
+      "summary": "特斯拉Cybercab的发布活动引发了比解答更多的问题，尤其是在其创新设计和实际应用方面。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "Rivian通过软件更新为R1系列带来新功能",
+      "summary": "Rivian为其R1S和R1T车型推出了最新的软件更新，免费为现有用户带来了多项新功能。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "特斯拉FSD在布鲁塞尔的驾驶表现",
+      "summary": "一次特斯拉FSD在布鲁塞尔复杂交通中的驾驶体验，总体顺利，但仍有特定情况需要人工介入。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "特斯拉Cybercab无传统刹车系统的工作原理",
+      "summary": "特斯拉Cybercab采用没有刹车管线或刹车液的创新制动系统，其制动方式备受关注。",
+      "link": "link_unavailable"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "特斯拉Cybercab因无方向盘遭调查",
+      "summary": "特斯拉Cybercab因其无方向盘的设计，在发布数小时后便受到联邦机构的调查。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "汽车制造商敦促美国国会禁止中国汽车进入美国市场",
+      "summary": "美国主要的汽车行业游说团体呼吁国会阻止中国汽车进入美国市场，理由是贸易不公平。",
+      "link": "link_unavailable"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "中国电动汽车在Euro NCAP测试中表现出色",
+      "summary": "广汽、吉利和零跑等中国电动汽车品牌在欧洲NCAP安全测试中取得优异成绩，打破了质量神话。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "Jeep Wagoneer EREV生产延迟6个月",
+      "summary": "报告显示，Jeep Wagoneer EREV（增程式电动汽车）的生产将推迟6个月至11月开始。",
+      "link": "link_unavailable"
+    },
+    {
+      "title": "比亚迪电动Kei Car在日本试驾表现出色",
+      "summary": "比亚迪的电动Kei Car在日本进行试驾，被认为非常适合当地市场，空间宽敞舒适。",
+      "link": "link_unavailable"
+    }
+  ]
+}
