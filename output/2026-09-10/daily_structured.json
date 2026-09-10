@@ -1,0 +1,95 @@
+{
+  "trends": [
+    "电动汽车市场竞争加剧与策略调整：随着消费者对电动汽车兴趣的提升和充电基础设施的完善，市场竞争日益激烈，车企正通过价格策略、产品多元化和创新销售模式来刺激需求和争夺市场份额。",
+    "智能驾驶技术安全与商业化探索并行：高级辅助驾驶系统（ADAS）在不断发展，其安全性与责任归属持续引发关注。同时，车企正积极探索智能座舱体验升级和Robotaxi等自动驾驶商业化应用，以期拓宽服务边界。",
+    "全球电动车供应链与贸易政策复杂化：围绕电动车及电池产业链的国际贸易摩擦和地缘政治因素显著增加，各国政府的政策干预和市场准入条件正深刻影响国际车企的战略布局和全球供应链的稳定。"
+  ],
+  "新能源": [
+    {
+      "title": "US solar can now power 50M homes – and red states led the boom",
+      "summary": "美国太阳能发电能力显著增长，目前可为5000万家庭供电，其中红色州在这一增长中发挥了主导作用，反映了可再生能源基础设施的快速扩展。",
+      "link": "https://electrek.co/2026/09/09/483577/"
+    },
+    {
+      "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
+      "summary": "Yozma电动迷你越野摩托车及EcoFlow便携式储能设备推出大幅优惠，表明电动个人出行工具和便携储能市场的活跃与促销策略。",
+      "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/"
+    },
+    {
+      "title": "EVgo is adding 400+ fast chargers where you grocery shop",
+      "summary": "EVgo计划在杂货店附近新增400多个快速充电桩，旨在提升充电便利性，进一步推动电动汽车普及和解决里程焦虑。",
+      "link": "https://electrek.co/2026/09/09/evgo-is-adding-400-fast-chargers-where-you-grocery-shop/"
+    },
+    {
+      "title": "BYD cuts Denza Z9 GT EV prices with the new e3 Premium trim, starting at about $50,000",
+      "summary": "比亚迪通过推出新的e3 Premium版本降低了腾势Z9 GT电动车的价格，起售价约为5万美元，反映了电动车市场竞争日益激烈和价格战趋势。",
+      "link": "https://electrek.co/2026/09/09/byd-cuts-denza-z9-gt-ev-prices-new-50000-premium-trim/"
+    },
+    {
+      "title": "LG’s Experimental LMR Battery Retained 92% Capacity After 883 Cycles",
+      "summary": "LG的实验性LMR电池在883次循环后仍保持92%的容量，通过改变充放电方式解决了耐用性问题，预示电池技术在成本和性能上的突破。",
+      "link": "https://insideevs.com/news/807675/lg-seoul-lmr-battery-research/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display",
+      "summary": "捷尼赛思GV90将车内空间打造成私人豪华影院，配备可弹出式24.6英寸显示屏，展示高端电动车在智能座舱和用户体验方面的创新。",
+      "link": "https://electrek.co/2026/09/09/genesis-gv90-luxury-theater-pop-up-24-6-screen/"
+    },
+    {
+      "title": "Data confirms Autopilot/FSD was active in crash that killed a mother, passerby saved her baby",
+      "summary": "数据证实，在导致一名母亲死亡的事故中，特斯拉的Autopilot/FSD系统处于激活状态，再次引发对高级辅助驾驶系统安全性和责任归属的讨论。",
+      "link": "https://electrek.co/2026/09/09/tesla-driver-assist-road-departure-vinemont/"
+    },
+    {
+      "title": "Tesla May Offer You A Robotaxi Instead Of A Service Loaner",
+      "summary": "特斯拉可能在维修期间为车主提供Robotaxi作为代步车，展示其在自动驾驶商业化和客户服务方面的创新尝试。",
+      "link": "https://insideevs.com/news/807664/tesla-robotaxi-loaner-service-cybercab/"
+    },
+    {
+      "title": "Tesla Cybercab's Backup Steering Wheel Is A Giant On-Screen Joystick",
+      "summary": "特斯拉Cybercab的备用方向盘被设计成一个巨大的屏幕操纵杆，展示了特斯拉在未来自动驾驶车辆内饰设计和人机交互方面的激进创新。",
+      "link": "https://insideevs.com/news/807539/tesla-cybercab-hidden-screen-controls/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Senator claims Trump may open US market to Chinese EVs in Xi deal",
+      "summary": "一位参议员声称，特朗普可能在一项与习近平达成的协议中向中国电动汽车开放美国市场，这将对国际汽车贸易和市场竞争格局产生重大影响。",
+      "link": "https://electrek.co/2026/09/09/slotkin-trump-chinese-evs-us-market-xi-deal/"
+    },
+    {
+      "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company",
+      "summary": "特朗普政府对福特与中国电池公司的合作表示“深感不安”，呼吁福特停止与中国企业合作，凸显了中美在电动车供应链上的地缘政治紧张。",
+      "link": "https://insideevs.com/news/807596/ford-china-trump-administration-catl/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Toyota is recalling 10,000 electric C-HR SUVs",
+      "summary": "丰田正在召回1万辆C-HR电动SUV，表明即使是成熟车企在电动车产品方面也可能面临质量和安全挑战。",
+      "link": "https://electrek.co/2026/09/09/toyota-recalling-10000-electric-c-hr-suvs/"
+    },
+    {
+      "title": "Here’s our first look at Nissan’s new entry-level Pixo EV [Images]",
+      "summary": "日产推出了全新入门级Pixo电动汽车，旨在扩大其电动车产品线，满足更广泛的市场需求，体现了主流车企的电动化战略。",
+      "link": "https://electrek.co/2026/09/09/first-look-nissans-new-entry-level-pixo-ev-images/"
+    },
+    {
+      "title": "Kia’s electric van now comes in 10 top hats, including a 7-seater and an upscale Prime model",
+      "summary": "起亚推出多种车身配置的电动货车，包括7座和高端Prime车型，显示出车企在电动商用和多功能车领域的细分市场策略。",
+      "link": "https://electrek.co/2026/09/09/kias-electric-van-10-top-hats-7-seater/"
+    },
+    {
+      "title": "Check Out The Ferrari Luce EV's New Look",
+      "summary": "法拉利Luce电动车展示新外观，标志着豪华跑车品牌向电动化转型并在设计上探索新方向。",
+      "link": "https://insideevs.com/news/807731/ferrari-luce-vossen-wheels/"
+    },
+    {
+      "title": "Audi Wants To Sweeten Your EV Lease Buyout Deal With Up to $10,000 Off",
+      "summary": "奥迪为电动车租赁客户提供最高1万美元的折扣，以鼓励他们购买租赁期满的电动车，表明车企在促进电动车保有量和二手市场方面的努力。",
+      "link": "https://insideevs.com/news/807589/audi-ev-lease-buyout-incentive/"
+    }
+  ]
+}
