@@ -1,0 +1,59 @@
+{
+  "trends": [
+    "EV charging and battery technology continue rapid advancement, focusing on speed, convenience, and specialized applications.",
+    "Sustainability in the EV lifecycle gains prominence, with increasing efforts in battery recycling and circular economy practices.",
+    "Global automakers intensify EV product diversification and market expansion, signaling a broad industry shift towards electrification."
+  ],
+  "新能源": [
+    {
+      "title": "Tesla reopens Roadster reservations ahead of October 1 unveil",
+      "summary": "Tesla has restarted reservations for its $50,000 Roadster, with an unveiling event scheduled for October 1, signaling a renewed focus on its high-performance electric sports car.",
+      "link": "N/A"
+    },
+    {
+      "title": "Sunwoda joins flash charging race with 10-97% SOC in 9 minutes",
+      "summary": "Chinese battery maker Sunwoda demonstrates ultra-fast charging capability, achieving 10-97% State of Charge in just 9 minutes, pushing boundaries in EV charging technology.",
+      "link": "N/A"
+    },
+    {
+      "title": "Porsche puts wireless EV charging into production",
+      "summary": "Porsche has officially launched wireless EV charging into production, marking a significant step towards more convenient and innovative charging solutions for electric vehicles.",
+      "link": "N/A"
+    },
+    {
+      "title": "CATL reveals new semi-truck battery, advancing 'Swaptopus' concept",
+      "summary": "CATL is developing new batteries for semi-trucks, moving closer to the 'Swaptopus' concept which implies advanced modular or swappable battery solutions for commercial vehicles.",
+      "link": "N/A"
+    },
+    {
+      "title": "Porsche pioneers battery recycling to produce new cathodes from recycled materials",
+      "summary": "Porsche, in collaboration with partners, is creating a closed-loop system by recycling end-of-life batteries to manufacture new cathodes, emphasizing sustainability in EV production.",
+      "link": "N/A"
+    }
+  ],
+  "智能驾驶": [],
+  "政策法规": [
+    {
+      "title": "US Congress advances bill mandating AM radio in EVs",
+      "summary": "A bill has passed the House requiring all vehicles sold in America, including EVs, to include AM radio, sparking debate over consumer choice and regulatory mandates.",
+      "link": "N/A"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Cadillac’s go-fast electric SUV arrives makes its way Down Under",
+      "summary": "Cadillac's performance-oriented electric SUV is expanding its market presence by launching in Australia, indicating global expansion strategies for luxury EV brands.",
+      "link": "N/A"
+    },
+    {
+      "title": "Rivian R2 configurator now offers new exterior shades and interior options",
+      "summary": "Rivian has updated the R2 configurator with new exterior color options and a lighter interior, enhancing customization choices for its mid-size electric SUV.",
+      "link": "N/A"
+    },
+    {
+      "title": "Volvo plans 13 new cars this decade in major product offensive, including EVs and hybrids",
+      "summary": "Volvo is embarking on its most significant product expansion, introducing 13 new models this decade, encompassing both new EVs and latest-generation hybrids, signaling a comprehensive lineup revamp.",
+      "link": "N/A"
+    }
+  ]
+}
