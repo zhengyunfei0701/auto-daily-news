@@ -1,0 +1,60 @@
+{
+  "trends": [
+    "电动汽车市场竞争加剧，聚焦成本效益与技术突破并存。",
+    "电动汽车产业地域扩张与本地化生产趋势显著。",
+    "智能驾驶和用户体验成为车企差异化竞争的关键。"
+  ],
+  "新能源": [
+    {
+      "title": "Geely one-ups BYD with 2.2MW charger, allowing 4-minute EV charges",
+      "summary": "吉利推出2.2MW充电桩，大幅缩短电动汽车充电时间，凸显充电技术的激烈竞争。",
+      "link": "https://electrek.co/2026/09/21/geely-one-ups-byd-with-2-2mw-charger-allowing-4-minute-ev-charges/"
+    },
+    {
+      "title": "Ceer unveils its EXOBOT EVs, Saudi Arabia’s first electric SUV and sedan",
+      "summary": "沙特阿拉伯首款本土电动汽车——Ceer EXOBOT电动SUV和轿车亮相，标志着新兴区域市场和本土生产的崛起。",
+      "link": "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+    },
+    {
+      "title": "BYD’s $10,000 EV has a big sibling on the way",
+      "summary": "比亚迪正准备推出其超经济型电动车的更大尺寸伴侣车型，预示着高性价比电动车型将持续扩张。",
+      "link": ""
+    },
+    {
+      "title": "Volkswagen’s new ID. Cross brings a more affordable electric SUV to the lineup",
+      "summary": "大众汽车通过推出ID. Cross扩大其电动ID.系列，旨在提供更亲民、更经济实惠的电动SUV选择。",
+      "link": "https://electrek.co/2026/09/21/volkswagen-adds-more-affordable-id-cross-electric-suv/"
+    },
+    {
+      "title": "CATL’s New Batteries Target American Pickups. They Could Be Made In The U.S.",
+      "summary": "宁德时代正开发专为美国皮卡设计的新电池，并探讨通过许可方式在美国本土生产，以适应区域市场需求和贸易政策。",
+      "link": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla Cybercab Inherited One Of The Most Annoying Things About Owning A Tesla",
+      "summary": "特斯拉的Cybercab自动驾驶出租车据报道出现持续的导航问题，与特斯拉车主长期以来的抱怨如出一辙。",
+      "link": "https://insideevs.com/news/808696/tesla-cybercab-navigation-problems-issues/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Congress Advances Bill That Would Force Your EV To Have AM Radio",
+      "summary": "一项已通过众议院的法案旨在强制要求美国销售的所有新车（包括电动汽车）配备AM收音机，可能影响汽车设计和成本。",
+      "link": "https://insideevs.com/news/808694/federal-am-radio-mandate-bill/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Tesla goes to trial over racism claims against Black workers at ‘plantation’",
+      "summary": "特斯拉因工厂内针对黑人员工的种族歧视指控面临审判，引发了对公司文化和法律合规性的担忧。",
+      "link": "https://electrek.co/2026/09/21/tesla-racism-trial-california-fremont-black-workers/"
+    },
+    {
+      "title": "Tesla Wants $50,000 Deposits For A Roadster Nobody Has Seen Yet",
+      "summary": "特斯拉正在为其尚未发布的Roadster征集高达50,000美元的预付款，这是一种针对高端车型的激进预售策略。",
+      "link": "https://insideevs.com/news/808999/tesla-roadster-orders-reopen-50000/"
+    }
+  ]
+}
