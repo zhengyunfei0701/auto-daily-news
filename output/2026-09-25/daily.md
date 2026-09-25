@@ -1,0 +1,81 @@
+# 汽车行业日报 2026-09-25
+
+## 今日核心趋势
+
+1. 电动汽车市场持续细分与技术创新加速：全球电动汽车市场正从产品普及阶段迈向多元化发展，涵盖从城市通勤到商用重卡的细分市场，同时电池技术（如固态电池）和续航能力正持续突破，混合动力也作为过渡方案受到青睐。
+2. 智能驾驶技术面临严格的安全性与合规性审查：随着自动驾驶系统在真实场景中的应用增多，其安全性缺陷和潜在风险引发了监管机构的密切关注与调查，要求企业在技术推广的同时，必须满足更高的安全标准和法律法规要求。
+3. 传统国际车企在电动化转型中面临挑战并探索新增长点：传统汽车巨头在向电动化转型的过程中，面临生产、供应链和市场准入等多重挑战（如产品延迟），同时也在积极投资前沿技术和探索如车载娱乐等新的商业模式以适应行业变革。
+
+---
+## 新能源
+
+1. **奔驰获得ProLogium第四代固态电动汽车电池优先使用权**
+   奔驰在电池技术方面取得进展，获得ProLogium下一代固态EV电池的优先供应。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/Mercedes-solid-state-EV-battery.jpeg?quality=82&strip=all&w=1400
+
+2. **比亚迪发布“更大”海鸥EV官图，即将亮相**
+   比亚迪（BYD）发布了其“更大”的海鸥EV车型首批官方图片，预示其即将亮相市场，丰富其电动汽车产品线。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/BYD-new-Seagull-EV-first-images.jpeg?quality=82&strip=all&w=1400
+
+3. **特斯拉Semi电动卡车即将发布，首批客户已确定**
+   特斯拉公布其Semi电动卡车即将上市的预告，并宣布了首批客户，显示商用电动车市场正逐步成熟。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/tesla-semi-customer-logos-nevada-factory.jpg?quality=82&strip=all&w=1600
+
+4. **美国混合动力汽车销量创纪录，非丰田品牌销量激增**
+   美国消费者正在以创纪录的速度购买混合动力汽车，且市场不再仅由丰田主导，其他品牌也在迅速崛起。
+   
+
+5. **奥迪电动汽车创吉尼斯世界纪录：一次充电行驶831英里**
+   一辆奥迪电动汽车在不充电的情况下行驶831英里，刷新了吉尼斯世界纪录，展示了EV续航能力的显著提升。
+   
+
+## 智能驾驶
+
+1. **特斯拉FSD在布鲁塞尔超速，引发欧盟监管关注**
+   在欧盟投票前，特斯拉FSD在布鲁塞尔部分限速区内出现超速，引发对其自动驾驶系统安全性及合规性的担忧。
+   https://electrek.co/wp-content/uploads/sites/3/2026/07/Tesla-FSD-Speed-ticket-hero.jpeg?quality=82&strip=all&w=1333
+
+2. **NHTSA调查comma.ai的openpilot系统，涉及致命事故**
+   美国国家公路交通安全管理局（NHTSA）对comma.ai的openpilot辅助驾驶系统展开正式调查，涉及5起造成3人死亡的事故。
+   https://electrek.co/wp-content/uploads/sites/3/2016/11/comma-one-teaser.png?w=1600
+
+3. **Waymo称其自动驾驶系统已避免841起伤害**
+   Waymo报告称，其自动驾驶车辆在行驶2.71亿英里中，成功避免了841起可能导致人员受伤的事故，强调了其安全记录。
+   https://electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-2025.jpg?quality=82&strip=all&w=1400
+
+## 政策法规
+
+1. **特斯拉FSD在布鲁塞尔超速，引发欧盟监管关注**
+   在欧盟投票前，特斯拉FSD在布鲁塞尔部分限速区内出现超速，引发对其自动驾驶系统安全性及合规性的担忧，可能促使更严格的政策出台。
+   https://electrek.co/wp-content/uploads/sites/3/2026/07/Tesla-FSD-Speed-ticket-hero.jpeg?quality=82&strip=all&w=1333
+
+2. **NHTSA调查comma.ai的openpilot系统，涉及致命事故**
+   美国国家公路交通安全管理局（NHTSA）对comma.ai的openpilot辅助驾驶系统展开正式调查，涉及5起造成3人死亡的事故，凸显自动驾驶技术安全监管的重要性。
+   https://electrek.co/wp-content/uploads/sites/3/2016/11/comma-one-teaser.png?w=1600
+
+3. **Rivian R2首次召回，涉及摄像头安全问题**
+   Rivian R2车型收到首次召回通知，涉及近9.9万辆Rivian汽车，原因是摄像头相关安全问题，强调了新车质量控制与法规合规的重要性。
+   
+
+## 国际车企
+
+1. **大众ID. Buzz电动厢式车在美上市再次推迟**
+   大众汽车再次推迟其电动厢式车ID. Buzz在美国市场的上市时间，可能反映了供应链、认证或市场策略调整。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/Volkswagen-ID-Buzz-delayed-US.jpeg?quality=82&strip=all&w=1400
+
+2. **奔驰获得ProLogium第四代固态电动汽车电池优先使用权**
+   奔驰在电池技术方面取得进展，获得ProLogium下一代固态EV电池的优先供应，旨在保持其在高端电动车市场的竞争力。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/Mercedes-solid-state-EV-battery.jpeg?quality=82&strip=all&w=1400
+
+3. **比亚迪发布“更大”海鸥EV官图，即将亮相**
+   比亚迪（BYD）发布了其“更大”的海鸥EV车型首批官方图片，预示其即将亮相市场，显示其持续扩展全球电动车产品线的策略。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/BYD-new-Seagull-EV-first-images.jpeg?quality=82&strip=all&w=1400
+
+4. **特斯拉Semi电动卡车即将发布，首批客户已确定**
+   特斯拉公布其Semi电动卡车即将上市的预告，并宣布了首批客户，标志着其在商用电动车领域的市场布局。
+   https://electrek.co/wp-content/uploads/sites/3/2026/09/tesla-semi-customer-logos-nevada-factory.jpg?quality=82&strip=all&w=1600
+
+5. **大众推车载游戏功能，押注消费者付费意愿**
+   大众汽车计划推出车载游戏功能，允许用户通过智能手机进行游戏，探索新的车内娱乐和增值服务营收模式。
+   
+
