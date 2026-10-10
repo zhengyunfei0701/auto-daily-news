@@ -1,0 +1,80 @@
+{
+  "trends": [
+    "电动汽车市场竞争加剧与价格策略多样化：各车企通过提供折扣或推出更具性价比的车型，以应对日益激烈的市场竞争，并扩大电动汽车的普及率。",
+    "智能驾驶技术命名和推广面临全球法规审查：智能驾驶辅助系统的名称和宣传方式受到不同国家和地区监管机构的严格审查，迫使车企调整营销策略以符合当地法规。",
+    "传统车企电动化转型提速，产品线持续丰富：以大众和宝马为代表的国际传统汽车制造商正积极推出新的电动车型、进行产品升级并拓展市场，加速其电动化布局。"
+  ],
+  "新能源": [
+    {
+      "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+      "summary": "特斯拉正在亚利桑那沙漠建设一个450兆瓦的清洁能源项目，旨在支持其电动汽车生态系统并扩大清洁能源部署。",
+      "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/"
+    },
+    {
+      "title": "Hyundai is offering a 10% discount on the IONIQ 5 and IONIQ 9 EVs",
+      "summary": "现代汽车正在为其IONIQ 5和IONIQ 9电动车型提供10%的折扣，以应对市场竞争并刺激电动汽车销量。",
+      "link": "https://electrek.co/2026/10/09/hyundai-offers-10-discount-ioniq-5-ioniq-9-evs/"
+    },
+    {
+      "title": "Americans want 300 miles of EV range – but most say 75 or less covers their day",
+      "summary": "调查显示，美国消费者对电动汽车续航里程的期望值与日常实际使用需求之间存在差异，指出市场对续航的认知与实际应用之间的鸿沟。",
+      "link": "https://electrek.co/2026/10/09/americans-want-300-miles-of-ev-range-but-most-say-75-or-less-covers-their-day/"
+    },
+    {
+      "title": "BYD launches pre-orders for the new Seagull, a larger version of its popular $10K EV",
+      "summary": "比亚迪推出新款海鸥EV的预售，旨在扩大其经济型电动汽车市场份额，延续其高性价比电动车的战略。",
+      "link": "https://electrek.co/2026/10/09/byd-launches-pre-orders-for-new-seagull-10k-ev-gets-bigger/"
+    },
+    {
+      "title": "The Volkswagen ID. Tiguan Looks Like A Big Upgrade Over The ID.4",
+      "summary": "大众ID.Tiguan在设计和功能上相比ID.4有显著升级，预示着大众新一代电动车型在用户体验上的改进。",
+      "link": "https://insideevs.com/news/811254/vw-id-tiguan-launch-id4/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
+      "summary": "特斯拉因德国监管机构的反对，已在欧洲市场放弃使用“完全自动驾驶（Full Self-Driving）”这一名称，凸显了智能驾驶技术命名和宣传在全球范围内的法规挑战。",
+      "link": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
+      "summary": "德国监管部门的反对促使特斯拉在欧洲停止使用“完全自动驾驶（Full Self-Driving）”的名称，凸显了智能驾驶功能在不同国家面临的法规审查和消费者保护压力。",
+      "link": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/"
+    },
+    {
+      "title": "VW ID.4 Recalled Over Fire Risk, Owners Told Not To Charge Past 80%",
+      "summary": "大众ID.4因电池存在火灾风险被召回，并建议车主充电量不要超过80%，反映了电动汽车安全标准及监管的严格要求。",
+      "link": "https://insideevs.com/news/811244/vw-id4-battery-fire-recall/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Geely Is Officially Coming To Canada",
+      "summary": "吉利汽车宣布计划于2027年以自有品牌进入加拿大市场，开启其在北美地区的市场扩张战略。",
+      "link": "https://insideevs.com/news/811382/geely-canada-launch-2027-plans/"
+    },
+    {
+      "title": "Nissan's New Plug-In Hybrid Pickup Is Part Of A Much Bigger China Trend",
+      "summary": "日产在中国开发的新型插电式混合动力皮卡将走向全球，显示了中国市场在新能源车型研发和全球化战略中的重要影响力。",
+      "link": "https://insideevs.com/news/811236/navara-pro-phev-mexico-world/"
+    },
+    {
+      "title": "Polestar Sales Are Booming. Thank The Country That Just Banned It",
+      "summary": "Polestar销量录得增长，但其在美国以外市场的挑战依然突出，表明全球市场策略复杂性及区域性监管对车企的影响。",
+      "link": "https://insideevs.com/news/811238/polestar-q3-2026-sales-report/"
+    },
+    {
+      "title": "The BMW iX3 M60 Gets 603 Horsepower And Yellow Lights",
+      "summary": "宝马新款电动跨界车iX3 M60将搭载603马力，进一步丰富了豪华品牌高性能电动车型阵营，强化其在电动化领域的布局。",
+      "link": "https://insideevs.com/news/811120/bmw-ix3-m60-603-horsepower-yellow-headlights/"
+    },
+    {
+      "title": "BMW iX5 spotted ahead of US launch, sporting its new Double-X headlights",
+      "summary": "宝马iX5在美国市场发布前被发现，展示了其最新的设计语言和车型迭代，标志着宝马在全球市场的进一步投入。",
+      "link": "https://electrek.co/2026/10/09/bmw-ix5-spotted-ahead-of-us-launch-new-double-x-lights/"
+    }
+  ]
+}
