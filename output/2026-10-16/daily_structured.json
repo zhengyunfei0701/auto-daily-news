@@ -1,0 +1,95 @@
+{
+  "trends": [
+    "全球电动汽车市场格局分化，中国品牌国际化提速并挑战传统车企。",
+    "自动驾驶技术仍面临严峻挑战，车企在推广智能驾驶功能时趋于谨慎，远程操作和可靠性问题突出。",
+    "新型态交通工具概念兴起，飞行汽车等未来出行方案引发关注，但技术可行性与法规合规性仍是关键障碍。"
+  ],
+  "新能源": [
+    {
+      "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
+      "summary": "欧洲电动汽车销量显著增长，而北美市场却大幅下滑44%，显示出全球EV市场区域性差异。",
+      "link": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
+    },
+    {
+      "title": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
+      "summary": "一家为特斯拉改装燃油发动机的公司破产，负债3700万美元，反映了电动化趋势下燃油改装的非主流与风险。",
+      "link": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/"
+    },
+    {
+      "title": "Ford’s Fathom EV pickup spotted again ahead of its upcoming debut",
+      "summary": "福特Fathom电动皮卡再次被发现，预示其即将发布，进一步丰富电动皮卡市场。",
+      "link": "https://electrek.co/2026/10/15/fords-fathom-ev-pickup-spotted-again-ahead-of-debut/"
+    },
+    {
+      "title": "BYD’s electric luxury GT will get a major update for Europe in 2027",
+      "summary": "比亚迪Denza Z9 GT电动豪华轿跑计划于2027年针对欧洲市场进行重大更新，旨在提升竞争力。",
+      "link": "https://electrek.co/2026/10/15/byds-electric-luxury-gt-major-update-europe-2027/"
+    },
+    {
+      "title": "Canadians Are Holding Out For Chinese EVs",
+      "summary": "约48%的加拿大新车购买者在等待中国品牌的电动汽车，表明中国电动车在国际市场上的吸引力。",
+      "link": "https://insideevs.com/news/811996/canadian-ev-buyers-chinese-cars/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Are Tesla’s claims for its new ‘flying’ Roadster real, or is it just full of cold gas?",
+      "summary": "市场质疑特斯拉关于其新款“飞行”Roadster的宣传是否属实，对其“冷气推力”技术表示怀疑。",
+      "link": "https://electrek.co/2026/10/15/an-updated-technical-look-at-teslas-kick-flipping-0-60-in-1s-next-gen-roadster/"
+    },
+    {
+      "title": "Tesla unveils Cyberfied new Roadster that can kickflip",
+      "summary": "特斯拉发布了“赛博化”新款Roadster，宣称其具备“踢翻”等超凡能力。",
+      "link": "https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/"
+    },
+    {
+      "title": "Alef welcomes Tesla to the electric flying car race by flying over the Roadster [Video]",
+      "summary": "电动飞行汽车公司Alef通过展示其飞行汽车飞越Roadster的方式，欢迎特斯拉加入飞行汽车竞争。",
+      "link": "https://electrek.co/2026/10/15/alefs-electric-flying-car-flies-over-tesla-roadster-video/"
+    },
+    {
+      "title": "Rivian limits point-to-point driving to invite-only testers under NDA",
+      "summary": "Rivian将其点对点自动驾驶功能限制给受邀测试者使用，且需签署保密协议，显示出技术推广的谨慎性。",
+      "link": "https://electrek.co/2026/10/15/rivian-point-to-point-early-access-program-nda/"
+    },
+    {
+      "title": "Tesla remote operators keep crashing its ‘Robotaxis,’ data shows",
+      "summary": "数据显示，特斯拉的“Robotaxis”在远程操作下仍频繁发生事故，引发对其自动驾驶系统可靠性的担忧。",
+      "link": "https://electrek.co/2026/10/15/tesla-remote-operators-crashing-robotaxis/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Will The Flying Tesla Roadster Be Street Legal? Elon Musk Won't Say",
+      "summary": "埃隆·马斯克拒绝透露新款飞行版特斯拉Roadster是否符合道路合法性，凸显了新兴技术面临的法规挑战。",
+      "link": "https://insideevs.com/news/812154/tesla-roadster-street-legal-elon-musk/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "New Tesla Roadster Reveal: How To Watch The Livestream",
+      "summary": "特斯拉通过直播展示了新款Roadster超级跑车，其配备冷空气推进器和风扇系统，可实现倒置驾驶。",
+      "link": "https://insideevs.com/news/812012/new-tesla-roadster-reveal-event-livestream/"
+    },
+    {
+      "title": "Chery Is Bringing Its Land Rover Lookalike To The UK",
+      "summary": "中国汽车品牌奇瑞计划将其与路虎卫士外观相似的车型引入英国市场。",
+      "link": "https://insideevs.com/news/812130/chery-land-rover-lookalike-uk/"
+    },
+    {
+      "title": "Xpeng Thinks It Can Outsell Ford In Europe",
+      "summary": "小鹏汽车计划在欧洲市场超越福特汽车的销量，展现出中国车企积极的国际扩张野心。",
+      "link": "https://insideevs.com/news/811969/xpeng-europe-50-percent-sales/"
+    },
+    {
+      "title": "The Electric Porsche Cayenne Just Torched The V8-Powered Audi RS Q8",
+      "summary": "电动版保时捷卡宴在性能上超越了搭载V8发动机的奥迪RS Q8，凸显高端电动SUV的性能优势。",
+      "link": "https://insideevs.com/news/811984/porsche-cayenne-electric-audi-rsq8/"
+    },
+    {
+      "title": "Slate Opened Its First Showroom Where You Can Test Drive Its $24,950 Electric Pickup Truck",
+      "summary": "Slate公司在芝加哥开设首家展厅，供客户试驾其价格为24,950美元的电动皮卡，标志着新势力车企的市场布局。",
+      "link": "https://insideevs.com/news/812128/first-slate-experience-center-chicago/"
+    }
+  ]
+}
