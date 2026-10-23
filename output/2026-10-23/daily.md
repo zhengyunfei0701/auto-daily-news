@@ -1,0 +1,73 @@
+# 汽车行业日报 2026-10-23
+
+## 今日核心趋势
+
+1. 电动汽车充电基础设施与技术正加速发展，关注超快充和城市充电网络部署。
+2. 智能驾驶技术不断成熟并走向商业化，车企在自动驾驶算法、高精地图需求及用户订阅服务方面持续探索，同时高级辅助驾驶功能向多元化扩展。
+3. 全球电动车市场竞争白热化，车企通过发布长续航车型、调整定价策略和优化平台技术，积极应对市场挑战并巩固竞争力。
+
+---
+## 新能源
+
+1. **Another megawatt-level charger enters China: 300 miles in 5 minutes**
+   中国市场引入了兆瓦级充电技术，能在5分钟内为电动车提供300英里（约480公里）续航，大幅提升充电效率。
+   https://example.com
+
+2. **sonnen files for insolvency in Germany as US sales double**
+   能源存储公司sonnen在德国申请破产，尽管其在美国的销售额翻倍，显示出区域市场差异和业务挑战。
+   https://example.com
+
+3. **Seattle plans 200 curbside EV charging stations – and you can request one**
+   西雅图计划安装200个路边电动汽车充电站，并允许市民提出安装请求，以扩大城市充电基础设施覆盖。
+   https://example.com
+
+4. **GM's Next-Generation EV Platform Has 30% Less Wiring And 20% Less Battery**
+   通用汽车透露其第四代电动汽车平台细节，该平台拥有30%的线束减少和20%的电池用量减少，预示着生产效率和成本的优化。
+   https://example.com
+
+## 智能驾驶
+
+1. **Tesla now says it needs its own maps for FSD after years of dismissing maps**
+   特斯拉在多年来轻视地图后，现承认其全自动驾驶（FSD）系统需要自己的地图数据以提升性能。
+   https://example.com
+
+2. **Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America**
+   特斯拉表示，在北美地区，75%的新车购买者选择订阅其每月99美元的全自动驾驶（FSD）软件服务。
+   https://example.com
+
+3. **'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon**
+   特斯拉CEO埃隆·马斯克表示，Cybercab自动驾驶出租车的客户交付将在年底前开始，尽管大部分车辆将由特斯拉拥有。
+   https://example.com
+
+4. **GM Is Adding Its Own Version Of Tesla's Sentry Mode To Cars**
+   通用汽车正在为其车辆添加名为“OnStar Connected Cameras”的功能，该功能类似于特斯拉的Sentry Mode，提供车辆安全监控。
+   https://example.com
+
+## 政策法规
+
+1. **The Midterms Won't Mean Much For EV Policy, Analysts Say**
+   分析师指出，即使民主党赢得国会中期选举，对电动汽车政策的重大改变影响可能有限。
+   https://example.com
+
+## 国际车企
+
+1. **Tesla Q4 numbers, more product delays, and some REAL EV charging innovation**
+   特斯拉公布第四季度数据，产品交付面临更多延迟，但其在电动汽车充电技术方面展现出真正的创新。
+   https://example.com
+
+2. **BYD is about to launch this luxury electric SUV with 623 miles of range**
+   比亚迪即将推出一款续航里程达623英里（约1000公里）的豪华电动SUV，彰显其在高端市场的布局。
+   https://example.com
+
+3. **BMW is already discounting the new iX5 with a $1,000 loyalty bonus**
+   宝马已开始对新款iX5电动车提供1,000美元的忠诚奖金折扣，以刺激销售。
+   https://example.com
+
+4. **Ferrari Luce EV starts at $560,800 in the US, $80K less than expected**
+   法拉利首款电动车Luce在美国起售价为560,800美元，比预期低8万美元，旨在提升其市场竞争力。
+   https://example.com
+
+5. **Kia believes it has a way to beat China’s cheap EVs in Canada**
+   起亚认为它有办法在加拿大市场战胜来自中国的廉价电动汽车，预示着市场竞争策略的调整。
+   https://example.com
+
