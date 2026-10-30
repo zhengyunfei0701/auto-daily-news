@@ -1,0 +1,75 @@
+{
+  "trends": [
+    "电动汽车市场加速细分与平价化趋势明显，厂商积极拓展车型和技术以满足多样化需求。",
+    "传统与新兴车企在电动化转型中面临盈利压力，销量增长与利润率之间存在挑战。",
+    "智能驾驶技术进入实用化与监管并重阶段，技术路线争议与法规监管加强成为焦点。"
+  ],
+  "新能源": [
+    {
+      "title": "BYD spotted testing a new minivan",
+      "summary": "BYD正在测试一款新的电动MPV车型，预示其产品线将进一步拓展。",
+      "link": ""
+    },
+    {
+      "title": "Rivian’s electric van gets 30% more range and AWD, now delivering",
+      "summary": "Rivian的电动商用货车续航里程提升30%并新增四驱功能，已开始交付。",
+      "link": "https://electrek.co/2026/10/29/rivian-electric-van-awd-30-percent-more-range/"
+    },
+    {
+      "title": "Hyundai hints at IONIQ P as the name for its new entry-level EV",
+      "summary": "现代汽车暗示“IONIQ P”可能是其新款入门级电动汽车的名称，旨在扩展平价电动车型市场。",
+      "link": "https://electrek.co/2026/10/29/hyundai-ioniq-p-name-new-entry-level-ev/"
+    },
+    {
+      "title": "Fiat's Tiny $15,000 EV Can Finally Hit American Streets",
+      "summary": "菲亚特售价15,000美元的微型电动车Topolino现已在美国合法上路销售，为城市出行提供经济型选择。",
+      "link": "https://insideevs.com/news/813789/fiat-topolino-finally-street-legal/"
+    },
+    {
+      "title": "Ford CEO Says Its New EV Tech Is 30% More Efficient Than BYD's",
+      "summary": "福特CEO宣称其最新电动汽车技术比比亚迪的效率高出30%，旨在提升能效并降低成本。",
+      "link": "https://insideevs.com/news/813781/ford-byd-motors-30-fathom/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
+      "summary": "前特斯拉Autopilot负责人批评其纯视觉自动驾驶方案，认为应采纳更全面的传感器技术。",
+      "link": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/"
+    },
+    {
+      "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
+      "summary": "特斯拉FSD系统正在欧洲推出，展示了其在复杂路况下的能力，但仍需驾驶员高度监督。",
+      "link": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "South Korean Police Are Cracking Down On Tesla Owners Jailbreaking FSD",
+      "summary": "韩国警方正在打击非法解锁特斯拉FSD功能的车主，强调FSD在韩国的区域性限制。",
+      "link": "https://insideevs.com/news/813617/korea-tesla-fsd-jailbreak-arrests/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Toyota’s EV sales more than doubled in a year, but gas cars are getting crushed in China",
+      "summary": "丰田电动车销量一年内翻倍增长，但其燃油车在中国市场面临巨大压力。",
+      "link": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/"
+    },
+    {
+      "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+      "summary": "Rivian公布2026年第三季度财报，营收增长38%，R2车型成为其最畅销产品。",
+      "link": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/"
+    },
+    {
+      "title": "BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%",
+      "summary": "比亚迪第三季度利润因出口强劲增长28%，但库存也大幅增加了60%。",
+      "link": "https://electrek.co/2026/10/29/byd-q3-2026-earnings-profit-exports-inventory/"
+    },
+    {
+      "title": "Volkswagen's EVs Are Selling Like Crazy. That's Actually Hurting Its Profits",
+      "summary": "大众汽车电动车销量激增，但由于电动车利润率较低，反而对其整体利润造成负面影响。",
+      "link": "https://insideevs.com/news/813762/vw-ev-sales-low-profits/"
+    }
+  ]
+}
