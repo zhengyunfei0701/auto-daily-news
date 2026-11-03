@@ -1,0 +1,77 @@
+# 汽车行业日报 2026-11-03
+
+## 今日核心趋势
+
+1. 全球电动汽车市场竞争白热化，车企聚焦成本效率、制造创新及本土化战略，以实现规模化盈利和市场差异化。
+2. 电动汽车补能与能源管理生态日益完善，充电基础设施加速普及至多场景，同时家用储能与车辆的深度融合成为新趋势。
+3. 智能驾驶技术持续迭代升级，头部车企加紧布局高阶智驾功能，但用户数据隐私保护和法规合规性成为与技术发展并行的重要考量。
+
+---
+## 新能源
+
+1. **bp pulse makes 850+ EV fast chargers easier to use in the US**
+   BP Pulse在美国简化了超过850个电动汽车快速充电桩的使用流程，旨在提升用户体验和充电便利性。
+   https://electrek.co/2026/11/02/bp-pulse-makes-850-ev-fast-chargers-easier-to-use-in-the-us/
+
+2. **Hardee’s gets EV fast charging – with Carl’s Jr. locations to follow**
+   快餐连锁店Hardee's开始在其门店提供电动汽车快速充电服务，预示充电基础设施向更多商业场景渗透。
+   https://electrek.co/2026/11/02/hardees-gets-ev-fast-charging-with-carls-jr-locations-to-follow/
+
+3. **Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat**
+   特斯拉Powerwall 3新增功能，可与热泵协同工作，将廉价太阳能转化为热能储存，优化家庭能源管理。
+   https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/
+
+4. **Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls**
+   电动卡车在中国重型卡车销量中占比达50%，表明商用车辆电动化进程在中国市场加速，并影响传统燃料需求。
+   https://electrek.co/2026/11/02/electric-trucks-50-percent-china-heavy-truck-sales-diesel-demand/
+
+5. **VW’s EV Factory Is Now Taking Cars Apart. There’s Money In It**
+   大众汽车工厂开始拆解电动汽车以回收可重复利用的部件，探索循环经济和二手零件业务的盈利潜力。
+   https://insideevs.com/news/813972/vw-zwickau-dismantling-ev-line/
+
+## 智能驾驶
+
+1. **Ford's Privacy Promise Includes A 'Quasi-80s Mode' To Dumb-Down Connected Cars**
+   福特承诺提供“准80年代模式”，允许车主简化互联汽车功能，以增强对车辆数据收集和隐私的控制。
+   https://insideevs.com/news/814107/ford-privacy-transparency-new-site/
+
+2. **BMW's Tesla FSD Rival Hits City Streets In 2027**
+   宝马计划于2027年推出其城市智能驾驶系统，直接对标特斯拉FSD，预示高阶自动驾驶技术的竞争白热化。
+   https://insideevs.com/news/814101/bmw-level-2-adas-standard/
+
+3. **Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.**
+   特斯拉警告车主不要自行测试紧急驶离功能，但仍有车主尝试并因此产生费用，凸显自动驾驶功能使用中的用户行为与安全风险。
+   https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/
+
+## 政策法规
+
+1. **Ford's Privacy Promise Includes A 'Quasi-80s Mode' To Dumb-Down Connected Cars**
+   福特通过提供隐私模式，积极回应消费者对互联汽车数据收集和个人隐私保护的关注，可能影响行业未来隐私政策制定。
+   https://insideevs.com/news/814107/ford-privacy-transparency-new-site/
+
+2. **Fiat's Tiny $15,000 EV Can Finally Hit American Streets**
+   菲亚特1.5万美元的微型电动车Topolino获准在美国上路销售，表明经济型电动车正逐步获得市场准入。
+   https://insideevs.com/news/813789/fiat-topolino-finally-street-legal/
+
+## 国际车企
+
+1. **The BMW iX is sold out, but you might like what takes its place even more**
+   宝马iX车型已售罄，其替代车型有望进一步吸引市场，显示宝马电动车产品线强劲的市场需求。
+   https://electrek.co/2026/11/02/bmw-ix-sold-out-replacement-better/
+
+2. **Cadillac’s most affordable EV just got a bit cheaper**
+   凯迪拉克最经济实惠的电动车型降价，旨在提升其在竞争日益激烈的电动汽车市场的吸引力与销量。
+   https://electrek.co/2026/11/02/cadillacs-most-affordable-ev-cheaper/
+
+3. **BYD sold more EVs last month than the US did all quarter, topping 300,000**
+   比亚迪上月电动汽车销量突破30万辆，超越美国一季度电动汽车总销量，彰显其在全球市场的领先地位。
+   https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/
+
+4. **Lexus is taking a page from China for its next electric SUV launching in 2027**
+   雷克萨斯为其2027年推出的下一款电动SUV借鉴中国市场设计理念，反映了中国市场对国际车企产品开发的影响力。
+   https://electrek.co/2026/11/02/lexus-takes-page-china-new-ev-launching-2027/
+
+5. **Ford CEO Says Its New EV Tech Is 30% More Efficient Than BYD's**
+   福特CEO声称其新型电动汽车技术比比亚迪效率高30%，强调技术创新是提升成本效益和市场竞争力的关键。
+   https://insideevs.com/news/813781/ford-byd-motors-30-fathom/
+
