@@ -1,0 +1,100 @@
+{
+  "trends": [
+    "电动汽车市场持续增长与多元化发展，涵盖从豪华到微型车，同时二手市场表现活跃。",
+    "智能驾驶技术加速落地并趋于成熟，但车企需更注重法规合规性、用户隐私及安全性。",
+    "汽车行业正从生产制造向全生命周期管理转型，循环经济和成本控制成为新焦点。"
+  ],
+  "新能源": [
+    {
+      "title": "BYD’s flagship luxury EV with 1,000+ km of range hits 4,000 sales in just 19 days",
+      "summary": "比亚迪高端豪华电动汽车续航超1000公里，上市19天销量达4000辆，展现市场对长续航豪华电动车的强劲需求。",
+      "link": "https://electrek.co/2026/11/03/byds-flagship-luxury-ev-sedan-hits-4000-sales-in-19-days/"
+    },
+    {
+      "title": "Used EVs Are Selling Like Hotcakes. The Fastest Movers May Surprise You",
+      "summary": "二手电动汽车市场异常火爆，销量快速增长，显示出消费者对电动车性价比的认可。",
+      "link": "https://insideevs.com/news/814282/used-evs-selling-fast/"
+    },
+    {
+      "title": "BYD’s 3,000-hp EV crashes at about 280 mph — Watch the driver escape unharmed",
+      "summary": "比亚迪3000马力电动汽车以极高速撞车，但驾驶员毫发无伤，凸显了电动车在极端情况下的高安全性。",
+      "link": "https://electrek.co/2026/11/03/byds-ev-crashes-at-280-mph-watch-driver-escape-unharmed/"
+    },
+    {
+      "title": "This electric microcar just got a 50 mph upgrade, plus a secret Turbo mode",
+      "summary": "一款电动微型车获得速度升级至50英里/小时，并新增涡轮模式，预示微型电动车性能提升趋势。",
+      "link": "https://electrek.co/2026/11/03/this-electric-microcar-just-got-a-50-mph-upgrade-plus-a-secret-turbo-mode/"
+    },
+    {
+      "title": "VW’s EV Factory Is Now Taking Cars Apart. There’s Money In It",
+      "summary": "大众电动汽车工厂开始拆解旧车，致力于回收利用，表明车企在电动车生命周期循环经济中的投入。",
+      "link": "https://insideevs.com/news/813972/vw-zwickau-dismantling-ev-line/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
+      "summary": "特斯拉在欧洲将其FSD系统超速容忍度从50%降至10%，反映了智能驾驶系统在不同区域的合规性调整。",
+      "link": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/"
+    },
+    {
+      "title": "BMW's Tesla FSD Rival Hits City Streets In 2027",
+      "summary": "宝马计划于2027年推出与特斯拉FSD竞争的自动驾驶系统，将覆盖城市街道场景，加剧市场竞争。",
+      "link": "https://insideevs.com/news/814101/bmw-level-2-adas-standard/"
+    },
+    {
+      "title": "Ford's Privacy Promise Includes A 'Quasi-80s Mode' To Dumb-Down Connected Cars",
+      "summary": "福特为互联汽车提供“准80年代模式”以保护用户隐私，强调车企对数据隐私的关注。",
+      "link": "https://insideevs.com/news/814107/ford-privacy-transparency-new-site/"
+    },
+    {
+      "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
+      "summary": "特斯拉警告车主不要测试紧急驾驶离去功能，揭示智能驾驶功能测试中的用户行为管理与安全责任问题。",
+      "link": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/"
+    },
+    {
+      "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works",
+      "summary": "特斯拉Cybercab采用革新制造方式，旨在简化生产流程并节省工厂空间，推动未来出行工具的生产效率提升。",
+      "link": "https://insideevs.com/news/813774/tesla-cybercab-factory-munro-live/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Pennsylvania is way ahead on NEVI charging – now comes another $37M",
+      "summary": "宾夕法尼亚州在国家电动汽车基础设施（NEVI）充电网络建设上表现出色，并获得额外的3700万美元资金支持，显示政府对充电设施建设的持续投入。",
+      "link": "https://electrek.co/2026/11/03/pennsylvania-is-way-ahead-on-nevi-charging-now-comes-another-37m/"
+    },
+    {
+      "title": "Volvo Is Getting Crushed In The U.S.",
+      "summary": "沃尔沃在美国市场面临困境，主要受关税和需求不足影响，凸显了贸易政策对国际车企市场表现的重大影响。",
+      "link": "https://insideevs.com/news/813589/volvo-profitability-crisis-us-market/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Hyundai’s electric SUV finds some footing, with IONIQ 5 sales topping 33,000 in 2026",
+      "summary": "现代IONIQ 5电动SUV在2026年销量突破3.3万辆，显示其在电动车市场取得稳固立足点。",
+      "link": "https://electrek.co/2026/11/03/hyundai-ioniq-5-finds-footing-2026-sales-top-33000/"
+    },
+    {
+      "title": "Volkswagen’s affordable ID. Polo wins German Car of the Year 2027 as EVs dominate",
+      "summary": "大众ID. Polo电动车荣获2027年度德国汽车大奖，彰显电动车在欧洲市场的领先地位和大众在电动化转型中的成就。",
+      "link": "https://electrek.co/2026/11/03/volkswagens-id-polo-ev-wins-german-car-of-the-year-2027/"
+    },
+    {
+      "title": "Kia racks up another record month as its new $30K electric SUV hits dealers",
+      "summary": "起亚凭借其新款3万美元电动SUV上市，再次创下月销售记录，表明高性价比电动SUV的市场潜力。",
+      "link": "https://electrek.co/2026/11/03/kia-racks-up-another-record-month-new-30k-ev3-hits-dealers/"
+    },
+    {
+      "title": "Defying Online Backlash, The Ferrari Luce EV Is Already Sold Out Through 2027",
+      "summary": "尽管面临负面评价，法拉利Luce电动车已预售至2027年，证实了超豪华电动车市场的强劲需求。",
+      "link": "https://insideevs.com/news/814280/ferrari-luce-ev-sold-out-for-2027/"
+    },
+    {
+      "title": "Volkswagen Can't Afford Its Upcoming Electric Golf Right Now",
+      "summary": "大众汽车因成本压力，暂停了电动高尔夫的开发，显示传统车企在电动化转型中面临的财务挑战。",
+      "link": "https://insideevs.com/news/813891/volkswagen-id-golf-development-paused-official/"
+    }
+  ]
+}
