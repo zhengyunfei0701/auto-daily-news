@@ -1,0 +1,70 @@
+{
+  "trends": [
+    "电动汽车市场持续高增长与多元化发展，车企积极拓展细分市场并优化成本与制造工艺。",
+    "汽车智能化技术竞争日益深化，但AI热潮正对汽车芯片供应链造成新的压力。",
+    "全球汽车市场竞争加剧，国际车企间的技术、品牌和知识产权摩擦增多。"
+  ],
+  "新能源": [
+    {
+      "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+      "summary": "欧洲电动汽车销量大幅增长49%，推动全球电动汽车市场持续扩张。",
+      "link": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/"
+    },
+    {
+      "title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
+      "summary": "特斯拉在芝加哥交付了50辆Semi电动卡车，标志着其商用电动车业务取得进展。",
+      "link": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/"
+    },
+    {
+      "title": "Toyota and Subaru hit the ‘sweet spot’ with affordable electric SUVs",
+      "summary": "丰田和斯巴鲁专注于经济型电动SUV市场，旨在通过更亲民的价格扩大电动车消费群体。",
+      "link": "https://electrek.co/2026/11/11/toyota-subaru-hit-sweet-spot-affordable-electric-suvs/"
+    },
+    {
+      "title": "BMW Is Embracing Cheaper LFP Batteries For Its Newest EVs",
+      "summary": "宝马正为其最新电动汽车采用更经济的磷酸铁锂（LFP）电池，以平衡续航性能与成本。",
+      "link": "https://insideevs.com/news/814874/bmw-confirms-lfp-batteries-evs/"
+    },
+    {
+      "title": "Ford's Radical New EV Manufacturing Process Is Already Building Trucks",
+      "summary": "福特在其路易斯维尔工厂已开始采用革新的电动车制造工艺生产Fathom电动皮卡，验证其规模化潜力。",
+      "link": "https://insideevs.com/news/814711/ford-first-fathoms-pre-production/"
+    }
+  ],
+  "智能驾驶": [
+    {
+      "title": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
+      "summary": "比亚迪展示了其全新的“云辇”智能车身控制系统，彰显在车辆操控和舒适性方面的技术创新。",
+      "link": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/"
+    },
+    {
+      "title": "The AI Boom Is Making Ordinary Car Parts Harder To Get, Rivian Says",
+      "summary": "Rivian指出，人工智能（AI）热潮正导致普通汽车零部件（特别是存储芯片）供应紧张，影响电动汽车生产。",
+      "link": "https://insideevs.com/news/815180/rivian-chips-memory-rj-scaringe-interview/"
+    },
+    {
+      "title": "The AI Boom Is Creating A New Supply Chain Headache For Automakers",
+      "summary": "AI需求的激增正在转移汽车基础芯片的资源，可能导致汽车行业面临新的半导体短缺风险。",
+      "link": "https://insideevs.com/news/815061/automakers-suppliers-chip-shortage-ai/"
+    }
+  ],
+  "政策法规": [
+    {
+      "title": "Land Rover Is Going After BYD Over This Alleged Defender Lookalike: Report",
+      "summary": "捷豹路虎正就比亚迪旗下某款SUV涉嫌抄袭路虎卫士外观设计一事，对比亚迪发起法律挑战。",
+      "link": "https://insideevs.com/news/814898/byd-raided-jlr-netherlands-legal/"
+    }
+  ],
+  "国际车企": [
+    {
+      "title": "Kia just made history at Germany’s most prestigious auto awards",
+      "summary": "起亚在德国最具声望的汽车奖项中创造历史，彰显其在国际汽车市场日益增长的认可度。",
+      "link": "https://electrek.co/2026/11/11/kia-made-history-germanys-most-prestigious-auto-awards/"
+    },
+    {
+      "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
+      "summary": "保时捷CEO公开评价特斯拉Roadster的“飞行”特技表演，体现了豪华电动车市场中的竞争与品牌立场差异。",
+      "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/"
+    }
+  ]
+}
