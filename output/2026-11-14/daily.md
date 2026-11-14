@@ -1,0 +1,59 @@
+# 汽车行业日报 2026-11-14
+
+## 今日核心趋势
+
+1. EV市场走向多元化与普及化，从经济型到豪华型、从私家车到共享出行，全面加速电动化进程。
+2. 车企在电动车生产和定价策略上进行频繁调整，以应对供应链、成本和市场需求变化，导致部分车型延期或产品线精简。
+3. 自动驾驶技术正从研发走向商业化部署，Robotaxi服务成为车企和科技公司重点推进的商业模式。
+
+---
+## 新能源
+
+1. **BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens**
+   比亚迪推出其全新旗舰唐SUV，作为一款电动汽车，定价极具竞争力，约34,000美元起，并配备了两块大尺寸屏幕。
+   https://electrek.co/2026/10/byd-new-flagship-tang-suv-34000/
+
+2. **Volkswagen may have just hinted at the name of its next affordable EV**
+   大众汽车可能已暗示其下一款经济型电动车的名称，这表明其正在扩大旗下可负担的电动车产品线。
+   https://electrek.co/2026/11/volkswagen-hinted-next-affordable-ev-name/
+
+3. **Tesla stops selling every Cybertruck except the $109,990 Cyberbeast**
+   特斯拉已停止销售除109,990美元的Cyberbeast版本外的所有Cybertruck车型，可能旨在简化生产或专注于高利润车型。
+   https://electrek.co/2026/11/tesla-stops-selling-cybertruck-cyberbeast-only/
+
+4. **Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y**
+   特斯拉已停产其最便宜的全轮驱动Model Y车型，这意味着消费者若想购买AWD版Model Y将需要支付更高价格。
+   https://insideevs.com/news/815395/tesla-model-y-awd-discontinued/
+
+5. **America's Top 3 SUVs Are About To Be Hybrid Or Electric**
+   包括本田CR-V和丰田RAV4在内的美国市场三大畅销SUV正逐步转向仅提供混合动力或纯电动版本，预示着市场电动化趋势的深化。
+   https://insideevs.com/news/815319/honda-crv-hybrid-toyota-rav4-tesla-model-y/
+
+## 智能驾驶
+
+1. **Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones**
+   特斯拉开放了Cybercab的订单，售价29,990美元，外加每月299美元的自动驾驶订阅费，目前仅限Robotaxi运营区域使用。
+   https://electrek.co/2026/11/tesla-cybercab-orders-robotaxi-zones/
+
+2. **The VW ID. Buzz Is Getting A New Job As A Robotaxi**
+   May Mobility计划部署10,000辆无人驾驶大众ID. Buzz作为Robotaxi，标志着自动驾驶共享出行服务的大规模拓展。
+   https://insideevs.com/news/815293/vw-volkswagen-id-buzz-robotaxi/
+
+## 政策法规
+
+暂无数据
+
+## 国际车企
+
+1. **Audi A4 EV Delayed Amid VW Group Financial Troubles: Report**
+   据报道，奥迪A4电动车的生产计划已从2028年推迟，原因在于大众集团内部面临财务困境。
+   https://insideevs.com/news/815433/audi-a4-ev-delayed-report/
+
+2. **Tesla Extends Cybertruck Production Run To Work Through Order Backlog**
+   特斯拉延长了Cybertruck的生产周期以应对积压的订单，这表明市场需求强劲。
+   https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/
+
+3. **Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all**
+   现代汽车正在对Kona车型进行全面改造，并确认其将继续提供电动版本，重申品牌在电动汽车领域的承诺。
+   https://electrek.co/2026/07/hyundai-kona-overhaul-ev-option/
+
